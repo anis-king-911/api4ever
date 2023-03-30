@@ -2,6 +2,8 @@ const express = require('express');
 const app = express();
 const port = 7700;
 
+app.use( express.json() );
+
 const { data } = require('./manga4ever.js');
 
 app.get('/', async (req, res) => {
