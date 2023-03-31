@@ -2,6 +2,11 @@ const express = require('express');
 const app = express();
 const port = 7700;
 
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  next();
+});
+
 const { data } = require('./manga4ever.js');
 
 app.get('/', async (req, res) => {
