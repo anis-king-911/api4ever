@@ -2,8 +2,6 @@ const express = require('express');
 const app = express();
 const port = 7700;
 
-app.use( express.json() );
-
 const { data } = require('./manga4ever.js');
 
 app.get('/', async (req, res) => {
@@ -11,13 +9,11 @@ app.get('/', async (req, res) => {
 })
 
 app.get('/manga', async (req, res) => {
-  const mangaSnapshot = Object.entries(data['MangaList']);
-  res.send(mangaSnapshot);
+  res.send(data['MangaList']);
 })
 
 app.get('/volume', async (req, res) => {
-  const volumeSnapshot = Object.entries(data['VolumeList']);
-  res.send(volumeSnapshot);
+  res.send(data['VolumeList']);
 })
 
 app.listen(port, () => {
