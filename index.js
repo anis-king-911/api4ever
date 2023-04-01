@@ -9,24 +9,26 @@ app.use((req, res, next) => {
 
 const { data } = require('./manga4ever.js');
 
-app.get('/', async (req, res) => {
+app.get('/', (req, res) => {
   res.send(data);
 })
 
-app.get('/manga', async (req, res) => {
+app.get('/manga', (req, res) => {
   res.send(data['MangaList']);
 })
 
 app.get('/manga/:title', (req, res) => {
-  const { title } = req.params;
+  const title = req.params.title;
+  const type = req.query.type;
 
   const snapshot = Object.entries(data['VolumeList']);
-  const wanted = snapshot.filter(([ key, item ]) => item['Title'] === title);
+  const wantedByTitle = snapshot.filter(([ key, item ]) => item['Title'] === title);
+  const wantedByType = wantedByTitle.filter(([ key, item ]) => item['Type'] = type);
 
-  res.send(wanted);
+  res.send(wantedByType);
 })
 
-app.get('/volume', async (req, res) => {
+app.get('/volume', (req, res) => {
   res.send(data['VolumeList']);
 })
 
