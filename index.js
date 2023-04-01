@@ -17,6 +17,15 @@ app.get('/manga', async (req, res) => {
   res.send(data['MangaList']);
 })
 
+app.get('/manga/:title', (req, res) => {
+  const { title } = req.params;
+
+  const snapshot = Object.entries(data['VolumeList']);
+  const wanted = snapshot.filter(([ key, item ]) => item['Title'] === title);
+
+  res.send(wanted);
+})
+
 app.get('/volume', async (req, res) => {
   res.send(data['VolumeList']);
 })

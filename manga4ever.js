@@ -191,9 +191,9 @@ const data = {
       "Type": "Manga"
     },
     "-N6jdRcvSRKHuOs4TNm-": {
-      "Count": 13,
-      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail_100_Years_Quist/Fairy_Tail_100_Years_Vol_13_NL0uy1_61.jpg",
-      "CreationDate": 1532473200000,
+      "Count": 14,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail_100_Years_Quist/Fairy_Tail_100_Years_Vol_14_Ol4oP0gw6.jpg",
+      "CreationDate": 1532469600000,
       "ID": 20,
       "State": "Publishing",
       "Time": 1657583029511,
@@ -582,9 +582,9 @@ const data = {
       "Type": "Manga"
     },
     "-NK3WqqypsVDTDMVcc4T": {
-      "Count": 10,
-      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sakamoto_Days/010_VFs5eVY0K.jpg",
-      "CreationDate": 1605913200000,
+      "Count": 11,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sakamoto_Days/011_YT-EemCFA.webp",
+      "CreationDate": 1605909600000,
       "ID": 59,
       "State": "Publishing",
       "Time": 1668333687945,
@@ -1079,6 +1079,56 @@ const data = {
       "State": "Finished",
       "Time": 1680004977582,
       "Title": "Highschool of the Dead",
+      "Type": "Manga"
+    },
+    "-NRrxtJ2btXnCyafm69U": {
+      "Count": 16,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/16_CBEgwR7lK.webp",
+      "CreationDate": 1580079600000,
+      "ID": 109,
+      "State": "Publishing",
+      "Time": 1680271245259,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "-NRryISV-5gCw2ybwspb": {
+      "Count": 16,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/16_edKSRxwMR.jpg",
+      "CreationDate": 1485644400000,
+      "ID": 110,
+      "State": "Publishing",
+      "Time": 1680271352361,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "-NRujjrbm9hQMHR4UzvC": {
+      "Count": 22,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/21_7JM85KrWKN.jpg",
+      "CreationDate": 1520978400000,
+      "ID": 111,
+      "State": "Finished",
+      "Time": 1680317809483,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "-NRukD5g_P8nNhhhFX03": {
+      "Count": 7,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Orange/07_dOdg0JjIhY.jpg",
+      "CreationDate": 1331593200000,
+      "ID": 112,
+      "State": "Finished",
+      "Time": 1680317933318,
+      "Title": "Orange",
+      "Type": "Manga"
+    },
+    "-NRukRJ7w6UQaGUrxTKr": {
+      "Count": 25,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/25_pudXj1ugY.jpg",
+      "CreationDate": 1145833200000,
+      "ID": 113,
+      "State": "Finished",
+      "Time": 1680317991522,
+      "Title": "Sun-Ken Rock",
       "Type": "Manga"
     }
   },
@@ -18039,6 +18089,374 @@ const data = {
       "ID": 2120,
       "Number": 16,
       "Title": "Mob Psycho 100",
+      "Type": "Manga"
+    },
+    "1680271661427": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/13_Uywl2QY8f.jpg",
+      "CreatedAt": 1680271661427,
+      "ID": 2121,
+      "Number": 13,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680271667919": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/14_aV9rwl_5A.jpg",
+      "CreatedAt": 1680271667919,
+      "ID": 2122,
+      "Number": 14,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680271674418": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/15_7sL7PHfFy.jpg",
+      "CreatedAt": 1680271674418,
+      "ID": 2123,
+      "Number": 15,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680271683727": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/16_JXBw0C45U.jpg",
+      "CreatedAt": 1680271683727,
+      "ID": 2124,
+      "Number": 16,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680271694191": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/17___n9NWGfM.jpg",
+      "CreatedAt": 1680271694191,
+      "ID": 2125,
+      "Number": 17,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680271703151": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/18_NB4BCBPbO.jpg",
+      "CreatedAt": 1680271703151,
+      "ID": 2126,
+      "Number": 18,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680271709363": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/19_0eRFeqgJN.jpg",
+      "CreatedAt": 1680271709363,
+      "ID": 2127,
+      "Number": 19,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680271715830": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/20_7MHvOat93.jpg",
+      "CreatedAt": 1680271715830,
+      "ID": 2128,
+      "Number": 20,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680271785518": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/09_qoKBeUdEX.webp",
+      "CreatedAt": 1680271785518,
+      "ID": 2129,
+      "Number": 9,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680271796718": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/10__bIgdEoRx.webp",
+      "CreatedAt": 1680271796718,
+      "ID": 2130,
+      "Number": 10,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680271804963": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/11_CqBs3AA11.webp",
+      "CreatedAt": 1680271804963,
+      "ID": 2131,
+      "Number": 11,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680271812874": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/12_AQG5l_QpP.webp",
+      "CreatedAt": 1680271812874,
+      "ID": 2132,
+      "Number": 12,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680271821475": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/13_3T-tcpTlM.webp",
+      "CreatedAt": 1680271821475,
+      "ID": 2133,
+      "Number": 13,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680271830476": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/14_y63P_DbSl.webp",
+      "CreatedAt": 1680271830476,
+      "ID": 2134,
+      "Number": 14,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680271888780": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_1_Cover_rvYiFq4BG.png",
+      "CreatedAt": 1680271888780,
+      "ID": 2135,
+      "Number": 1,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680271899557": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_2_Cover_gI9bOTrW6.png",
+      "CreatedAt": 1680271899557,
+      "ID": 2136,
+      "Number": 2,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680271909392": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_3_Cover_QwM3szWA7.png",
+      "CreatedAt": 1680271909392,
+      "ID": 2137,
+      "Number": 3,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680271916950": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_4_Cover_97M2YOM4L.png",
+      "CreatedAt": 1680271916950,
+      "ID": 2138,
+      "Number": 4,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680271923632": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_5_Cover_7PwrWrPdj.png",
+      "CreatedAt": 1680271923632,
+      "ID": 2139,
+      "Number": 5,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680271933059": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_6_Cover_xwrjLFnUiz.png",
+      "CreatedAt": 1680271933059,
+      "ID": 2140,
+      "Number": 6,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680273623980": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail_100_Years_Quist/Fairy_Tail_100_Years_Vol_14_Ol4oP0gw6.jpg",
+      "CreatedAt": 1680273623980,
+      "ID": 2141,
+      "Number": 14,
+      "Title": "Fairy Tail 100 Years Quest",
+      "Type": "Manga"
+    },
+    "1680273807486": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sakamoto_Days/011_YT-EemCFA.webp",
+      "CreatedAt": 1680273807486,
+      "ID": 2142,
+      "Number": 11,
+      "Title": "Sakamoto Days",
+      "Type": "Manga"
+    },
+    "1680317141314": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/15_uCBNRYjam.webp",
+      "CreatedAt": 1680317141314,
+      "ID": 2143,
+      "Number": 15,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680317150469": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/16_iNG46Rgy9.webp",
+      "CreatedAt": 1680317150469,
+      "ID": 2144,
+      "Number": 16,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680317158080": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/light_novel/17_KnOausptu.webp",
+      "CreatedAt": 1680317158080,
+      "ID": 2145,
+      "Number": 17,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Light Novel"
+    },
+    "1680317221184": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/21_qs_yWZMC8.jpg",
+      "CreatedAt": 1680317221184,
+      "ID": 2146,
+      "Number": 21,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680317232253": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/22_Bzg0yWccG.jpg",
+      "CreatedAt": 1680317232253,
+      "ID": 2147,
+      "Number": 22,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680317240435": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/23_CUAocjzAF.jpg",
+      "CreatedAt": 1680317240435,
+      "ID": 2148,
+      "Number": 23,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680317252896": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/24_RK52nVO1eP.jpg",
+      "CreatedAt": 1680317252896,
+      "ID": 2149,
+      "Number": 24,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680317260049": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/25_zcsoeS3W0.jpg",
+      "CreatedAt": 1680317260049,
+      "ID": 2150,
+      "Number": 25,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680317341597": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol01_QDUr6DXzN.jpg",
+      "CreatedAt": 1680317341597,
+      "ID": 2151,
+      "Number": 1,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317357057": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol02_bxmpi2VfR.jpg",
+      "CreatedAt": 1680317357057,
+      "ID": 2152,
+      "Number": 2,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317368064": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol03_uDQEL5MhT.jpg",
+      "CreatedAt": 1680317368064,
+      "ID": 2153,
+      "Number": 3,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317377975": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol04_k7xnakhb_.jpg",
+      "CreatedAt": 1680317377975,
+      "ID": 2154,
+      "Number": 4,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317386981": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol05_nWp95JSCs.png",
+      "CreatedAt": 1680317386981,
+      "ID": 2155,
+      "Number": 5,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317395439": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol06__FaeS16Wq.jpg",
+      "CreatedAt": 1680317395439,
+      "ID": 2156,
+      "Number": 6,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317403174": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol07_TcghWDtOr.jpg",
+      "CreatedAt": 1680317403174,
+      "ID": 2157,
+      "Number": 7,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317412851": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol08_Vcg71hgp0.jpg",
+      "CreatedAt": 1680317412851,
+      "ID": 2158,
+      "Number": 8,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317422586": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol09_00JjPcoMY.jpg",
+      "CreatedAt": 1680317422586,
+      "ID": 2159,
+      "Number": 9,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317431474": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol10_kXDW9-YRR.png",
+      "CreatedAt": 1680317431474,
+      "ID": 2160,
+      "Number": 10,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317441516": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol11_1x4z9YTRD.jpg",
+      "CreatedAt": 1680317441516,
+      "ID": 2161,
+      "Number": 11,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317452216": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/light_novel/Vol12_xXUt6W5S1.jpg",
+      "CreatedAt": 1680317452216,
+      "ID": 2162,
+      "Number": 12,
+      "Title": "Youjo Senki",
+      "Type": "Light Novel"
+    },
+    "1680317495161": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_7_Cover_zHa1j-84B.png",
+      "CreatedAt": 1680317495161,
+      "ID": 2163,
+      "Number": 7,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680317507853": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_8_Cover_Qsv-m95-9.png",
+      "CreatedAt": 1680317507853,
+      "ID": 2164,
+      "Number": 8,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680317530624": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_9_Cover_wYp9DKQvv.png",
+      "CreatedAt": 1680317530624,
+      "ID": 2165,
+      "Number": 9,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680317537897": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_10_Cover_861DdOdRC.png",
+      "CreatedAt": 1680317537897,
+      "ID": 2166,
+      "Number": 10,
+      "Title": "Fairy Tail",
       "Type": "Manga"
     }
   }
