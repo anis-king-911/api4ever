@@ -32,6 +32,13 @@ app.get('/volume', (req, res) => {
   res.send(data['VolumeList']);
 })
 
+app.get('/titles', (req, res) => {
+  const { Titles } = require('./MangaTitles.js');
+  const newTitles = [...new Set(Titles)].sort().filter(i => i !== '');
+
+  res.send(newTitles);
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
