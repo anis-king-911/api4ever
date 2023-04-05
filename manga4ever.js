@@ -362,9 +362,9 @@ const data = {
       "Type": "Manga"
     },
     "-NBogM4xnFV5RfWyM1r1": {
-      "Count": 10,
-      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Spy_X_Family/010_w_BUh639o.png",
-      "CreationDate": 1553468400000,
+      "Count": 11,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Spy_X_Family/011_TnKiK6xLL.webp",
+      "CreationDate": 1553464800000,
       "ID": 37,
       "State": "Publishing",
       "Time": 1663036387243,
@@ -572,9 +572,9 @@ const data = {
       "Type": "Manga"
     },
     "-NK3W81PHmjHNHvUGVI2": {
-      "Count": 21,
-      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Tonikaku_Kawai/021_7SuTwrBUB.jpg",
-      "CreationDate": 1518566400000,
+      "Count": 23,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Tonikaku_Kawai/023_SRndjM16h.jpg",
+      "CreationDate": 1518562800000,
       "ID": 58,
       "State": "Publishing",
       "Time": 1668333687944,
@@ -1129,6 +1129,86 @@ const data = {
       "State": "Finished",
       "Time": 1680317991522,
       "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "-NRxNFj9_fQac-0yXhiv": {
+      "Count": 20,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kawaii_dake_ja_Nai_Shikimori-san/20_-JEfcpsF9.jpg",
+      "CreationDate": 1549062000000,
+      "ID": 114,
+      "State": "Finished",
+      "Time": 1680361984177,
+      "Title": "Kawaii dake ja Nai Shikimori-san",
+      "Type": "Manga"
+    },
+    "-NS1IjnO2OzfB9Ymt1rx": {
+      "Count": 23,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bungou_Stray_Dogs/23_3L8MwMDe1.jpg",
+      "CreationDate": 1354575600000,
+      "ID": 115,
+      "State": "Publishing",
+      "Time": 1680444687107,
+      "Title": "Bungou Stray Dogs",
+      "Type": "Manga"
+    },
+    "-NS1IwRC26A0x411E9mg": {
+      "Count": 13,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/New_Game_/13_GujljxXWk.jpg",
+      "CreationDate": 1359154800000,
+      "ID": 116,
+      "State": "Finished",
+      "Time": 1680444738872,
+      "Title": "New Game!",
+      "Type": "Manga"
+    },
+    "-NS1JEJ9JfhAIM69tW8z": {
+      "Count": 11,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/11_L_IQJmaKU.jpg",
+      "CreationDate": 1302044400000,
+      "ID": 117,
+      "State": "Finished",
+      "Time": 1680444816181,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "-NS1JUOClo3PEBTaqouK": {
+      "Count": 31,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Slam_Dunk/31_IWSgzYKIN.jpg",
+      "CreationDate": 653612400000,
+      "ID": 118,
+      "State": "Finished",
+      "Time": 1680444882040,
+      "Title": "Slam Dunk",
+      "Type": "Manga"
+    },
+    "-NSBkijalB8M6xe_rhad": {
+      "Count": 9,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Redo_of_Healer/light_novel/09_c15HzeWVT.webp",
+      "CreationDate": 1498863600000,
+      "ID": 119,
+      "State": "Publishing",
+      "Time": 1680620057433,
+      "Title": "Redo of Healer",
+      "Type": "Light Novel"
+    },
+    "-NSBkqiJpCRMk1w-HHhW": {
+      "Count": 11,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Redo_of_Healer/11_YP9J-ZXya.jpg",
+      "CreationDate": 1508799600000,
+      "ID": 120,
+      "State": "Publishing",
+      "Time": 1680620090119,
+      "Title": "Redo of Healer",
+      "Type": "Manga"
+    },
+    "-NSBlKq5km3xCx2hcTUb": {
+      "Count": 4,
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Durarara__/01_XoAywUfT8.jpg",
+      "CreationDate": 1245279600000,
+      "ID": 121,
+      "State": "Finished",
+      "Time": 1680620217593,
+      "Title": "Durarara!!",
       "Type": "Manga"
     }
   },
@@ -18457,6 +18537,1678 @@ const data = {
       "ID": 2166,
       "Number": 10,
       "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680394502659": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/01_ZCi1T9JBS.jpg",
+      "CreatedAt": 1680394502659,
+      "ID": 2167,
+      "Number": 1,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394513735": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/02_ksf8SfqL3.jpg",
+      "CreatedAt": 1680394513735,
+      "ID": 2168,
+      "Number": 2,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394522175": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/03_FQV5ONzkO.jpg",
+      "CreatedAt": 1680394522175,
+      "ID": 2169,
+      "Number": 3,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394531228": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/04_NfdiRmblW.jpg",
+      "CreatedAt": 1680394531228,
+      "ID": 2170,
+      "Number": 4,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394538457": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/05_r1vqlh_rS.jpg",
+      "CreatedAt": 1680394538457,
+      "ID": 2171,
+      "Number": 5,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394547380": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/06_5mylWmxeL.jpg",
+      "CreatedAt": 1680394547380,
+      "ID": 2172,
+      "Number": 6,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394584328": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/07_EiWX5aqR8.jpg",
+      "CreatedAt": 1680394584328,
+      "ID": 2173,
+      "Number": 7,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394605659": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/08_oltyPVWMW.jpg",
+      "CreatedAt": 1680394605659,
+      "ID": 2174,
+      "Number": 8,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394611928": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/09_qQTR0XMPx.jpg",
+      "CreatedAt": 1680394611928,
+      "ID": 2175,
+      "Number": 9,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394619277": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/10_ckR9Zno04.jpg",
+      "CreatedAt": 1680394619277,
+      "ID": 2176,
+      "Number": 10,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394629836": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/11_CE3bcdSCk.jpg",
+      "CreatedAt": 1680394629836,
+      "ID": 2177,
+      "Number": 11,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394637990": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/12_trUjf6ZAO.jpg",
+      "CreatedAt": 1680394637990,
+      "ID": 2178,
+      "Number": 12,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394646527": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/13_X-yRgcEbZ.jpg",
+      "CreatedAt": 1680394646527,
+      "ID": 2179,
+      "Number": 13,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394657376": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/14_j6jmj3Yg6R.jpg",
+      "CreatedAt": 1680394657376,
+      "ID": 2180,
+      "Number": 14,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394663590": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/15_857yQM8Eb.jpg",
+      "CreatedAt": 1680394663590,
+      "ID": 2181,
+      "Number": 15,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680394690356": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/26_YSVgMb_Iy.jpg",
+      "CreatedAt": 1680394690356,
+      "ID": 2182,
+      "Number": 26,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680394698816": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/27_tfBT9iSeiU.jpg",
+      "CreatedAt": 1680394698816,
+      "ID": 2183,
+      "Number": 27,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680394708174": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/28_OMlS33UQvI.jpg",
+      "CreatedAt": 1680394708174,
+      "ID": 2184,
+      "Number": 28,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680394720917": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/29_AgiQPc9RGc.jpg",
+      "CreatedAt": 1680394720917,
+      "ID": 2185,
+      "Number": 29,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680394734796": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kanojo__Okarishimasu/30_uTqRVcnPdi.jpg",
+      "CreatedAt": 1680394734796,
+      "ID": 2186,
+      "Number": 30,
+      "Title": "Kanojo, Okarishimasu",
+      "Type": "Manga"
+    },
+    "1680439324012": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_11_Cover_hdHU1g6Xq.png",
+      "CreatedAt": 1680439324012,
+      "ID": 2187,
+      "Number": 11,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439333266": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_12_Cover_LhzqFux3S.png",
+      "CreatedAt": 1680439333266,
+      "ID": 2188,
+      "Number": 12,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439341696": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_13_Cover_QKtkakXZb.png",
+      "CreatedAt": 1680439341696,
+      "ID": 2189,
+      "Number": 13,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439350860": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_14_Cover_roYer_f-8.png",
+      "CreatedAt": 1680439350860,
+      "ID": 2190,
+      "Number": 14,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439360526": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_15_Cover_Q8sMjmZXn.png",
+      "CreatedAt": 1680439360526,
+      "ID": 2191,
+      "Number": 15,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439397086": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_16_Cover_sshyk4SLI.png",
+      "CreatedAt": 1680439397086,
+      "ID": 2192,
+      "Number": 16,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439407364": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_17_Cover_Ja-v_Antc.png",
+      "CreatedAt": 1680439407364,
+      "ID": 2193,
+      "Number": 17,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439417155": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_18_Cover_nIC17YksQ.png",
+      "CreatedAt": 1680439417155,
+      "ID": 2194,
+      "Number": 18,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439443441": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_19_Cover_WObnBZJyN.png",
+      "CreatedAt": 1680439443441,
+      "ID": 2195,
+      "Number": 19,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439453440": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_20_Cover_tKhlR2IW_.png",
+      "CreatedAt": 1680439453440,
+      "ID": 2196,
+      "Number": 20,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680439516190": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/01_Tzlxajg1N.jpg",
+      "CreatedAt": 1680439516190,
+      "ID": 2197,
+      "Number": 1,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680439524692": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/02_za9rF6yw2.jpg",
+      "CreatedAt": 1680439524692,
+      "ID": 2198,
+      "Number": 2,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680439532142": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/03_SR1iDvFkJ.jpg",
+      "CreatedAt": 1680439532142,
+      "ID": 2199,
+      "Number": 3,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680439538285": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/04_CfRILxSi6.jpg",
+      "CreatedAt": 1680439538285,
+      "ID": 2200,
+      "Number": 4,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680439545203": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/05_ni91gZg6G.jpg",
+      "CreatedAt": 1680439545203,
+      "ID": 2201,
+      "Number": 5,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680439554268": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/06_JRugRhrui.jpg",
+      "CreatedAt": 1680439554268,
+      "ID": 2202,
+      "Number": 6,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680474296561": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/16_XK6sEPAMB.jpg",
+      "CreatedAt": 1680474296561,
+      "ID": 2203,
+      "Number": 16,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474305668": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/17_aLGpma-2Y2.jpg",
+      "CreatedAt": 1680474305668,
+      "ID": 2204,
+      "Number": 17,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474315378": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/18_QUSdme0J3.jpg",
+      "CreatedAt": 1680474315378,
+      "ID": 2205,
+      "Number": 18,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474326534": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/19_PuG0yZBgvd.jpg",
+      "CreatedAt": 1680474326534,
+      "ID": 2206,
+      "Number": 19,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474335908": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/20_CtVLkECxmr.jpg",
+      "CreatedAt": 1680474335908,
+      "ID": 2207,
+      "Number": 20,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474411135": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/21_bHDsQ_1k9.jpg",
+      "CreatedAt": 1680474411135,
+      "ID": 2208,
+      "Number": 21,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474418448": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/22_4aVBbuQ40.jpg",
+      "CreatedAt": 1680474418448,
+      "ID": 2209,
+      "Number": 22,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474425542": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/23_K8_7rZjVu.jpg",
+      "CreatedAt": 1680474425542,
+      "ID": 2210,
+      "Number": 23,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474432935": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/24_l2AHT7cDL.jpg",
+      "CreatedAt": 1680474432935,
+      "ID": 2211,
+      "Number": 24,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474440219": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/25_sYSts8yO7J.jpg",
+      "CreatedAt": 1680474440219,
+      "ID": 2212,
+      "Number": 25,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474449229": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/26_h6lquUzbY.jpg",
+      "CreatedAt": 1680474449229,
+      "ID": 2213,
+      "Number": 26,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474456267": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/27_R8NpUYEOb.jpg",
+      "CreatedAt": 1680474456267,
+      "ID": 2214,
+      "Number": 27,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474462964": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/28_WjVBrcquT.jpg",
+      "CreatedAt": 1680474462964,
+      "ID": 2215,
+      "Number": 28,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474472022": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/29_6yXuc2N1K.jpg",
+      "CreatedAt": 1680474472022,
+      "ID": 2216,
+      "Number": 29,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474483511": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Kuroko_No_Basket/30_FzLggyZBap.jpg",
+      "CreatedAt": 1680474483511,
+      "ID": 2217,
+      "Number": 30,
+      "Title": "Kuroko No Basket",
+      "Type": "Manga"
+    },
+    "1680474587368": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_21_Cover_LQFe6eGYZ.png",
+      "CreatedAt": 1680474587368,
+      "ID": 2218,
+      "Number": 21,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474598208": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_22_Cover_r99lEGIBy.png",
+      "CreatedAt": 1680474598208,
+      "ID": 2219,
+      "Number": 22,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474610123": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_23_Cover_FIoYzcN6j.png",
+      "CreatedAt": 1680474610123,
+      "ID": 2220,
+      "Number": 23,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474621926": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_24_Cover_FwFV60EjE.png",
+      "CreatedAt": 1680474621926,
+      "ID": 2221,
+      "Number": 24,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474630699": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_25_Cover_eTU-Z2KUO.png",
+      "CreatedAt": 1680474630699,
+      "ID": 2222,
+      "Number": 25,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474655270": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_26_Cover_DBzxuXzhi.png",
+      "CreatedAt": 1680474655270,
+      "ID": 2223,
+      "Number": 26,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474664893": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_27_Cover_kyDmbsOW7.png",
+      "CreatedAt": 1680474664893,
+      "ID": 2224,
+      "Number": 27,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474678240": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_28_Cover_mZVgjvSKg.png",
+      "CreatedAt": 1680474678240,
+      "ID": 2225,
+      "Number": 28,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474704008": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_29_Cover_qBXrsNuv5.png",
+      "CreatedAt": 1680474704008,
+      "ID": 2226,
+      "Number": 29,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474711954": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_30_Cover_J9IqvDUIA.png",
+      "CreatedAt": 1680474711954,
+      "ID": 2227,
+      "Number": 30,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474728550": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_31_Cover_b_ROqwG7R.png",
+      "CreatedAt": 1680474728550,
+      "ID": 2228,
+      "Number": 31,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474736267": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_32_Cover_AMQDBGDfY.png",
+      "CreatedAt": 1680474736267,
+      "ID": 2229,
+      "Number": 32,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474744330": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_33_Cover_W2vw-cp7-.png",
+      "CreatedAt": 1680474744330,
+      "ID": 2230,
+      "Number": 33,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474753841": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_34_Cover_A22NMftvG_.png",
+      "CreatedAt": 1680474753841,
+      "ID": 2231,
+      "Number": 34,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474775406": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_35_Cover_2HkvUJC2c.png",
+      "CreatedAt": 1680474775406,
+      "ID": 2232,
+      "Number": 35,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474823905": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_36_Cover_qNtTrj5YN.png",
+      "CreatedAt": 1680474823905,
+      "ID": 2233,
+      "Number": 36,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474831790": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_37_Cover_CQcrrsnUN.png",
+      "CreatedAt": 1680474831790,
+      "ID": 2234,
+      "Number": 37,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474842995": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_38_Cover_N-zhk5vY2.png",
+      "CreatedAt": 1680474842995,
+      "ID": 2235,
+      "Number": 38,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474855849": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_39_Cover__J62G7IeU.png",
+      "CreatedAt": 1680474855849,
+      "ID": 2236,
+      "Number": 39,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474875807": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_40_Cover_bY7JXz5dL.png",
+      "CreatedAt": 1680474875807,
+      "ID": 2237,
+      "Number": 40,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680474916050": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/07_6tLWMw9HD.jpg",
+      "CreatedAt": 1680474916050,
+      "ID": 2238,
+      "Number": 7,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680474924571": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/08_yd9y0mhMI.jpg",
+      "CreatedAt": 1680474924571,
+      "ID": 2239,
+      "Number": 8,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680474932498": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/09_QmzltBC-fB.jpg",
+      "CreatedAt": 1680474932498,
+      "ID": 2240,
+      "Number": 9,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680474940844": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/10_i75MsivhD.jpg",
+      "CreatedAt": 1680474940844,
+      "ID": 2241,
+      "Number": 10,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680474948881": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/11_QV1-_MSnH.jpg",
+      "CreatedAt": 1680474948881,
+      "ID": 2242,
+      "Number": 11,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680474959019": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/12_zdTboz09A.jpg",
+      "CreatedAt": 1680474959019,
+      "ID": 2243,
+      "Number": 12,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680475308853": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Tonikaku_Kawai/022_Df-AUimys.jpg",
+      "CreatedAt": 1680475308853,
+      "ID": 2244,
+      "Number": 22,
+      "Title": "Tonikaku Kawaii",
+      "Type": "Manga"
+    },
+    "1680475316353": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Tonikaku_Kawai/023_SRndjM16h.jpg",
+      "CreatedAt": 1680475316353,
+      "ID": 2245,
+      "Number": 23,
+      "Title": "Tonikaku Kawaii",
+      "Type": "Manga"
+    },
+    "1680561057727": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_41_Cover_1cgibuIOl.png",
+      "CreatedAt": 1680561057727,
+      "ID": 2246,
+      "Number": 41,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561090556": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_42_Cover_9fdy7q4VD.png",
+      "CreatedAt": 1680561090556,
+      "ID": 2247,
+      "Number": 42,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561105472": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_43_Cover_c2P0Whx7h.png",
+      "CreatedAt": 1680561105472,
+      "ID": 2248,
+      "Number": 43,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561116196": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_44_Cover_6Yfs5A-ls.png",
+      "CreatedAt": 1680561116196,
+      "ID": 2249,
+      "Number": 44,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561130363": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_45_Cover_pviRuQ06W.png",
+      "CreatedAt": 1680561130363,
+      "ID": 2250,
+      "Number": 45,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561150101": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_46_Cover_lCasbkNDO.png",
+      "CreatedAt": 1680561150101,
+      "ID": 2251,
+      "Number": 46,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561211938": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_47_Cover_vIYxvWVfQ.png",
+      "CreatedAt": 1680561211938,
+      "ID": 2252,
+      "Number": 47,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561231257": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_48_Cover_0lS7PS0V7.png",
+      "CreatedAt": 1680561231257,
+      "ID": 2253,
+      "Number": 48,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561243494": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_49_Cover_v4Dbzo4ZV.png",
+      "CreatedAt": 1680561243494,
+      "ID": 2254,
+      "Number": 49,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561251312": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_50_Cover_OsuyQ2_gm.png",
+      "CreatedAt": 1680561251312,
+      "ID": 2255,
+      "Number": 50,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680561445979": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Spy_X_Family/011_TnKiK6xLL.webp",
+      "CreatedAt": 1680561445979,
+      "ID": 2256,
+      "Number": 11,
+      "Title": "Spy X Family",
+      "Type": "Manga"
+    },
+    "1680571913402": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/13_LrYcDTbsO.jpg",
+      "CreatedAt": 1680571913402,
+      "ID": 2257,
+      "Number": 13,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680571921963": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/14_8Nfg6duE9.jpg",
+      "CreatedAt": 1680571921963,
+      "ID": 2258,
+      "Number": 14,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680571928905": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/15_7-T1If_Ud.jpg",
+      "CreatedAt": 1680571928905,
+      "ID": 2259,
+      "Number": 15,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680571939150": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/16_IX-z2oGFN.jpg",
+      "CreatedAt": 1680571939150,
+      "ID": 2260,
+      "Number": 16,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680571947030": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/17_94n87x2fZ.jpg",
+      "CreatedAt": 1680571947030,
+      "ID": 2261,
+      "Number": 17,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680571955507": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/18_g9T7AkvLl.jpg",
+      "CreatedAt": 1680571955507,
+      "ID": 2262,
+      "Number": 18,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680571969085": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/19_Zu3rv6XVl.jpg",
+      "CreatedAt": 1680571969085,
+      "ID": 2263,
+      "Number": 19,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680571976401": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/20_Ka3-Ok0Ye.jpg",
+      "CreatedAt": 1680571976401,
+      "ID": 2264,
+      "Number": 20,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680571985098": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/We_Never_Learn/21_x64zE2uua.jpg",
+      "CreatedAt": 1680571985098,
+      "ID": 2265,
+      "Number": 21,
+      "Title": "We Never Learn",
+      "Type": "Manga"
+    },
+    "1680572031947": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/01_S2IbML-nB.jpg",
+      "CreatedAt": 1680572031947,
+      "ID": 2266,
+      "Number": 1,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680572042813": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/02_kn2k9jAfy.jpg",
+      "CreatedAt": 1680572042813,
+      "ID": 2267,
+      "Number": 2,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680572053967": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/03_dJ2cSxiUM.jpg",
+      "CreatedAt": 1680572053967,
+      "ID": 2268,
+      "Number": 3,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680572063928": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/04_WxjRCvAfu.jpg",
+      "CreatedAt": 1680572063928,
+      "ID": 2269,
+      "Number": 4,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680572075075": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/05_O1M3cOq9O.jpg",
+      "CreatedAt": 1680572075075,
+      "ID": 2270,
+      "Number": 5,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680572084134": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/06_57DM0pduR.jpg",
+      "CreatedAt": 1680572084134,
+      "ID": 2271,
+      "Number": 6,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680618811824": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_51_Cover_TjU5ihOIB.png",
+      "CreatedAt": 1680618811824,
+      "ID": 2272,
+      "Number": 51,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618851333": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_52_Cover_Y6ERBrk9A.png",
+      "CreatedAt": 1680618851333,
+      "ID": 2273,
+      "Number": 52,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618859633": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_53_Cover_bP4cil4K_Q.png",
+      "CreatedAt": 1680618859633,
+      "ID": 2274,
+      "Number": 53,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618874156": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_54_Cover_nu4fUBl39.png",
+      "CreatedAt": 1680618874156,
+      "ID": 2275,
+      "Number": 54,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618886391": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_55_Cover_0G_k2vlcb.png",
+      "CreatedAt": 1680618886391,
+      "ID": 2276,
+      "Number": 55,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618897314": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_56_Cover_l88mwdabx.png",
+      "CreatedAt": 1680618897314,
+      "ID": 2277,
+      "Number": 56,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618910066": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_57_Cover_JztoHmTo1.png",
+      "CreatedAt": 1680618910066,
+      "ID": 2278,
+      "Number": 57,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618918683": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_58_Cover_f7d0y-8c8.png",
+      "CreatedAt": 1680618918683,
+      "ID": 2279,
+      "Number": 58,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618929569": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_59_Cover_OxYdMRIZK.png",
+      "CreatedAt": 1680618929569,
+      "ID": 2280,
+      "Number": 59,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618946512": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_60_Cover_qsZgq__9H.png",
+      "CreatedAt": 1680618946512,
+      "ID": 2281,
+      "Number": 60,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618959906": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_61_Cover_6fjNWM-VX.png",
+      "CreatedAt": 1680618959906,
+      "ID": 2282,
+      "Number": 61,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618983746": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_62_Cover_xAt8kVh2E.png",
+      "CreatedAt": 1680618983746,
+      "ID": 2283,
+      "Number": 62,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680618992952": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Fairy_Tail/Volume_63_Cover_r0O-wGMjn.png",
+      "CreatedAt": 1680618992952,
+      "ID": 2284,
+      "Number": 63,
+      "Title": "Fairy Tail",
+      "Type": "Manga"
+    },
+    "1680619035041": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/01_tACwrujdf.jpg",
+      "CreatedAt": 1680619035041,
+      "ID": 2285,
+      "Number": 1,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680619043487": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/02_zc7Lh2u65.jpg",
+      "CreatedAt": 1680619043487,
+      "ID": 2286,
+      "Number": 2,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680619056841": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/03_oFU3I63qW.jpg",
+      "CreatedAt": 1680619056841,
+      "ID": 2287,
+      "Number": 3,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680619067344": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/04_46HkoJucS.jpg",
+      "CreatedAt": 1680619067344,
+      "ID": 2288,
+      "Number": 4,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680619113854": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/05_3S7vo57jd.jpg",
+      "CreatedAt": 1680619113854,
+      "ID": 2289,
+      "Number": 5,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680619172779": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Orange/01_EaRLi7w03.jpg",
+      "CreatedAt": 1680619172779,
+      "ID": 2290,
+      "Number": 1,
+      "Title": "Orange",
+      "Type": "Manga"
+    },
+    "1680619179124": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Orange/02_lIrrlO52N.jpg",
+      "CreatedAt": 1680619179124,
+      "ID": 2291,
+      "Number": 2,
+      "Title": "Orange",
+      "Type": "Manga"
+    },
+    "1680619188798": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Orange/03_wRIWVRPzi.jpg",
+      "CreatedAt": 1680619188798,
+      "ID": 2292,
+      "Number": 3,
+      "Title": "Orange",
+      "Type": "Manga"
+    },
+    "1680619195189": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Orange/04_xsRB9u9pf.jpg",
+      "CreatedAt": 1680619195189,
+      "ID": 2293,
+      "Number": 4,
+      "Title": "Orange",
+      "Type": "Manga"
+    },
+    "1680619218701": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Orange/05_vf7MP4r9Q.jpg",
+      "CreatedAt": 1680619218701,
+      "ID": 2294,
+      "Number": 5,
+      "Title": "Orange",
+      "Type": "Manga"
+    },
+    "1680619229173": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Orange/06_vAcysQLg8.jpg",
+      "CreatedAt": 1680619229173,
+      "ID": 2295,
+      "Number": 6,
+      "Title": "Orange",
+      "Type": "Manga"
+    },
+    "1680619236850": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Orange/07_dOdg0JjIhY.jpg",
+      "CreatedAt": 1680619236850,
+      "ID": 2296,
+      "Number": 7,
+      "Title": "Orange",
+      "Type": "Manga"
+    },
+    "1680619346969": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/07_bZMKGGBBj.jpg",
+      "CreatedAt": 1680619346969,
+      "ID": 2297,
+      "Number": 7,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619377815": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/08_DB2eRAxMH.jpg",
+      "CreatedAt": 1680619377815,
+      "ID": 2298,
+      "Number": 8,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619387692": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/09_4OZw4fnaj.jpg",
+      "CreatedAt": 1680619387692,
+      "ID": 2299,
+      "Number": 9,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619400179": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/10_0w1L93EEC.jpg",
+      "CreatedAt": 1680619400179,
+      "ID": 2300,
+      "Number": 10,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619416283": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/11_HWy5UcMYe.jpg",
+      "CreatedAt": 1680619416283,
+      "ID": 2301,
+      "Number": 11,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619542243": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/12_MS2Cuv0GY.jpg",
+      "CreatedAt": 1680619542243,
+      "ID": 2302,
+      "Number": 12,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619548176": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/13_bB0c3Uqsq.jpg",
+      "CreatedAt": 1680619548176,
+      "ID": 2303,
+      "Number": 13,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619554475": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/14_hr7UzS6-7.jpg",
+      "CreatedAt": 1680619554475,
+      "ID": 2304,
+      "Number": 14,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619581602": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/15_mM5JzQAXF.jpg",
+      "CreatedAt": 1680619581602,
+      "ID": 2305,
+      "Number": 15,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619607411": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/16_hry0EiH6f.jpg",
+      "CreatedAt": 1680619607411,
+      "ID": 2306,
+      "Number": 16,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619619067": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/17_EUTJ857E0.jpg",
+      "CreatedAt": 1680619619067,
+      "ID": 2307,
+      "Number": 17,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619629837": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/18_W_M3MfMOo.jpg",
+      "CreatedAt": 1680619629837,
+      "ID": 2308,
+      "Number": 18,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680619681698": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/01_C4M6XK7XF.jpg",
+      "CreatedAt": 1680619681698,
+      "ID": 2309,
+      "Number": 1,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "1680619693229": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/02_4IZzUeMM3.jpg",
+      "CreatedAt": 1680619693229,
+      "ID": 2310,
+      "Number": 2,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "1680619702050": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/03_CvjidR24I.jpg",
+      "CreatedAt": 1680619702050,
+      "ID": 2311,
+      "Number": 3,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "1680619710260": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/04_TSaMyRT1Z.jpg",
+      "CreatedAt": 1680619710260,
+      "ID": 2312,
+      "Number": 4,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "1680656462805": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/01_jZXj0-0Ei.jpg",
+      "CreatedAt": 1680656462805,
+      "ID": 2313,
+      "Number": 1,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656473577": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/02_u0BNF5sYY.jpg",
+      "CreatedAt": 1680656473577,
+      "ID": 2314,
+      "Number": 2,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656480457": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/03_VmZQHfTG2.jpg",
+      "CreatedAt": 1680656480457,
+      "ID": 2315,
+      "Number": 3,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656487106": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/04_InO4KuKqZ.jpg",
+      "CreatedAt": 1680656487106,
+      "ID": 2316,
+      "Number": 4,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656494158": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/05_vQKoaBYjT.jpg",
+      "CreatedAt": 1680656494158,
+      "ID": 2317,
+      "Number": 5,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656502524": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/06_bU5XpcnZd.jpg",
+      "CreatedAt": 1680656502524,
+      "ID": 2318,
+      "Number": 6,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656513206": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/07_RV5kQb96j.jpg",
+      "CreatedAt": 1680656513206,
+      "ID": 2319,
+      "Number": 7,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656521083": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/08_eP4KY_5_u.jpg",
+      "CreatedAt": 1680656521083,
+      "ID": 2320,
+      "Number": 8,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656528741": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/09_Nm4ekugcr.jpg",
+      "CreatedAt": 1680656528741,
+      "ID": 2321,
+      "Number": 9,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656535523": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/10_eKbgdtFP1E.jpg",
+      "CreatedAt": 1680656535523,
+      "ID": 2322,
+      "Number": 10,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656547611": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/11_pmbO2_foy.jpg",
+      "CreatedAt": 1680656547611,
+      "ID": 2323,
+      "Number": 11,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656558802": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/12_PKO1queJF.jpg",
+      "CreatedAt": 1680656558802,
+      "ID": 2324,
+      "Number": 12,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656566541": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/13_mUQhkjvoq.jpg",
+      "CreatedAt": 1680656566541,
+      "ID": 2325,
+      "Number": 13,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656573719": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/14__hcziFdAG.jpg",
+      "CreatedAt": 1680656573719,
+      "ID": 2326,
+      "Number": 14,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656580938": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/16_X9ClZLT91.jpg",
+      "CreatedAt": 1680656580938,
+      "ID": 2327,
+      "Number": 15,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656593832": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/16_8fzJP2rJ1.jpg",
+      "CreatedAt": 1680656593832,
+      "ID": 2328,
+      "Number": 16,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656715032": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/17_aB7dxwtG_.jpg",
+      "CreatedAt": 1680656715032,
+      "ID": 2329,
+      "Number": 17,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656721615": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/18_pIvdnb6rb.jpg",
+      "CreatedAt": 1680656721615,
+      "ID": 2330,
+      "Number": 18,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656728705": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/19_zcX0ImYT4.jpg",
+      "CreatedAt": 1680656728705,
+      "ID": 2331,
+      "Number": 19,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656736508": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/20_Rg9cVWWV68.jpg",
+      "CreatedAt": 1680656736508,
+      "ID": 2332,
+      "Number": 20,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656748653": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Bakemonogatari/21_7JM85KrWKN.jpg",
+      "CreatedAt": 1680656748653,
+      "ID": 2333,
+      "Number": 21,
+      "Title": "Bakemonogatari",
+      "Type": "Manga"
+    },
+    "1680656807023": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/19_9llDYdTQI.jpg",
+      "CreatedAt": 1680656807023,
+      "ID": 2334,
+      "Number": 19,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680656813928": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/20_N5b-tT-AE.jpg",
+      "CreatedAt": 1680656813928,
+      "ID": 2335,
+      "Number": 20,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680656820894": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/21_0g0CBSxTV.jpg",
+      "CreatedAt": 1680656820894,
+      "ID": 2336,
+      "Number": 21,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680656829924": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/22_DxQNeaNNA.jpg",
+      "CreatedAt": 1680656829924,
+      "ID": 2337,
+      "Number": 22,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680656838426": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/23_Q3iH_uTQv.jpg",
+      "CreatedAt": 1680656838426,
+      "ID": 2338,
+      "Number": 23,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680656854573": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/24_KfaQT4-CL.jpg",
+      "CreatedAt": 1680656854573,
+      "ID": 2339,
+      "Number": 24,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680656869003": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/25_-6N0i8b0f.jpg",
+      "CreatedAt": 1680656869003,
+      "ID": 2340,
+      "Number": 25,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680656885359": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Youjo_Senki/26_pOPA-ijYv.jpg",
+      "CreatedAt": 1680656885359,
+      "ID": 2341,
+      "Number": 26,
+      "Title": "Youjo Senki",
+      "Type": "Manga"
+    },
+    "1680656928951": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/05_z-Gkb5ZMe.jpg",
+      "CreatedAt": 1680656928951,
+      "ID": 2342,
+      "Number": 5,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "1680656935602": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/06_enS-3rRae.jpg",
+      "CreatedAt": 1680656935602,
+      "ID": 2343,
+      "Number": 6,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "1680656945963": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/07_9vpv5IUBh.jpg",
+      "CreatedAt": 1680656945963,
+      "ID": 2344,
+      "Number": 7,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "1680656954638": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Aharen-san_wa_Hakarenai/08_BrF4YRfW_O.jpg",
+      "CreatedAt": 1680656954638,
+      "ID": 2345,
+      "Number": 8,
+      "Title": "Aharen-san wa Hakarenai",
+      "Type": "Manga"
+    },
+    "1680695959725": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/06_EfngfjF3BX.jpg",
+      "CreatedAt": 1680695959725,
+      "ID": 2346,
+      "Number": 6,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680695967535": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/07_2kyVkz0L2.jpg",
+      "CreatedAt": 1680695967535,
+      "ID": 2347,
+      "Number": 7,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680695975239": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/08_ywFayXShq.jpg",
+      "CreatedAt": 1680695975239,
+      "ID": 2348,
+      "Number": 8,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680695983604": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/09_MDupHv6XP.jpg",
+      "CreatedAt": 1680695983604,
+      "ID": 2349,
+      "Number": 9,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680695990592": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Mashle/10_lCEBJDb6Q.jpg",
+      "CreatedAt": 1680695990592,
+      "ID": 2350,
+      "Number": 10,
+      "Title": "Mashle",
+      "Type": "Manga"
+    },
+    "1680696033571": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/01_KNWxUh87n.jpg",
+      "CreatedAt": 1680696033571,
+      "ID": 2351,
+      "Number": 1,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696043164": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/02_I9tRcEylT.jpg",
+      "CreatedAt": 1680696043164,
+      "ID": 2352,
+      "Number": 2,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696050439": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/03_HwxT7hnOn.jpg",
+      "CreatedAt": 1680696050439,
+      "ID": 2353,
+      "Number": 3,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696056898": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/04_nDVMBsqLV.jpg",
+      "CreatedAt": 1680696056898,
+      "ID": 2354,
+      "Number": 4,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696066610": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/05_doai60iTw.jpg",
+      "CreatedAt": 1680696066610,
+      "ID": 2355,
+      "Number": 5,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696077699": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/06_ySpMs2eXH.jpg",
+      "CreatedAt": 1680696077699,
+      "ID": 2356,
+      "Number": 6,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696084651": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/07_GEnfuYOj3.jpg",
+      "CreatedAt": 1680696084651,
+      "ID": 2357,
+      "Number": 7,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696091704": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/08_G5IbKWeuo.jpg",
+      "CreatedAt": 1680696091704,
+      "ID": 2358,
+      "Number": 8,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696101179": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/09_x8TCAb6ZqU.jpg",
+      "CreatedAt": 1680696101179,
+      "ID": 2359,
+      "Number": 9,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696111375": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Sun-Ken_Rock/10_d4vISDeEQ.jpg",
+      "CreatedAt": 1680696111375,
+      "ID": 2360,
+      "Number": 10,
+      "Title": "Sun-Ken Rock",
+      "Type": "Manga"
+    },
+    "1680696148295": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Durarara__/01_XoAywUfT8.jpg",
+      "CreatedAt": 1680696148295,
+      "ID": 2361,
+      "Number": 1,
+      "Title": "Durarara!!",
+      "Type": "Manga"
+    },
+    "1680696155008": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Durarara__/02_M_4JE0fjh.jpg",
+      "CreatedAt": 1680696155008,
+      "ID": 2362,
+      "Number": 2,
+      "Title": "Durarara!!",
+      "Type": "Manga"
+    },
+    "1680696162228": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Durarara__/03_8EPihT5Cu.jpg",
+      "CreatedAt": 1680696162228,
+      "ID": 2363,
+      "Number": 3,
+      "Title": "Durarara!!",
+      "Type": "Manga"
+    },
+    "1680696169366": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Durarara__/04_p65-LbRsi.jpg",
+      "CreatedAt": 1680696169366,
+      "ID": 2364,
+      "Number": 4,
+      "Title": "Durarara!!",
+      "Type": "Manga"
+    },
+    "1680696223661": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/01_Op7Gbg3RQ.jpg",
+      "CreatedAt": 1680696223661,
+      "ID": 2365,
+      "Number": 1,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696234175": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/02_ohXf7s5Ro.jpg",
+      "CreatedAt": 1680696234175,
+      "ID": 2366,
+      "Number": 2,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696242557": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/03_gZFdvFpekd.jpg",
+      "CreatedAt": 1680696242557,
+      "ID": 2367,
+      "Number": 3,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696249549": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/04_exNDDurPt.jpg",
+      "CreatedAt": 1680696249549,
+      "ID": 2368,
+      "Number": 4,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696256838": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/05_BuJ_yRR2R.jpg",
+      "CreatedAt": 1680696256838,
+      "ID": 2369,
+      "Number": 5,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696264831": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/06_aNHqkL1as.jpg",
+      "CreatedAt": 1680696264831,
+      "ID": 2370,
+      "Number": 6,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696273649": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/07_yoPLPrhn9.jpg",
+      "CreatedAt": 1680696273649,
+      "ID": 2371,
+      "Number": 7,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696281479": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/08_jmA82WVIj.jpg",
+      "CreatedAt": 1680696281479,
+      "ID": 2372,
+      "Number": 8,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696288953": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/09_nReMoj3y5k.jpg",
+      "CreatedAt": 1680696288953,
+      "ID": 2373,
+      "Number": 9,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696296087": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/10_cs8TzamKl.jpg",
+      "CreatedAt": 1680696296087,
+      "ID": 2374,
+      "Number": 10,
+      "Title": "Shigatsu wa Kimi no Uso",
+      "Type": "Manga"
+    },
+    "1680696303463": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Shigatsu_wa_Kimi_no_Uso/11_L_IQJmaKU.jpg",
+      "CreatedAt": 1680696303463,
+      "ID": 2375,
+      "Number": 11,
+      "Title": "Shigatsu wa Kimi no Uso",
       "Type": "Manga"
     }
   }
