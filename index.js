@@ -7,16 +7,34 @@ app.use((req, res, next) => {
   next();
 });
 
-const { data } = require('./manga4ever.js');
+const main = {
+  "manga": "https://api4ever.vercel.app/manga",
+  "volume": "https://api4ever.vercel.app/volume",
+  "titles": "https://api4ever.vercel.app/titles"
+}
 
 app.get('/', (req, res) => {
-  res.send(data);
+  res.send(main);
 })
 
 app.get('/manga', (req, res) => {
-  res.send(data['MangaList']);
+  const { Manga } = require('./data/manga.js');
+  res.send(Manga['MangaList']);
 })
 
+app.get('/volume', (req, res) => {
+  const { Volume } = require('./data/volume.js');
+  res.send(Volume['MangaList']);
+})
+
+app.get('/titles', (req, res) => {
+  const { Titles } = require('./data/titles.js');
+  const newTitles = [...new Set(Titles)].sort().filter(i => i !== '');
+
+  res.send(newTitles);
+})
+
+/*
 app.get('/manga/:title', (req, res) => {
   const title = req.params.title;
   const type = req.query.type;
@@ -27,17 +45,7 @@ app.get('/manga/:title', (req, res) => {
 
   res.send(wantedByType);
 })
-
-app.get('/volume', (req, res) => {
-  res.send(data['VolumeList']);
-})
-
-app.get('/titles', (req, res) => {
-  const { Titles } = require('./MangaTitles.js');
-  const newTitles = [...new Set(Titles)].sort().filter(i => i !== '');
-
-  res.send(newTitles);
-})
+*/
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
