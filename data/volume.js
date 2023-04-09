@@ -1,4 +1,4 @@
-const Volume = { 
+const Volume = {
   "VolumeList": {
     "1654096110211": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/tr:w-200/Ao_No_Exorcist/01_dPfpuYSx6.jpg",

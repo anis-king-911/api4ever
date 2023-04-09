@@ -24,7 +24,7 @@ app.get('/manga', (req, res) => {
 
 app.get('/volume', (req, res) => {
   const { Volume } = require('./data/volume.js');
-  res.send(Volume['MangaList']);
+  res.send(Volume['VolumeList']);
 })
 
 app.get('/titles', (req, res) => {
