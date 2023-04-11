@@ -1,4 +1,4 @@
-const Titles = [
+const newTitles = [
   "110 no Hanayome",
   "2.5-jigen no Ririsa",
   "Aharen-san wa Hakarenai",
@@ -218,5 +218,7 @@ const Titles = [
   "Fate/stay night: Heaven's Feel",
   "Today's Menu for Emiya Family",
 ];
+
+const Titles = [...new Set(newTitles)].sort().filter(i => i !== '');
 
 module.exports = { Titles }

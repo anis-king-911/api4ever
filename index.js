@@ -8,45 +8,42 @@ app.use((req, res, next) => {
 });
 
 const main = {
-  "manga": "https://api4ever.vercel.app/manga",
-  "volume": "https://api4ever.vercel.app/volume",
+  "manga": {
+    "all": "https://api4ever.vercel.app/manga",
+    "one": [
+      "https://api4ever.vercel.app/manga/[id]",
+      "https://api4ever.vercel.app/manga/[id]/volume"
+    ]
+  },
+  "volume": {
+    "all": "https://api4ever.vercel.app/volume",
+    "one": ["https://api4ever.vercel.app/volume/[id]"]
+  },
   "titles": "https://api4ever.vercel.app/titles"
-}
+};
+
+const localMain = {
+  "manga": "http://localhost:7700/manga",
+  "volume": "http://localhost:7700/volume",
+  "titles": "http://localhost:7700/titles"
+};
+
 
 app.get('/', (req, res) => {
   res.send(main);
-})
+});
 
-app.get('/manga', (req, res) => {
-  const { Manga } = require('./data/manga.js');
-  res.send(Manga['MangaList']);
-})
+const MangaRoutes = require('./routes/manga.js');
+app.use('/manga', MangaRoutes);
 
-app.get('/volume', (req, res) => {
-  const { Volume } = require('./data/volume.js');
-  res.send(Volume['VolumeList']);
-})
+const VolumeRoutes = require('./routes/volume.js');
+app.use('/volume', VolumeRoutes);
 
 app.get('/titles', (req, res) => {
   const { Titles } = require('./data/titles.js');
-  const newTitles = [...new Set(Titles)].sort().filter(i => i !== '');
-
-  res.send(newTitles);
-})
-
-/*
-app.get('/manga/:title', (req, res) => {
-  const title = req.params.title;
-  const type = req.query.type;
-
-  const snapshot = Object.entries(data['VolumeList']);
-  const wantedByTitle = snapshot.filter(([ key, item ]) => item['Title'] === title);
-  const wantedByType = wantedByTitle.filter(([ key, item ]) => item['Type'] = type);
-
-  res.send(wantedByType);
-})
-*/
+  res.send(Titles);
+});
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
-})
+  console.log(`runing on http://localhost:${port}`);
+});

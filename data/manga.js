@@ -1305,3 +1305,4 @@ const Manga = {
 }
 
 module.exports = { Manga }
+//export default Manga;
