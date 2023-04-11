@@ -19,7 +19,8 @@ const main = {
     "all": "https://api4ever.vercel.app/volume",
     "one": ["https://api4ever.vercel.app/volume/[id]"]
   },
-  "titles": "https://api4ever.vercel.app/titles"
+  "titles": "https://api4ever.vercel.app/titles",
+  "magazines": "https://api4ever.vercel.app/magazines"
 };
 
 const localMain = {
@@ -41,6 +42,11 @@ app.use('/volume', VolumeRoutes);
 
 app.get('/titles', (req, res) => {
   const { Titles } = require('./data/titles.js');
+  res.send(Titles);
+});
+
+app.get('/magazines', (req, res) => {
+  const { Titles } = require('./data/magazines.js');
   res.send(Titles);
 });
 
