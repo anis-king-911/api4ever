@@ -46,8 +46,8 @@ app.get('/titles', (req, res) => {
 });
 
 app.get('/magazines', (req, res) => {
-  const { Titles } = require('./data/magazines.js');
-  res.send(Titles);
+  const { Magazines } = require('./data/magazines.js');
+  res.send(Magazines);
 });
 
 app.listen(port, () => {
