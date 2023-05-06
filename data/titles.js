@@ -188,6 +188,8 @@ const newTitles = [
   "World's End Harem Fantasia Academy",
   "Wotaku ni Koi wa Muzukashii",
   "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+  "Yahari Ore no Seishun Love Comedy wa Machigatteiru. @comic",
+  "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Monologue",
   "Yamada-kun to 7-nin no Majo",
   "Yofukashi no Uta",
   "Youjo Senki",
