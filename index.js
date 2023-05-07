@@ -13,7 +13,34 @@ const main = {
     "one": [
       "https://api4ever.vercel.app/manga/[id]",
       "https://api4ever.vercel.app/manga/[id]/volume"
-    ]
+    ],
+    "filter": {
+      "all": [
+        "https://api4ever.vercel.app/manga?state=[state]&type=[type]",
+        "https://api4ever.vercel.app/manga?type=[type]&state=[state]",
+      ],
+      "state": [
+        "https://api4ever.vercel.app/manga?state=publishing",
+        "https://api4ever.vercel.app/manga?state=finished",
+        "https://api4ever.vercel.app/manga?state=on%20hiatus",
+        "https://api4ever.vercel.app/manga?state=discontinued",
+      ],
+      "type": [
+        "https://api4ever.vercel.app/manga?type=manga",
+        "https://api4ever.vercel.app/manga?type=light%20novel",
+        "https://api4ever.vercel.app/manga?type=one%20shot",
+      ]
+    },
+    "pagination": {
+      "normal": [
+        "https://api4ever.vercel.app/manga?limit=[Number]&page=[Number]",
+        "https://api4ever.vercel.app/manga?page=[Number]&limit=[Number]"
+      ],
+      "by default": {
+        "limit": 5,
+        "page": 1
+      },
+    }
   },
   "volume": {
     "all": "https://api4ever.vercel.app/volume",
@@ -26,11 +53,11 @@ const main = {
 const localMain = {
   "manga": "http://localhost:7700/manga",
   "volume": "http://localhost:7700/volume",
-  "titles": "http://localhost:7700/titles"
+  "titles": "http://localhost:7700/titles",
+  "magazines": "http://localhost:7700/magazines"
 };
 
-
-app.get('/', (req, res) => {
+app.get('/', async (req, res) => {
   res.send(main);
 });
 

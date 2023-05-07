@@ -4,14 +4,18 @@ const router = express();
 router.get('/', (req, res) => {
   const type = req.query.type ? req.query.type.toLowerCase() : null;
   const state = req.query.state ? req.query.state.toLowerCase() : null;
-  const { Manga } = require('../data/manga.js');
 
-  if(!type && !state) {
-    res.send(Manga['MangaList'])
+  let limit = req.query.limit ? Number(req.query.limit) : null;
+  let page = req.query.page ? Number(req.query.page) : null;
+  
+  const { MainList } = require('../data/new/MainList.js');
+
+  if(!type && !state && !limit && !page) {
+    res.send(MainList['MainList'])
   }
   
-  if(type && state) {
-    const snapshot = Object.entries(Manga['MangaList']).filter(([key, val]) => {
+  if(type && state && !limit && !page) {
+    const snapshot = Object.entries(MainList['MainList']).filter(([key, val]) => {
       return val['Type'].toLowerCase() === type;
     }).filter(([key, val]) => {
       return val['State'].toLowerCase() === state;
@@ -21,8 +25,8 @@ router.get('/', (req, res) => {
     res.send(reObject);
   }
   
-  if(type && !state) {
-    const snapshot = Object.entries(Manga['MangaList']).filter(([key, val]) => {
+  if(type && !state && !limit && !page) {
+    const snapshot = Object.entries(MainList['MainList']).filter(([key, val]) => {
       return val['Type'].toLowerCase() === type;
     });
     
@@ -30,12 +34,70 @@ router.get('/', (req, res) => {
     res.send(reObject);
   }
   
-  if (!type && state) {
-    const snapshot = Object.entries(Manga['MangaList']).filter(([key, val]) => {
+  if (!type && state && !limit && !page) {
+    const snapshot = Object.entries(MainList['MainList']).filter(([key, val]) => {
       return val['State'].toLowerCase() === state;
     });
     
     const reObject = Object.fromEntries(snapshot);
+    res.send(reObject);
+  }
+
+  if(limit && page) {
+    const allPages = [];
+    const snapshot = Object.entries(MainList['MainList']);
+    const snapSize = snapshot.length;
+    const snapPages = Math.ceil(snapSize / limit);
+
+    for (let index = 0; index < snapPages; index++) {
+      allPages.push({
+        from: Number(index * limit),
+        to: Number( (index+1) * limit)
+      })
+    }
+
+    const newSnapshot = snapshot.slice(allPages[page - 1].from, allPages[page - 1].to);
+    const reObject = {
+      details: {
+        limit: limit,
+        currentPage: page,
+        totalPages: snapPages,
+        nextPage: page === snapPages ? false : true,
+        prevPage: page <= 1 ? false : true,
+      },
+      content: Object.fromEntries(newSnapshot)
+    };
+
+    res.send(reObject);
+  }
+  
+  if( (!limit && page) || (limit && !page)) {
+    limit = limit ? limit : 5;
+    page = page ? page : 1;
+    const allPages = [];
+    const snapshot = Object.entries(MainList['MainList']);
+    const snapSize = snapshot.length;
+    const snapPages = Math.ceil(snapSize / limit);
+
+    for (let index = 0; index < snapPages; index++) {
+      allPages.push({
+        from: Number(index * limit),
+        to: Number( (index+1) * limit)
+      })
+    }
+
+    const newSnapshot = snapshot.slice(allPages[page - 1].from, allPages[page - 1].to);
+    const reObject = {
+      head: {
+        limit: limit,
+        currentPage: page,
+        totalPages: snapPages,
+        nextPage: page === snapPages ? false : true,
+        prevPage: page <= 1 ? false : true,
+      },
+      body: Object.fromEntries(newSnapshot)
+    };
+
     res.send(reObject);
   }
   
@@ -44,8 +106,8 @@ router.get('/', (req, res) => {
 router.get('/:id', (req, res) => {
   const id = Number(req.params.id);
 
-  const { Manga } = require('../data/manga.js');
-  const snapshot = Object.entries(Manga['MangaList']);
+  const { MainList } = require('../data/new/MainList.js');
+  const snapshot = Object.entries(MainList['MainList']);
   const WantedManga = snapshot.filter(([key, val]) => val['ID'] === id);
 
   const Case = WantedManga && WantedManga.length !== 0 ? Object.fromEntries(WantedManga) : ["nothing add yet"];
@@ -55,11 +117,11 @@ router.get('/:id', (req, res) => {
 router.get('/:id/volume', (req, res) => {
   const id = Number(req.params.id);
 
-  const { Manga } = require('../data/manga.js');
-  const { Volume } = require('../data/volume.js');
+  const { MainList } = require('../data/new/MainList.js');
+  const { CoversList } = require('../data/new/CoversList.js');
 
-  const mangaSnapshot = Object.values(Manga['MangaList']);
-  const volumeSnapshot = Object.entries(Volume['VolumeList']);
+  const mangaSnapshot = Object.values(MainList['MainList']);
+  const volumeSnapshot = Object.entries(CoversList['CoversList']);
   const WantedManga = mangaSnapshot.find(val => val['ID'] === id);
   const WantedVolume = volumeSnapshot.filter(([key, val]) => val['Title'] === WantedManga['Title']);
 
