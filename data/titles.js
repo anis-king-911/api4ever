@@ -41,6 +41,7 @@ const newTitles = [
   "Dragon Ball",
   "Dragon Ball Super",
   "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+  "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka II",
   "Durarara!!",
   "Durarara!! SH",
   "Edens Zero",
