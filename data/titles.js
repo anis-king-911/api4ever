@@ -8,6 +8,7 @@ const newTitles = [
   "Arslan Senki",
   "Ashita, Watashi wa Dareka no Kanojo",
   "Attack On Titans",
+  "Attack On Titans: Before the Fall",
   "Bakemonogatari",
   "Bakuman",
   "Barakamon",
