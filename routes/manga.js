@@ -8,7 +8,7 @@ router.get('/', (req, res) => {
   let limit = req.query.limit ? Number(req.query.limit) : null;
   let page = req.query.page ? Number(req.query.page) : null;
   
-  const { MainList } = require('../data/new/MainList.js');
+  const { MainList } = require('../data/MainList.json');
 
   if(!type && !state && !limit && !page) {
     res.send(MainList['MainList'])
@@ -106,7 +106,7 @@ router.get('/', (req, res) => {
 router.get('/:id', (req, res) => {
   const id = Number(req.params.id);
 
-  const { MainList } = require('../data/new/MainList.js');
+  const { MainList } = require('../data/MainList.json');
   const snapshot = Object.entries(MainList['MainList']);
   const WantedManga = snapshot.filter(([key, val]) => val['ID'] === id);
 
@@ -117,8 +117,8 @@ router.get('/:id', (req, res) => {
 router.get('/:id/volume', (req, res) => {
   const id = Number(req.params.id);
 
-  const { MainList } = require('../data/new/MainList.js');
-  const { CoversList } = require('../data/new/CoversList.js');
+  const { MainList } = require('../data/MainList.json');
+  const { CoversList } = require('../data/CoversList.json');
 
   const mangaSnapshot = Object.values(MainList['MainList']);
   const volumeSnapshot = Object.entries(CoversList['CoversList']);

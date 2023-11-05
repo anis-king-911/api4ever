@@ -2,14 +2,14 @@ const express = require('express');
 const router = express();
 
 router.get('/', (req, res) => {
-  const { CoversList } = require('../data/new/CoversList.js');
+  const { CoversList } = require('../data/CoversList.json');
   res.send(CoversList['CoversList']);
 });
 
 router.get('/:id', (req, res) => {
   const id = Number(req.params.id);
 
-  const { CoversList } = require('../data/new/CoversList.js');
+  const { CoversList } = require('../data/CoversList.json');
   const snapshot = Object.entries(CoversList['CoversList']);
   const WantedVolume = snapshot.filter(([key, val]) => val['ID'] === id);
 

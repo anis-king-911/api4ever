@@ -1,4 +1,6 @@
+//const data = require('./data/backUp.json');
 const express = require('express');
+const path = require('path');
 const app = express();
 const port = 7700;
 
@@ -60,6 +62,11 @@ const localMain = {
 app.get('/', async (req, res) => {
   res.send(main);
 });
+
+//app.get('/test', (req, res) => {
+//  res.sendFile(path.join(__dirname, './data/index.html'));
+//  res.send(data);
+//});
 
 const MangaRoutes = require('./routes/manga.js');
 app.use('/manga', MangaRoutes);
