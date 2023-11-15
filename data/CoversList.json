@@ -65339,6 +65339,886 @@
       "Title": "One Piece",
       "Type": "Manga",
       "VolNumber": 107
+    },
+    "1699533722822": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tougen_Anki/17_QyZOseRc_.jpg",
+      "Dates": {
+        "CreAt": 1699533722822,
+        "PubAt": 1699401600000
+      },
+      "ID": 5941,
+      "Title": "Tougen Anki",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1699533774939": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Wind_Breaker/14_9z1aJd9s9.jpg",
+      "Dates": {
+        "CreAt": 1699533774939,
+        "PubAt": 1699488000000
+      },
+      "ID": 5942,
+      "Title": "Wind Breaker",
+      "Type": "Manga",
+      "VolNumber": 14
+    },
+    "1699534259897": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kuchi_ga_Saketemo_Kimi_ni_wa/10_8zmj0s8Ux.jpg",
+      "Dates": {
+        "CreAt": 1699534259897,
+        "PubAt": 1698883200000
+      },
+      "ID": 5943,
+      "Title": "Kuchi ga Saketemo Kimi ni wa",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1700044477952": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/01_-h5ZsfSOz.jpg",
+      "Dates": {
+        "CreAt": 1700044477952,
+        "PubAt": 1492560000000
+      },
+      "ID": 5944,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1700044477953": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/02_klyufeoZD.jpg",
+      "Dates": {
+        "CreAt": 1700044477953,
+        "PubAt": 1508371200000
+      },
+      "ID": 5945,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1700044477954": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/03_THHsDiWyc.jpg",
+      "Dates": {
+        "CreAt": 1700044477954,
+        "PubAt": 1526601600000
+      },
+      "ID": 5946,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1700044477955": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/04_smletszak.jpg",
+      "Dates": {
+        "CreAt": 1700044477955,
+        "PubAt": 1542585600000
+      },
+      "ID": 5947,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1700044477956": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/05_aRhK35740.jpg",
+      "Dates": {
+        "CreAt": 1700044477956,
+        "PubAt": 1558051200000
+      },
+      "ID": 5948,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1700044477957": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/06_8gn2I8FGd.jpg",
+      "Dates": {
+        "CreAt": 1700044477957,
+        "PubAt": 1574121600000
+      },
+      "ID": 5949,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1700044477958": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/07_zNxciLjxi.jpg",
+      "Dates": {
+        "CreAt": 1700044477958,
+        "PubAt": 1597795200000
+      },
+      "ID": 5950,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1700044477959": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/08_nE_p2vkIv.jpg",
+      "Dates": {
+        "CreAt": 1700044477959,
+        "PubAt": 1618790400000
+      },
+      "ID": 5951,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1700044477960": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/09_nbnxIVlHQ.jpg",
+      "Dates": {
+        "CreAt": 1700044477960,
+        "PubAt": 1634601600000
+      },
+      "ID": 5952,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1700044477961": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/10_aaRxk-aKl.jpg",
+      "Dates": {
+        "CreAt": 1700044477961,
+        "PubAt": 1655424000000
+      },
+      "ID": 5953,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1700044477962": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/11_HmNWeCiHF.jpg",
+      "Dates": {
+        "CreAt": 1700044477962,
+        "PubAt": 1679011200000
+      },
+      "ID": 5954,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1700044477963": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akebi-chan%20no%20Sailor-fuku/12_S1i6g4bBKS.jpg",
+      "Dates": {
+        "CreAt": 1700044477963,
+        "PubAt": 1697673600000
+      },
+      "ID": 5955,
+      "Title": "Akebi-chan no Sailor-fuku",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1700045183304": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/01_c5a8r8rjQ.jpg",
+      "Dates": {
+        "CreAt": 1700045183304,
+        "PubAt": 1502236800000
+      },
+      "ID": 5956,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1700045183305": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/02_Iyy-bIAWk.jpg",
+      "Dates": {
+        "CreAt": 1700045183305,
+        "PubAt": 1515456000000
+      },
+      "ID": 5957,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1700045183306": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/03_GjbQ51_Zy.jpg",
+      "Dates": {
+        "CreAt": 1700045183306,
+        "PubAt": 1528502400000
+      },
+      "ID": 5958,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1700045183307": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/04_yzpTMo0V7.jpg",
+      "Dates": {
+        "CreAt": 1700045183307,
+        "PubAt": 1544140800000
+      },
+      "ID": 5959,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1700045183308": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/05_s9nVQWC0M.jpg",
+      "Dates": {
+        "CreAt": 1700045183308,
+        "PubAt": 1559952000000
+      },
+      "ID": 5960,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1700045183309": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/06_zjWUEMaB0.jpg",
+      "Dates": {
+        "CreAt": 1700045183309,
+        "PubAt": 1575849600000
+      },
+      "ID": 5961,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1700045183310": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/07_lHPPzXZ-I.jpg",
+      "Dates": {
+        "CreAt": 1700045183310,
+        "PubAt": 1594252800000
+      },
+      "ID": 5962,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1700045183311": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/08_z_BuGSZ-D.jpg",
+      "Dates": {
+        "CreAt": 1700045183311,
+        "PubAt": 1607472000000
+      },
+      "ID": 5963,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1700045183312": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/09_yDr_kJ7mX.jpg",
+      "Dates": {
+        "CreAt": 1700045183312,
+        "PubAt": 1623196800000
+      },
+      "ID": 5964,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1700045183313": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/10_rYnTlvl9u.jpg",
+      "Dates": {
+        "CreAt": 1700045183313,
+        "PubAt": 1636416000000
+      },
+      "ID": 5965,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1700045183314": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/11_D5geOMGQp.jpg",
+      "Dates": {
+        "CreAt": 1700045183314,
+        "PubAt": 1652054400000
+      },
+      "ID": 5966,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1700045183315": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/12_UrFWy7G56.jpg",
+      "Dates": {
+        "CreAt": 1700045183315,
+        "PubAt": 1667952000000
+      },
+      "ID": 5967,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1700045183316": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kodomo%20wo%20Koroshite%20Kudasai%20to%20Iu%20Oya-tachi/13_tOCGoPurz.jpg",
+      "Dates": {
+        "CreAt": 1700045183316,
+        "PubAt": 1683590400000
+      },
+      "ID": 5968,
+      "Title": "Kodomo wo Koroshite Kudasai to Iu Oya-tachi",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1700046494352": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/01_e3wyGcG86-.jpg",
+      "Dates": {
+        "CreAt": 1700046494352,
+        "PubAt": 1595203200000
+      },
+      "ID": 5969,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1700046494353": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/02_X5nS5-h1e.jpg",
+      "Dates": {
+        "CreAt": 1700046494353,
+        "PubAt": 1608249600000
+      },
+      "ID": 5970,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1700046494354": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/03__YaD1l0gp.jpg",
+      "Dates": {
+        "CreAt": 1700046494354,
+        "PubAt": 1618876800000
+      },
+      "ID": 5971,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1700046494355": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/04_5LkrXS7A2.jpg",
+      "Dates": {
+        "CreAt": 1700046494355,
+        "PubAt": 1629331200000
+      },
+      "ID": 5972,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1700046494356": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/05_zJyZssh-a.jpg",
+      "Dates": {
+        "CreAt": 1700046494356,
+        "PubAt": 1637193600000
+      },
+      "ID": 5973,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1700046494357": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/06_KrTIJFf4r.jpg",
+      "Dates": {
+        "CreAt": 1700046494357,
+        "PubAt": 1650412800000
+      },
+      "ID": 5974,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1700046494358": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/07_J-4mAzoL_.jpg",
+      "Dates": {
+        "CreAt": 1700046494358,
+        "PubAt": 1660867200000
+      },
+      "ID": 5975,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1700046494359": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/08_i2EPLRZFb.jpg",
+      "Dates": {
+        "CreAt": 1700046494359,
+        "PubAt": 1671494400000
+      },
+      "ID": 5976,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1700046494360": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/09_tN2WhdeaR.webp",
+      "Dates": {
+        "CreAt": 1700046494360,
+        "PubAt": 1681948800000
+      },
+      "ID": 5977,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1700046494361": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/10_ZcmEHyc7K.webp",
+      "Dates": {
+        "CreAt": 1700046494361,
+        "PubAt": 1692316800000
+      },
+      "ID": 5978,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1700046494362": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/11_R62wHgEqy.webp",
+      "Dates": {
+        "CreAt": 1700046494362,
+        "PubAt": 1697673600000
+      },
+      "ID": 5979,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1700047125589": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/01_nVwaX76Cm.jpg",
+      "Dates": {
+        "CreAt": 1700047125589,
+        "PubAt": 1501804800000
+      },
+      "ID": 5980,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1700047125590": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/02_0ODDcwch5v.jpg",
+      "Dates": {
+        "CreAt": 1700047125590,
+        "PubAt": 1519948800000
+      },
+      "ID": 5981,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1700047125591": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/03_ud3Sl6DkM.jpg",
+      "Dates": {
+        "CreAt": 1700047125591,
+        "PubAt": 1546560000000
+      },
+      "ID": 5982,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1700047125592": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/04_Nnf63PuUO.jpg",
+      "Dates": {
+        "CreAt": 1700047125592,
+        "PubAt": 1570147200000
+      },
+      "ID": 5983,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1700047125593": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/05_Hpju8XNUl.jpg",
+      "Dates": {
+        "CreAt": 1700047125593,
+        "PubAt": 1583280000000
+      },
+      "ID": 5984,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1700047125594": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/06_K903c4cMI.jpg",
+      "Dates": {
+        "CreAt": 1700047125594,
+        "PubAt": 1601596800000
+      },
+      "ID": 5985,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1700047194820": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/01_5LRmxn9E5.webp",
+      "Dates": {
+        "CreAt": 1700047194820,
+        "PubAt": 1455062400000
+      },
+      "ID": 5986,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 1
+    },
+    "1700047194821": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/02_3Qg7AHcgR.webp",
+      "Dates": {
+        "CreAt": 1700047194821,
+        "PubAt": 1460160000000
+      },
+      "ID": 5987,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 2
+    },
+    "1700047194822": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/03_VCIOQuJAV.webp",
+      "Dates": {
+        "CreAt": 1700047194822,
+        "PubAt": 1470787200000
+      },
+      "ID": 5988,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 3
+    },
+    "1700047194823": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/04_J9gp2Nt8E.webp",
+      "Dates": {
+        "CreAt": 1700047194823,
+        "PubAt": 1484006400000
+      },
+      "ID": 5989,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 4
+    },
+    "1700047194824": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/05_ujYCyn6o4.webp",
+      "Dates": {
+        "CreAt": 1700047194824,
+        "PubAt": 1491609600000
+      },
+      "ID": 5990,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 5
+    },
+    "1700047194825": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/06_CUvvsKOmOZ.webp",
+      "Dates": {
+        "CreAt": 1700047194825,
+        "PubAt": 1502323200000
+      },
+      "ID": 5991,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 6
+    },
+    "1700047194826": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/07_zLN8dMlJ6.webp",
+      "Dates": {
+        "CreAt": 1700047194826,
+        "PubAt": 1510272000000
+      },
+      "ID": 5992,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 7
+    },
+    "1700047194827": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/08_znfg-JWdW.webp",
+      "Dates": {
+        "CreAt": 1700047194827,
+        "PubAt": 1520640000000
+      },
+      "ID": 5993,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 8
+    },
+    "1700047194828": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/09_llZjf0JdL3.webp",
+      "Dates": {
+        "CreAt": 1700047194828,
+        "PubAt": 1536537600000
+      },
+      "ID": 5994,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 9
+    },
+    "1700047194829": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/10_-T3Q-48FW.webp",
+      "Dates": {
+        "CreAt": 1700047194829,
+        "PubAt": 1541808000000
+      },
+      "ID": 5995,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 10
+    },
+    "1700047194830": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/11_7TrzN1820.webp",
+      "Dates": {
+        "CreAt": 1700047194830,
+        "PubAt": 1557446400000
+      },
+      "ID": 5996,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 11
+    },
+    "1700047194831": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/12_eRqTK7u3y.webp",
+      "Dates": {
+        "CreAt": 1700047194831,
+        "PubAt": 1570665600000
+      },
+      "ID": 5997,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 12
+    },
+    "1700047194832": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/13_LRlfolMzg.webp",
+      "Dates": {
+        "CreAt": 1700047194832,
+        "PubAt": 1575936000000
+      },
+      "ID": 5998,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 13
+    },
+    "1700047194833": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/14_-nAWdcLSz.webp",
+      "Dates": {
+        "CreAt": 1700047194833,
+        "PubAt": 1591747200000
+      },
+      "ID": 5999,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 14
+    },
+    "1700047194834": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/15_SYfWgBQ8g.webp",
+      "Dates": {
+        "CreAt": 1700047194834,
+        "PubAt": 1607558400000
+      },
+      "ID": 6000,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 15
+    },
+    "1700047194835": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/16_nSVirI2Qv.webp",
+      "Dates": {
+        "CreAt": 1700047194835,
+        "PubAt": 1625788800000
+      },
+      "ID": 6001,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 16
+    },
+    "1700047194836": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ore%20wo%20Suki%20nano%20wa%20Omae%20dake%20ka%20yo/light%20novel/17_U3sm7KpzA.webp",
+      "Dates": {
+        "CreAt": 1700047194836,
+        "PubAt": 1641600000000
+      },
+      "ID": 6002,
+      "Title": "Ore wo Suki nano wa Omae dake ka yo",
+      "Type": "Light Novel",
+      "VolNumber": 17
+    },
+    "1700047550882": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tonari%20no%20Oneesan%20ga%20Suki/01__Mt0kREvS.jpg",
+      "Dates": {
+        "CreAt": 1700047550882,
+        "PubAt": 1652918400000
+      },
+      "ID": 6003,
+      "Title": "Tonari no Oneesan ga Suki",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1700047550883": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tonari%20no%20Oneesan%20ga%20Suki/02_Jqj1aYXyM2.jpg",
+      "Dates": {
+        "CreAt": 1700047550883,
+        "PubAt": 1671494400000
+      },
+      "ID": 6004,
+      "Title": "Tonari no Oneesan ga Suki",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1700047550884": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tonari%20no%20Oneesan%20ga%20Suki/03_Rzwlm8ni9.jpg",
+      "Dates": {
+        "CreAt": 1700047550884,
+        "PubAt": 1687219200000
+      },
+      "ID": 6005,
+      "Title": "Tonari no Oneesan ga Suki",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1700047691769": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akabane%20Honeko%20no%20Bodyguard/01_sOQhH5hso.png",
+      "Dates": {
+        "CreAt": 1700047691769,
+        "PubAt": 1673913600000
+      },
+      "ID": 6006,
+      "Title": "Akabane Honeko no Bodyguard",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1700047691770": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akabane%20Honeko%20no%20Bodyguard/02_Gqtrn5LXV.jpg",
+      "Dates": {
+        "CreAt": 1700047691770,
+        "PubAt": 1678924800000
+      },
+      "ID": 6007,
+      "Title": "Akabane Honeko no Bodyguard",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1700047691771": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akabane%20Honeko%20no%20Bodyguard/03_Xr9X5KCHx.jpg",
+      "Dates": {
+        "CreAt": 1700047691771,
+        "PubAt": 1684281600000
+      },
+      "ID": 6008,
+      "Title": "Akabane Honeko no Bodyguard",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1700047691772": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akabane%20Honeko%20no%20Bodyguard/04_afDRcEkhS.jpg",
+      "Dates": {
+        "CreAt": 1700047691772,
+        "PubAt": 1689292800000
+      },
+      "ID": 6009,
+      "Title": "Akabane Honeko no Bodyguard",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1700047691773": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akabane%20Honeko%20no%20Bodyguard/05_-Jvs1TdRI.jpg",
+      "Dates": {
+        "CreAt": 1700047691773,
+        "PubAt": 1694649600000
+      },
+      "ID": 6010,
+      "Title": "Akabane Honeko no Bodyguard",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1700048018466": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/01_TShJUgA6n.jpg",
+      "Dates": {
+        "CreAt": 1700048018466,
+        "PubAt": 1515110400000
+      },
+      "ID": 6011,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1700048018467": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/02_Zh51ylFOR.jpg",
+      "Dates": {
+        "CreAt": 1700048018467,
+        "PubAt": 1525651200000
+      },
+      "ID": 6012,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1700048018468": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/03_PwaO47KN_.jpg",
+      "Dates": {
+        "CreAt": 1700048018468,
+        "PubAt": 1541462400000
+      },
+      "ID": 6013,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1700048018469": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/04_cOg9pMQII.jpg",
+      "Dates": {
+        "CreAt": 1700048018469,
+        "PubAt": 1567728000000
+      },
+      "ID": 6014,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1700048018470": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/05_pprH7Yffv.jpg",
+      "Dates": {
+        "CreAt": 1700048018470,
+        "PubAt": 1593993600000
+      },
+      "ID": 6015,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1700048018471": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/06_7I_Sr6_Qp.jpg",
+      "Dates": {
+        "CreAt": 1700048018471,
+        "PubAt": 1617667200000
+      },
+      "ID": 6016,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1700048018472": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/07_Wswn1sE4i.jpg",
+      "Dates": {
+        "CreAt": 1700048018472,
+        "PubAt": 1631836800000
+      },
+      "ID": 6017,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1700048018473": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/08_4SaGaHmbD.jpg",
+      "Dates": {
+        "CreAt": 1700048018473,
+        "PubAt": 1655683200000
+      },
+      "ID": 6018,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1700048018474": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/09__-ae0Rv7E.jpg",
+      "Dates": {
+        "CreAt": 1700048018474,
+        "PubAt": 1676851200000
+      },
+      "ID": 6019,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1700048018475": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/10_pWbcrgZo7.jpg",
+      "Dates": {
+        "CreAt": 1700048018475,
+        "PubAt": 1697673600000
+      },
+      "ID": 6020,
+      "Title": "Shutokou SPL",
+      "Type": "Manga",
+      "VolNumber": 10
     }
   }
 }
