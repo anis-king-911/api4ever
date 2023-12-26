@@ -1,4 +1,3 @@
-//const data = require('./data/backUp.json');
 const express = require('express');
 const path = require('path');
 const app = express();
@@ -60,7 +59,7 @@ const localMain = {
 };
 
 app.get('/', async (req, res) => {
-  res.send(main);
+  res.send(localMain);
 });
 
 //app.get('/test', (req, res) => {
@@ -75,12 +74,12 @@ const VolumeRoutes = require('./routes/volume.js');
 app.use('/volume', VolumeRoutes);
 
 app.get('/titles', (req, res) => {
-  const { Titles } = require('./data/titles.js');
+  const { Titles } = require('./data/newTitles.json');
   res.send(Titles);
 });
 
 app.get('/magazines', (req, res) => {
-  const { Magazines } = require('./data/magazines.js');
+  const { Magazines } = require('./data/Magazines.json');
   res.send(Magazines);
 });
 

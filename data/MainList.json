@@ -1,7 +1,7 @@
 {
   "MainList": {
     "-N6iv2nlSdjBPFPdIw7t": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao_No_Exorcist/29_-VgcyYxpe.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao_No_Exorcist/30_Lx46VzvsQ.jpg",
       "Dates": {
         "CreAt": 1657570868446,
         "PubAt": 1238716800000
@@ -11,13 +11,14 @@
       "State": "Publishing",
       "Title": "Ao No Exorcist",
       "Type": "Manga",
-      "VolCount": 29
+      "VolCount": 30
     },
     "-N6jZVyo-y8_rPnw5wbd": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Attack_On_Titans/34_VbFKrGB4x.jpg",
       "Dates": {
         "CreAt": 1657581735854,
-        "PubAt": 1252450800000
+        "EndAt": 1617926400000,
+        "PubAt": 1252368000000
       },
       "ID": 2,
       "Magazine": "Bessatsu Shounen Magazine",
@@ -30,7 +31,8 @@
       "Cover": "https://ik.imagekit.io/DzManga4Up/Dr__Stone/volume_26_vwnT35RuK.jpg",
       "Dates": {
         "CreAt": 1657581841193,
-        "PubAt": 1488754800000
+        "EndAt": 1646611200000,
+        "PubAt": 1488758400000
       },
       "ID": 3,
       "Magazine": "Shounen Jump",
@@ -43,7 +45,8 @@
       "Cover": "https://ik.imagekit.io/DzManga4Up/The_Promised_Neverland/20__Go-W-duo.jpg",
       "Dates": {
         "CreAt": 1657581875679,
-        "PubAt": 1470006000000
+        "EndAt": 1592179200000,
+        "PubAt": 1470009600000
       },
       "ID": 4,
       "Magazine": "Shounen Jump",
@@ -56,7 +59,8 @@
       "Cover": "https://ik.imagekit.io/DzManga4Up/Samurai_8_Hachimaruden/7367227-05_6oSGEQbdd.jpg",
       "Dates": {
         "CreAt": 1657581907461,
-        "PubAt": 1557702000000
+        "EndAt": 1584921600000,
+        "PubAt": 1557705600000
       },
       "ID": 5,
       "Magazine": "Shounen Jump",
@@ -196,7 +200,7 @@
       "VolCount": 29
     },
     "-N6jcfo2x_tC1tIxqUtf": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Jujutsu_Kaisen/24_5WJg-CZl5.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Jujutsu_Kaisen/25_Id4TduiAG.jpg",
       "Dates": {
         "CreAt": 1657582829521,
         "PubAt": 1520121600000
@@ -206,10 +210,10 @@
       "State": "Publishing",
       "Title": "Jujutsu Kaisen",
       "Type": "Manga",
-      "VolCount": 24
+      "VolCount": 25
     },
     "-N6jcuwrH8HxfEFJwVx2": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Chainsaw_Man/15_ufvHR1CPI.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Chainsaw_Man/16_7_Q4zoJO1.jpeg",
       "Dates": {
         "CreAt": 1657582890802,
         "PubAt": 1543708800000
@@ -219,7 +223,7 @@
       "State": "Publishing",
       "Title": "Chainsaw Man",
       "Type": "Manga",
-      "VolCount": 15
+      "VolCount": 16
     },
     "-N6jd4W6Uvk7LnTG8gnr": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/The_Four_Knights_Of_Apocalypse/14_zr0b9Av-c.jpg",
@@ -248,7 +252,7 @@
       "VolCount": 20
     },
     "-N6jdRcvSRKHuOs4TNm-": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Fairy_Tail_100_Years_Quist/Fairy_Tail_100_Years_Vol_15_tiTORk5yW.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Fairy_Tail_100_Years_Quist/Fairy_Tail_100_Years_Vol_16_okbPO_N-p.jpg",
       "Dates": {
         "CreAt": 1657583029511,
         "PubAt": 1532390400000
@@ -258,10 +262,10 @@
       "State": "Publishing",
       "Title": "Fairy Tail 100 Years Quest",
       "Type": "Manga",
-      "VolCount": 15
+      "VolCount": 16
     },
     "-N6jdtfnTAlME1hxXhF_": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Dragon_Ball_Super/21_OoJWIk4PU.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dragon_Ball_Super/22_-lk5xFHxd.jpg",
       "Dates": {
         "CreAt": 1657583147758,
         "PubAt": 1434672000000
@@ -271,7 +275,7 @@
       "State": "Publishing",
       "Title": "Dragon Ball Super",
       "Type": "Manga",
-      "VolCount": 21
+      "VolCount": 22
     },
     "-N6je3c7rH3Y-sCSLtH7": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Nanatsu_No_Taizai/41_SRPYhLEQs.jpg",
@@ -300,7 +304,7 @@
       "VolCount": 26
     },
     "-N7Gl0LdclwjpRSrPOPG": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Edens_Zero/028_caQEIlPyj.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Edens_Zero/29_kL4QXnpbk.jpg",
       "Dates": {
         "CreAt": 1658155440912,
         "PubAt": 1529971200000
@@ -310,10 +314,10 @@
       "State": "Publishing",
       "Title": "Edens Zero",
       "Type": "Manga",
-      "VolCount": 28
+      "VolCount": 29
     },
     "-N7aLX7r8OFJlJlGeshx": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Record_Of_Ragnarok/19_ZMaS-CZcA7.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Record_Of_Ragnarok/20_XLHKrThKj.jpg",
       "Dates": {
         "CreAt": 1658500818532,
         "PubAt": 1511481600000
@@ -323,7 +327,7 @@
       "State": "Publishing",
       "Title": "Record Of Ragnarok",
       "Type": "Manga",
-      "VolCount": 19
+      "VolCount": 20
     },
     "-N8JWqTVt-ERc9uM4CS9": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Tokyo%E5%8D%8DRevengers/TR_31_9AojFl2jL.jpg",
@@ -482,7 +486,7 @@
       "VolCount": 12
     },
     "-NBogYRPDo_ie_7ygTWJ": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Kaiju%20No.%208/10_HU0bWh07f.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kaiju%20No.%208/11_NWdEOxdt7.jpg",
       "Dates": {
         "CreAt": 1663036437832,
         "PubAt": 1593648000000
@@ -492,7 +496,7 @@
       "State": "Publishing",
       "Title": "Kaiju No. 8",
       "Type": "Manga",
-      "VolCount": 10
+      "VolCount": 11
     },
     "-NC_kVhgJ6fHN7t2nKtZ": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Horimiya/016_qx4hCcyDq.png",
@@ -560,7 +564,7 @@
       "VolCount": 18
     },
     "-NEvRSmjLXk5dtXtrok-": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Blue_Lock/26_yWx5wauhb.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Blue_Lock/27__sDihnlcc.jpg",
       "Dates": {
         "CreAt": 1666183595063,
         "PubAt": 1532995200000
@@ -570,7 +574,7 @@
       "State": "Publishing",
       "Title": "Blue Lock",
       "Type": "Manga",
-      "VolCount": 26
+      "VolCount": 27
     },
     "-NFE22AR-zJnt5GwdJ43": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Fire_Punch/6254518-08_xSQfhHKE9Q.jpg",
@@ -739,7 +743,7 @@
       "VolCount": 45
     },
     "-NK3W81PHmjHNHvUGVI2": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Tonikaku_Kawai/25_rkSMuS5CK.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tonikaku_Kawai/26_adrprpETW.jpg",
       "Dates": {
         "CreAt": 1668333687944,
         "PubAt": 1518480000000
@@ -749,10 +753,10 @@
       "State": "Publishing",
       "Title": "Tonikaku Kawaii",
       "Type": "Manga",
-      "VolCount": 25
+      "VolCount": 26
     },
     "-NK3WqqypsVDTDMVcc4T": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Sakamoto_Days/14_Hc1verdAf.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Sakamoto_Days/15_nEMXOft3M.jpg",
       "Dates": {
         "CreAt": 1668333687945,
         "PubAt": 1605830400000
@@ -762,7 +766,7 @@
       "State": "Publishing",
       "Title": "Sakamoto Days",
       "Type": "Manga",
-      "VolCount": 14
+      "VolCount": 15
     },
     "-NKDMUk_RQQJ6G1c-YTq": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Naruto/Vol27_A2v1WuF8V.png",
@@ -829,7 +833,7 @@
       "VolCount": 37
     },
     "-NKSaWsxJLwHOKdLx_Wi": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Ijiranaide__Nagatoro-san/17_qjQBQkW5Q.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ijiranaide__Nagatoro-san/18_jbfX4qF8R.jpg",
       "Dates": {
         "CreAt": 1668333687952,
         "PubAt": 1509926400000
@@ -839,7 +843,7 @@
       "State": "Publishing",
       "Title": "Ijiranaide, Nagatoro-san",
       "Type": "Manga",
-      "VolCount": 17
+      "VolCount": 18
     },
     "-NKSbVTWYY4_hLzUI2nt": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Shokugeki_no_Souma/36_C6LJ90V3J.jpg",
@@ -1075,7 +1079,7 @@
       "VolCount": 24
     },
     "-NOJqk22emrd3UOKkHtA": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Kingdom/69_2bLxvmQD9.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kingdom/70_u7FHSLOYa.jpg",
       "Dates": {
         "CreAt": 1676460883313,
         "PubAt": 1138147200000
@@ -1085,7 +1089,7 @@
       "State": "Publishing",
       "Title": "Kingdom",
       "Type": "Manga",
-      "VolCount": 69
+      "VolCount": 70
     },
     "-NOPF8oJS4xF8DCwnmGg": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Kaguya-sama/028_fU6DM_Nejz.webp",
@@ -1808,7 +1812,7 @@
       "VolCount": 17
     },
     "-NUuh9RLm0H_TkJR6cLF": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu/21_fdW7RYnDE.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu/022_xRs_IE8lo.jpg",
       "Dates": {
         "CreAt": 1683538356278,
         "PubAt": 1435104000000
@@ -1818,7 +1822,7 @@
       "State": "Publishing",
       "Title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
       "Type": "Manga",
-      "VolCount": 21
+      "VolCount": 22
     },
     "-NUuhKamnMeE0cxgP7i7": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu/light_novel/14_aCV4WsbfU.webp",
@@ -1924,7 +1928,7 @@
       "VolCount": 10
     },
     "-NV1kcvnnIzn4yZIRY4q": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Undead_Unluck/18_O-Tq6hHQh.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Undead_Unluck/19_fv48WQ8Cp.jpg",
       "Dates": {
         "CreAt": 1683673485075,
         "PubAt": 1579478400000
@@ -1934,10 +1938,10 @@
       "State": "Publishing",
       "Title": "Undead Unluck",
       "Type": "Manga",
-      "VolCount": 18
+      "VolCount": 19
     },
     "-NV8kroebppy9nhZpHU7": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Uzaki-chan_wa_Asobitai_/10_dEfQ9XQLZ.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Uzaki-chan_wa_Asobitai_/11_T9_cEn-d1.jpeg",
       "Dates": {
         "CreAt": 1683790986282,
         "PubAt": 1512345600000
@@ -1947,7 +1951,7 @@
       "State": "Publishing",
       "Title": "Uzaki-chan wa Asobitai!",
       "Type": "Manga",
-      "VolCount": 10
+      "VolCount": 11
     },
     "-NV8ldR4sZumHqb7BN7O": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Yuragi-sou_no_Yuuna-san/24_MdTP4hLLd.jpg",
@@ -1976,7 +1980,7 @@
       "VolCount": 18
     },
     "-NV8mYnt_0OEEh-V_COh": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Dosanko_Gal_wa_Namara_Menkoi/11_JTXRRKpMN.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dosanko_Gal_wa_Namara_Menkoi/12_iwon8tjH4.png",
       "Dates": {
         "CreAt": 1683791428600,
         "PubAt": 1567555200000
@@ -1986,10 +1990,10 @@
       "State": "Publishing",
       "Title": "Dosanko Gal wa Namara Menkoi",
       "Type": "Manga",
-      "VolCount": 11
+      "VolCount": 12
     },
     "-NV8n3ey__iccOpkuANu": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Kakkou_no_Iinazuke/19_TQ0zexi5h.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kakkou_no_Iinazuke/20_Ay8AtR3p4.jpg",
       "Dates": {
         "CreAt": 1683791563198,
         "PubAt": 1580256000000
@@ -1999,10 +2003,10 @@
       "State": "Publishing",
       "Title": "Kakkou no Iinazuke",
       "Type": "Manga",
-      "VolCount": 19
+      "VolCount": 20
     },
     "-NV9NM1WWYx-TDFnttSq": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka/II/04_vMzGf4Dsu.webp",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka/II/05_cQtJ4gTBS.jpg",
       "Dates": {
         "CreAt": 1683801337395,
         "PubAt": 1576800000000
@@ -2012,7 +2016,7 @@
       "State": "Publishing",
       "Title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka II",
       "Type": "Manga",
-      "VolCount": 4
+      "VolCount": 5
     },
     "-NV9WY7CGwmO-Ks0G4vs": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Attack_On_Titans/Before_the_Fall/17_ZsKpxeyet.jpg",
@@ -2041,7 +2045,7 @@
       "VolCount": 12
     },
     "-NVGRsRlfNoRIkt5VEbc": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/World_s_End_Harem/Fantasia/14_p502zF3lF.webp",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/World_s_End_Harem/Fantasia/15_6E5nDvt93.jpg",
       "Dates": {
         "CreAt": 1683919964009,
         "PubAt": 1524096000000
@@ -2051,7 +2055,7 @@
       "State": "Publishing",
       "Title": "World's End Harem: Fantasia",
       "Type": "Manga",
-      "VolCount": 14
+      "VolCount": 15
     },
     "-NVGSXIPZZ2FBhfNzgQF": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/World_s_End_Harem/Fantasia_Academy/03_BZ_Xfx0NH.jpg",
@@ -2259,7 +2263,7 @@
       "VolCount": 16
     },
     "-NVWwxjQwoPB1egSTrMc": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Shounen_no_Abyss/14_y7Ito4L1G.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shounen_no_Abyss/15_KUuU7IP8a.jpg",
       "Dates": {
         "CreAt": 1684196810619,
         "PubAt": 1582761600000
@@ -2269,7 +2273,7 @@
       "State": "Publishing",
       "Title": "Shounen no Abyss",
       "Type": "Manga",
-      "VolCount": 14
+      "VolCount": 15
     },
     "-NVWxMhF5XFG7aRg6kim": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Kishuku_Gakkou_no_Juliet/16_ALpeuYAQf.jpg",
@@ -2298,17 +2302,17 @@
       "VolCount": 11
     },
     "-NVWy7ZNWl5Ut6vU6XCI": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Ashita__Watashi_wa_Dareka_no_Kanojo/15_7HkQOgmML.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ashita__Watashi_wa_Dareka_no_Kanojo/16_FA84jNdpr.jpg",
       "Dates": {
         "CreAt": 1684197117112,
         "PubAt": 1556841600000
       },
       "ID": 179,
       "Magazine": "Cycomics",
-      "State": "Publishing",
+      "State": "Finished",
       "Title": "Ashita, Watashi wa Dareka no Kanojo",
       "Type": "Manga",
-      "VolCount": 15
+      "VolCount": 16
     },
     "-NVWylz6avWz7FDw6rty": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Monster_Musume_no_Iru_Nichijou/18_5vp8W933W.jpg",
@@ -2337,7 +2341,7 @@
       "VolCount": 8
     },
     "-NVd03yChMi_gaALoO6Z": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Ousama_Ranking/17_4Rs0CrKRV.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ousama_Ranking/18_2GMvxR3JG.jpg",
       "Dates": {
         "CreAt": 1684315328814,
         "PubAt": 1549929600000
@@ -2347,7 +2351,7 @@
       "State": "Publishing",
       "Title": "Ousama Ranking",
       "Type": "Manga",
-      "VolCount": 17
+      "VolCount": 18
     },
     "-NVd0ZlisDZY2pO1OuPU": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Oshi_no_Ko/13_P6vitrObY.jpg",
@@ -2515,7 +2519,7 @@
       "VolCount": 6
     },
     "-NVi5w9WwTNHKJyP8veI": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/2_5-jigen_no_Ririsa/18_QZwBphbik.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/2_5-jigen_no_Ririsa/19_8p1saA1oc.jpg",
       "Dates": {
         "CreAt": 1684400752142,
         "PubAt": 1560556800000
@@ -2525,7 +2529,7 @@
       "State": "Publishing",
       "Title": "2.5-jigen no Ririsa",
       "Type": "Manga",
-      "VolCount": 18
+      "VolCount": 19
     },
     "-NVi5waH8Nsm3gnGG6kl": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Sewayaki_Kitsune_no_Senko-san/12_NSuOdQtD3.jpg",
@@ -2709,7 +2713,7 @@
       "VolCount": 16
     },
     "-NVx_1qgEG93lBJkZ7DV": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Gokurakugai/02_nXzXsGMBA.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Gokurakugai/03_ufCmC4Hg5.jpg",
       "Dates": {
         "CreAt": 1684660301276,
         "PubAt": 1656892800000
@@ -2719,7 +2723,7 @@
       "State": "Publishing",
       "Title": "Gokurakugai",
       "Type": "Manga",
-      "VolCount": 2
+      "VolCount": 3
     },
     "-NVx_2WN-oUSudGO_27O": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/3-gatsu_no_Lion/17_zQr37yqzU.jpg",
@@ -2748,7 +2752,7 @@
       "VolCount": 34
     },
     "-NVx_3k3B0Cc3cjAYUkJ": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Blue_Period/14__hiRhrNTcB.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Blue_Period/15_bmEq2IlBg.jpg",
       "Dates": {
         "CreAt": 1684660309017,
         "PubAt": 1498262400000
@@ -2758,7 +2762,7 @@
       "State": "Publishing",
       "Title": "Blue Period",
       "Type": "Manga",
-      "VolCount": 14
+      "VolCount": 15
     },
     "-NVx_4MGlRcCXLh_oBn9": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Kono_Oto_Tomare_/28_DMYVp8OFI.jpg",
@@ -2800,7 +2804,7 @@
       "VolCount": 1
     },
     "-NVxhrwEsV1nC1TIOF-8": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Akane-banashi/08_nPWO5pFqc.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akane-banashi/09_zRN4ogD9U.jpg",
       "Dates": {
         "CreAt": 1684662615811,
         "PubAt": 1644796800000
@@ -2810,7 +2814,7 @@
       "State": "Publishing",
       "Title": "Akane-banashi",
       "Type": "Manga",
-      "VolCount": 8
+      "VolCount": 9
     },
     "-NVxhsR_C0O7jbJb9cJS": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Jagaaaaaan/14_zQtZxB8VK.jpg",
@@ -2826,7 +2830,7 @@
       "VolCount": 14
     },
     "-NVxht0BTC_NDOJXxsLO": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Getsuyoubi_no_Tawawa/08_r-BwQVWqX.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Getsuyoubi_no_Tawawa/09_B43qO2MEV.jpg",
       "Dates": {
         "CreAt": 1684662620222,
         "PubAt": 1605484800000
@@ -2836,10 +2840,10 @@
       "State": "Publishing",
       "Title": "Getsuyoubi no Tawawa",
       "Type": "Manga",
-      "VolCount": 8
+      "VolCount": 9
     },
     "-NVzW23u34QetCjKCGFY": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao_no_Hako/12_ibH3FozBD.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao_no_Hako/13_b7eKEoa7L.jpg",
       "Dates": {
         "CreAt": 1684692807913,
         "PubAt": 1618185600000
@@ -2849,7 +2853,7 @@
       "State": "Publishing",
       "Title": "Ao no Hako",
       "Type": "Manga",
-      "VolCount": 12
+      "VolCount": 13
     },
     "-NVzW2W_hGTlE7vkc46W": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Jinzou_Ningen_100/05_3530dCaSc.jpg",
@@ -3136,7 +3140,7 @@
       "VolCount": 10
     },
     "-NWFVfhiIqBcwUB9hb0g": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Shangri-La_Frontier_Kusoge_Hunter__Kamige_ni_Idoman_to_su/15_kNtZwy-S8.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shangri-La_Frontier_Kusoge_Hunter__Kamige_ni_Idoman_to_su/16_p56rvnYmM.jpg",
       "Dates": {
         "CreAt": 1684977923619,
         "PubAt": 1594771200000
@@ -3146,10 +3150,10 @@
       "State": "Publishing",
       "Title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
       "Type": "Manga",
-      "VolCount": 15
+      "VolCount": 16
     },
     "-NWFVgQ73jpvus-aHb7z": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Ayakashi_Triangle/15_9qiI-oLdt6.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ayakashi_Triangle/16_Tm9vjle77.jpg",
       "Dates": {
         "CreAt": 1684977926558,
         "PubAt": 1592179200000
@@ -3159,7 +3163,7 @@
       "State": "Publishing",
       "Title": "Ayakashi Triangle",
       "Type": "Manga",
-      "VolCount": 15
+      "VolCount": 16
     },
     "-NWHk8_Oa3CxO1eYl7XI": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Dead_Account/04_tD0Koz6oT.jpg",
@@ -3240,7 +3244,7 @@
       "VolCount": 10
     },
     "-NWNEx3VCx3jyoTWv9FO": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Wind_Breaker/14_9z1aJd9s9.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Wind_Breaker/15_0POzr33bK.jpg",
       "Dates": {
         "CreAt": 1685107756333,
         "PubAt": 1610496000000
@@ -3250,7 +3254,7 @@
       "State": "Publishing",
       "Title": "Wind Breaker",
       "Type": "Manga",
-      "VolCount": 14
+      "VolCount": 15
     },
     "-NWNExUh7GUV4e17KZQV": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Uruwashi_no_Yoi_no_Tsuki/06_SziXAH77Z.webp",
@@ -3394,7 +3398,7 @@
       "VolCount": 5
     },
     "-NWRhoZC5JrrgJciXSMr": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Kaijin_Reijou/10_C_JQ69Jsq.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kaijin_Reijou/11_WJaBMGEuz.jpg",
       "Dates": {
         "CreAt": 1685182696913,
         "PubAt": 1524268800000
@@ -3404,7 +3408,7 @@
       "State": "Publishing",
       "Title": "Kaijin Reijou",
       "Type": "Manga",
-      "VolCount": 10
+      "VolCount": 11
     },
     "-NWRiCTvfG0XmguhBe2n": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Hachigatsu_Kokonoka_Boku_wa_Kimi_ni_Kuwareru/04_Rx_CPDmeo.jpg",
@@ -3446,7 +3450,7 @@
       "VolCount": 14
     },
     "-NaJKmCl54pnXXsczyBf": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Juujika_no_Rokunin/13_edC35NgLL.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Juujika_no_Rokunin/14_FMRp-L1YD.jpg",
       "Dates": {
         "CreAt": 1690410871479,
         "PubAt": 1583712000000
@@ -3456,7 +3460,7 @@
       "State": "Publishing",
       "Title": "Juujika no Rokunin",
       "Type": "Manga",
-      "VolCount": 13
+      "VolCount": 14
     },
     "-NaJKmiGN1QeQu-54IDk": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Kage_no_Jitsuryokusha_ni_Naritakute_/light_novel/06_UN203IBo_.webp",
@@ -3511,7 +3515,7 @@
       "VolCount": 9
     },
     "-NaJMRF8PFL9Y-aWLZ0I": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Witch_Watch/13_2gvuRacK7.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Witch_Watch/14_34HEJ25Z2.jpg",
       "Dates": {
         "CreAt": 1690411305843,
         "PubAt": 1612742400000
@@ -3521,7 +3525,7 @@
       "State": "Publishing",
       "Title": "Witch Watch",
       "Type": "Manga",
-      "VolCount": 13
+      "VolCount": 14
     },
     "-NaJMRelpcMnFnyoazGk": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Out/25_arbVr_SHA.jpg",
@@ -3550,7 +3554,7 @@
       "VolCount": 8
     },
     "-NaXSLjGBc0I60krkf11": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Nozomanu_Fushi_no_Boukensha/11_QtH9WevqZ.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Nozomanu_Fushi_no_Boukensha/12_gkKfgcLph.jpg",
       "Dates": {
         "CreAt": 1690647751716,
         "PubAt": 1511481600000
@@ -3560,7 +3564,7 @@
       "State": "Publishing",
       "Title": "Nozomanu Fushi no Boukensha",
       "Type": "Manga",
-      "VolCount": 11
+      "VolCount": 12
     },
     "-NaXSMfc53FItHqP6qd5": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Nozomanu_Fushi_no_Boukensha/light_novel/10_GLlLvyE2y.webp",
@@ -3589,7 +3593,7 @@
       "VolCount": 104
     },
     "-NaXSPA4HvdWf316Y3zm": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Choujin_X/07_mgpk1se7K.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Choujin_X/08_HR5rWXmOa.jpg",
       "Dates": {
         "CreAt": 1690647765796,
         "PubAt": 1620604800000
@@ -3599,20 +3603,20 @@
       "State": "Publishing",
       "Title": "Choujin X",
       "Type": "Manga",
-      "VolCount": 7
+      "VolCount": 8
     },
     "-NaXSQ0KdWaH5shms61D": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Ichinose-ke_no_Taizai/04_C1-YuplRD.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ichinose-ke_no_Taizai/05_PqIESQU-s.png",
       "Dates": {
         "CreAt": 1690647769436,
         "PubAt": 1668384000000
       },
       "ID": 280,
       "Magazine": "Shounen Jump",
-      "State": "Publishing",
+      "State": "Finished",
       "Title": "Ichinose-ke no Taizai",
       "Type": "Manga",
-      "VolCount": 4
+      "VolCount": 5
     },
     "-NaXSR3KljxA6t7Vf3Hj": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Nige_Jouzu_no_Wakagimi/13_kkrZW_wmQ.jpg",
@@ -3628,7 +3632,7 @@
       "VolCount": 13
     },
     "-NaXTAhYhDmKLkZlkG17": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Tsuyoshi_Daremo_Katenai__Aitsu_ni_wa/19_KAexCDPIB.webp",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tsuyoshi_Daremo_Katenai__Aitsu_ni_wa/020_aYI9IXLA0.jpg",
       "Dates": {
         "CreAt": 1690647968692,
         "PubAt": 1543449600000
@@ -3638,10 +3642,10 @@
       "State": "Publishing",
       "Title": "Tsuyoshi: Daremo Katenai, Aitsu ni wa",
       "Type": "Manga",
-      "VolCount": 19
+      "VolCount": 20
     },
     "-Nacd3VJzMrwEDZ5zozg": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Yubisaki_to_Renren/09_M2730XmQr.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Yubisaki_to_Renren/10_5k60YPTnc.jpg",
       "Dates": {
         "CreAt": 1690751485367,
         "PubAt": 1563926400000
@@ -3651,7 +3655,7 @@
       "State": "Publishing",
       "Title": "Yubisaki to Renren",
       "Type": "Manga",
-      "VolCount": 9
+      "VolCount": 10
     },
     "-Nacd49dRijCV9Mru598": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Ui_x_Kon/12_0BmUnB4Ez.webp",
@@ -3732,7 +3736,7 @@
       "VolCount": 9
     },
     "-Nb-rbXRg1Z55CudDvIP": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Jaa__Kimi_no_Kawari_ni_Korosou_ka/07_tqJg28Frx.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Jaa__Kimi_no_Kawari_ni_Korosou_ka/08_Kz1txgP4Q.jpg",
       "Dates": {
         "CreAt": 1691157952527,
         "PubAt": 1541462400000
@@ -3742,7 +3746,7 @@
       "State": "Publishing",
       "Title": "Jaa, Kimi no Kawari ni Korosou ka",
       "Type": "Manga",
-      "VolCount": 7
+      "VolCount": 8
     },
     "-Nb-t2s5hhtgJ5rtwiKY": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Maeda_Keiji_Kabuki_Tabi/13_vszjy4P-M.webp",
@@ -3758,7 +3762,7 @@
       "VolCount": 13
     },
     "-Nb-t3JmxRDO1LgJX2oi": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Marriagetoxin/06_A2jqOVLbQ.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Marriagetoxin/07_FLwxXOGlN.webp",
       "Dates": {
         "CreAt": 1691158332580,
         "PubAt": 1650412800000
@@ -3768,7 +3772,7 @@
       "State": "Publishing",
       "Title": "Marriagetoxin",
       "Type": "Manga",
-      "VolCount": 6
+      "VolCount": 7
     },
     "-Nb-t3mBUcXdBF1Bzzdk": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Polaris_wa_Kienai/03_ChtNF3GBs.webp",
@@ -3797,7 +3801,7 @@
       "VolCount": 5
     },
     "-Nb-t4diE6NY_3lX2P3V": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Shy/21_MSW8YJFOB.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shy/22_oJbuKaBeF.jpg",
       "Dates": {
         "CreAt": 1691158338020,
         "PubAt": 1564617600000
@@ -3807,7 +3811,7 @@
       "State": "Publishing",
       "Title": "Shy",
       "Type": "Manga",
-      "VolCount": 21
+      "VolCount": 22
     },
     "-NbAwzFz3-CaCQWQ-0se": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Mushishi/10_NrZ44mZcn.jpg",
@@ -3836,7 +3840,7 @@
       "VolCount": 6
     },
     "-NbAwzG1S0phIUGLymUi": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/S-Rank_Boukensha_de_Aru_Ore_no_Musume-tachi_wa_Juudo_no_Fathercon_deshita/06_foISUr1GP.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/S-Rank_Boukensha_de_Aru_Ore_no_Musume-tachi_wa_Juudo_no_Fathercon_deshita/07_6Cs6VHY6Y.webp",
       "Dates": {
         "CreAt": 1691343910290,
         "PubAt": 1588291200000
@@ -3846,10 +3850,10 @@
       "State": "Publishing",
       "Title": "S-Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Fathercon deshita",
       "Type": "Manga",
-      "VolCount": 6
+      "VolCount": 7
     },
     "-NbAwzG2gkGaiPduBqS8": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Tsuiraku_JK_to_Haijin_Kyoushi/17_13mhxQsIi.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tsuiraku_JK_to_Haijin_Kyoushi/18_ciKt7AbeA.jpg",
       "Dates": {
         "CreAt": 1691343910291,
         "PubAt": 1500508800000
@@ -3859,7 +3863,7 @@
       "State": "Publishing",
       "Title": "Tsuiraku JK to Haijin Kyoushi",
       "Type": "Manga",
-      "VolCount": 17
+      "VolCount": 18
     },
     "-NbAwzG2gkGaiPduBqS9": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/World_Trigger/26_26ZwqfzSU.jpg",
@@ -4005,7 +4009,7 @@
       "VolCount": 4
     },
     "-Ncg6h-JNn5ZDlzKlV4y": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Dandadan/11_OeU6mIclG.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dandadan/13_XtxlmsrbV.jpeg",
       "Dates": {
         "CreAt": 1692957330396,
         "PubAt": 1617667200000
@@ -4015,7 +4019,7 @@
       "State": "Publishing",
       "Title": "Dandadan",
       "Type": "Manga",
-      "VolCount": 11
+      "VolCount": 13
     },
     "-Ncg6h-Q2WnjB_YWJxYi": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Dekiru%20Neko%20wa%20Kyou%20mo%20Yuuutsu/08_pEz9CYnCj.jpg",
@@ -4057,7 +4061,7 @@
       "VolCount": 3
     },
     "-Ncg6h-RgW8c6EGPWz3g": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Gachiakuta/08_MM_o4ahWb.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Gachiakuta/09_i00JNDzjg.jpg",
       "Dates": {
         "CreAt": 1692957330400,
         "PubAt": 1644969600000
@@ -4067,7 +4071,7 @@
       "State": "Publishing",
       "Title": "Gachiakuta",
       "Type": "Manga",
-      "VolCount": 8
+      "VolCount": 9
     },
     "-Ncg86PNi4RjzHNoE6m8": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Haikyuu-bu!!/10_ZIh1RkLc3.jpg",
@@ -4083,7 +4087,7 @@
       "VolCount": 10
     },
     "-Ncg86PNi4RjzHNoE6m9": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Dead%20Mount%20Death%20Play/11_Ca4CYWKK9.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dead%20Mount%20Death%20Play/12_sL_FiMumM.jpg",
       "Dates": {
         "CreAt": 1692957700706,
         "PubAt": 1508457600000
@@ -4093,7 +4097,7 @@
       "State": "Publishing",
       "Title": "Dead Mount Death Play",
       "Type": "Manga",
-      "VolCount": 11
+      "VolCount": 12
     },
     "-Ncg86PNi4RjzHNoE6mA": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Kaoru%20Hana%20wa%20Rin%20to%20Saku/10_czlmuCxF8.jpg",
@@ -4148,7 +4152,7 @@
       "VolCount": 7
     },
     "-Ncv0FBreAmxTfqW1kOm": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Majo%20Taisen%2032-nin%20no%20Isai%20no%20Majo%20wa%20Koroshiau/07_hsmu8I9ac.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Majo%20Taisen%2032-nin%20no%20Isai%20no%20Majo%20wa%20Koroshiau/08_2rh9eDAce.webp",
       "Dates": {
         "CreAt": 1693207299047,
         "PubAt": 1603497600000
@@ -4158,7 +4162,7 @@
       "State": "Publishing",
       "Title": "Majo Taisen 32-nin no Isai no Majo wa Koroshiau",
       "Type": "Manga",
-      "VolCount": 7
+      "VolCount": 8
     },
     "-Ncv0FBsXfrhq2O8--8W": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Hiiragi-san%20Chi%20no%20Kyuuketsu%20Jijou/03_t4iAAPQr-w.jpg",
@@ -4200,7 +4204,7 @@
       "VolCount": 33
     },
     "-NdG7IURbKz6phhl5X5-": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Higanjima%2048%20Nichigo/41_zmNCSs9TJ.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Higanjima%2048%20Nichigo/42_HqS6VfDXL.jpg",
       "Dates": {
         "CreAt": 1693578247303,
         "PubAt": 1408320000000
@@ -4210,7 +4214,7 @@
       "State": "Publishing",
       "Title": "Higanjima: 48 Nichigo",
       "Type": "Manga",
-      "VolCount": 41
+      "VolCount": 42
     },
     "-NdG7IUSw2jAt_CkhvtY": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Higanjima%20Saigo%20no%2047%20Nichikan/16_m81YqnB_9.png",
@@ -4226,7 +4230,7 @@
       "VolCount": 16
     },
     "-NdG7IUSw2jAt_CkhvtZ": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Shouha%20Shouten!/05_yOdmHux8b.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shouha%20Shouten!/06_Gt7BP6xEs.webp",
       "Dates": {
         "CreAt": 1693578247305,
         "PubAt": 1633305600000
@@ -4236,7 +4240,7 @@
       "State": "Publishing",
       "Title": "Shouha Shouten!",
       "Type": "Manga",
-      "VolCount": 5
+      "VolCount": 6
     },
     "-NdG7IUTe11h1VwExxEY": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/MF%20Ghost/18_09bqAbR4c.jpg",
@@ -4369,7 +4373,7 @@
       "VolCount": 15
     },
     "-Ndl5SNeWj6L-vCQDy6X": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Mairimashita!%20Iruma-kun/34_j5Ewt6qQc4.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Mairimashita!%20Iruma-kun/35_r8-rfrC1Z.jpg",
       "Dates": {
         "CreAt": 1694114633845,
         "PubAt": 1488412800000
@@ -4379,7 +4383,7 @@
       "State": "Publishing",
       "Title": "Mairimashita! Iruma-kun",
       "Type": "Manga",
-      "VolCount": 34
+      "VolCount": 35
     },
     "-Ndl5SNfHFijBgP_yxtL": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Reincarnation%20no%20Kaben/18_nBeIw7zak-.jpg",
@@ -4460,7 +4464,7 @@
       "VolCount": 14
     },
     "-Ne_Sj6PYaadUSrya8hp": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao%20no%20Miburo/10_43H_znvEV.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao%20no%20Miburo/11_QnEYhKMBH.jpg",
       "Dates": {
         "CreAt": 1694993149275,
         "PubAt": 1634083200000
@@ -4470,7 +4474,7 @@
       "State": "Publishing",
       "Title": "Ao no Miburo",
       "Type": "Manga",
-      "VolCount": 10
+      "VolCount": 11
     },
     "-Ne_Sj6QY08F1f_66OQV": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Ayame-kun%20no%20Nonbiri%20Nikushoku%20Nisshi/17_DtskT4jmdl.jpg",
@@ -4642,7 +4646,7 @@
       "VolCount": 12
     },
     "-NemR4Z0Zww61rXSnHjH": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Kokoro%20no%20Program/03_Oi9xVrnlM.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kokoro%20no%20Program/04_grZpSn461.jpg",
       "Dates": {
         "CreAt": 1695210821323,
         "PubAt": 1635638400000
@@ -4652,7 +4656,7 @@
       "State": "Publishing",
       "Title": "Kokoro no Program",
       "Type": "Manga",
-      "VolCount": 3
+      "VolCount": 4
     },
     "-Nf0L7J10YR66HvID_Sx": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Natsume%20Arata%20no%20Kekkon/11_A6xfmipqy.jpg",
@@ -4668,7 +4672,7 @@
       "VolCount": 11
     },
     "-Nf0L7J4Yxfe1Zk-qLzP": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Sentai%20Daishikkaku/11_sxCJ-QnZF.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Sentai%20Daishikkaku/12_uPU2vmRyY.jpg",
       "Dates": {
         "CreAt": 1695460916599,
         "PubAt": 1612310400000
@@ -4678,7 +4682,7 @@
       "State": "Publishing",
       "Title": "Sentai Daishikkaku",
       "Type": "Manga",
-      "VolCount": 11
+      "VolCount": 12
     },
     "-Nf0L7J5YPnJCVrA7Rgi": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Summertime%20Render/13_ldN52DZoh.png",
@@ -4733,7 +4737,7 @@
       "VolCount": 33
     },
     "-NfOH0YPebUcPlh8Yj8v": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Tokyo%E5%8D%8DRevengers/EDITION%20COULEUR/20_SeVy5M3Tp.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tokyo%E5%8D%8DRevengers/EDITION%20COULEUR/24_eqLby7Qq9.jpg",
       "Dates": {
         "CreAt": 1695862495531,
         "PubAt": 1673913600000
@@ -4743,7 +4747,7 @@
       "State": "Publishing",
       "Title": "Tokyo Revengers Alt",
       "Type": "Manga",
-      "VolCount": 20
+      "VolCount": 24
     },
     "-NfRJGWnmOH84pCprTB1": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Re_Zero/Kenki%20Koiuta/04_sQJzZfqUk.jpg",
@@ -4759,7 +4763,7 @@
       "VolCount": 4
     },
     "-NfWT_HEbFIKrVaP8qed": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Masamune-kun_no_Revenge/Engagement/12_GdIhsJ5jY.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Masamune-kun_no_Revenge/Engagement/13_vXcYlos-R.jpg",
       "Dates": {
         "CreAt": 1696000004816,
         "PubAt": 1682467200000
@@ -4769,7 +4773,7 @@
       "State": "Publishing",
       "Title": "Masamune-kun no Revenge: engagement",
       "Type": "Manga",
-      "VolCount": 1
+      "VolCount": 2
     },
     "-Ng3OUYn-uAv_9UQcF-r": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Re_Zero/Dai-3%20Shou%20-%20Truth%20of%20Zero/11_TDmu4imDZ.jpg",
@@ -4876,7 +4880,7 @@
       "VolCount": 3
     },
     "-NiOo0SIs710JmdYWEvm": {
-      "Cover": "https://ik.imagekit.io/DzManga4Up/Akabane%20Honeko%20no%20Bodyguard/05_-Jvs1TdRI.jpg",
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akabane%20Honeko%20no%20Bodyguard/06_D_0i4DU78.jpg",
       "Dates": {
         "CreAt": 1699092633851,
         "PubAt": 1663718400000
@@ -4886,7 +4890,7 @@
       "State": "Publishing",
       "Title": "Akabane Honeko no Bodyguard",
       "Type": "Manga",
-      "VolCount": 5
+      "VolCount": 6
     },
     "-NiOo0SJc6RUja-5yW8t": {
       "Cover": "https://ik.imagekit.io/DzManga4Up/Shutokou%20SPL/10_pWbcrgZo7.jpg",
@@ -4913,6 +4917,396 @@
       "Title": "Blast",
       "Type": "Manga",
       "VolCount": 3
+    },
+    "-NjO3QYCurCHcbuf9d0v": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/High-rise%20Invasion/21__zpBs2DoQ.jpg",
+      "Dates": {
+        "CreAt": 1700153899509,
+        "PubAt": 1386201600000
+      },
+      "ID": 381,
+      "Magazine": "Manga Box",
+      "State": "Finished",
+      "Title": "High-rise Invasion",
+      "Type": "Manga",
+      "VolCount": 21
+    },
+    "-NjO3QYIjQxke--VeLLF": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kimi%20no%20Koto%20ga%20Daidaidaidaidaisuki%20na%20100-nin%20no%20Kanojo/16_bwa34J3CI.jpg",
+      "Dates": {
+        "CreAt": 1700153899510,
+        "PubAt": 1577318400000
+      },
+      "ID": 382,
+      "Magazine": "Young Jump",
+      "State": "Publishing",
+      "Title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "Type": "Manga",
+      "VolCount": 16
+    },
+    "-NjO3QYK7pGdh53XAzXt": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Megami%20no%20Caf%C3%A9%20Terrace/13_3IP_Qme3E.jpg",
+      "Dates": {
+        "CreAt": 1700153899511,
+        "PubAt": 1613520000000
+      },
+      "ID": 383,
+      "Magazine": "Shounen Magazine",
+      "State": "Publishing",
+      "Title": "Megami no Café Terrace",
+      "Type": "Manga",
+      "VolCount": 13
+    },
+    "-NjO3QYMngULpWs3Mip0": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kusuriya%20no%20Hitorigoto/12_yldkRr2aM.png",
+      "Dates": {
+        "CreAt": 1700153899512,
+        "PubAt": 1495670400000
+      },
+      "ID": 384,
+      "Magazine": "Big Gangan",
+      "State": "Publishing",
+      "Title": "Kusuriya no Hitorigoto",
+      "Type": "Manga",
+      "VolCount": 12
+    },
+    "-NjO3QYOno0q2ZXvhXiw": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Satsudou/03_kS_B9hFZt.jpg",
+      "Dates": {
+        "CreAt": 1700153899513,
+        "PubAt": 1674432000000
+      },
+      "ID": 385,
+      "Magazine": "Young Magazine",
+      "State": "Publishing",
+      "Title": "Satsudou",
+      "Type": "Manga",
+      "VolCount": 3
+    },
+    "-Nk6h-OkTA5nPwiqfjjA": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Owari%20no%20Seraph/31_zn3R9wZR-.jpg",
+      "Dates": {
+        "CreAt": 1700936288313,
+        "PubAt": 1346630400000
+      },
+      "ID": 386,
+      "Magazine": "Jump SQ.",
+      "State": "Publishing",
+      "Title": "Owari no Seraph",
+      "Type": "Manga",
+      "VolCount": 31
+    },
+    "-Nk6h-OpZ-XqOK6NEGLf": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tenkuu%20Shinpan%20Arrive/07_4yQVWjQdJ.jpg",
+      "Dates": {
+        "CreAt": 1700936288314,
+        "PubAt": 1564272000000
+      },
+      "ID": 387,
+      "Magazine": "Magazine pocket",
+      "State": "Finished",
+      "Title": "Tenkuu Shinpan Arrive",
+      "Type": "Manga",
+      "VolCount": 7
+    },
+    "-Nk6h-OrqNLNc1lmjUyx": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akai%20Ringo/07_SRtZ3cYBE.jpg",
+      "Dates": {
+        "CreAt": 1700936288315,
+        "PubAt": 1578960000000
+      },
+      "ID": 388,
+      "Magazine": "Comic Days",
+      "State": "Publishing",
+      "Title": "Akai Ringo",
+      "Type": "Manga",
+      "VolCount": 7
+    },
+    "-Nk6h-OsDt8snWOFPlc0": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ansatsu%20Koukyuu%20Ansatsu%20Jokan%20Karin%20wa%20Yuttari%20Ikitai/04_2KDC5nO6N.jpg",
+      "Dates": {
+        "CreAt": 1700936288316,
+        "PubAt": 1630022400000
+      },
+      "ID": 389,
+      "Magazine": "Gekkan! Spirits",
+      "State": "Publishing",
+      "Title": "Ansatsu Koukyuu Ansatsu Jokan Karin wa Yuttari Ikitai",
+      "Type": "Manga",
+      "VolCount": 4
+    },
+    "-Nk6h-OtPqMusy3HS2yG": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Hajirau%20Kimi%20ga%20Mitainda/07__36Alpqjt.jpg",
+      "Dates": {
+        "CreAt": 1700936288317,
+        "PubAt": 1610668800000
+      },
+      "ID": 390,
+      "Magazine": "Young Magazine Web",
+      "State": "Publishing",
+      "Title": "Hajirau Kimi ga Mitainda",
+      "Type": "Manga",
+      "VolCount": 7
+    },
+    "-Nk6h-OtPqMusy3HS2yH": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Houkago%20no%20Goumon%20Shoujo/12_cdPm8hQCP.jpg",
+      "Dates": {
+        "CreAt": 1700936288318,
+        "PubAt": 1503446400000
+      },
+      "ID": 391,
+      "Magazine": "Magazine pocket",
+      "State": "Finished",
+      "Title": "Houkago no Goumon Shoujo",
+      "Type": "Manga",
+      "VolCount": 12
+    },
+    "-Nk6h-OuuK8cPbZbxd3Q": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kokan%20Musou%20Kiraware%20Yuusha%20wa%20Mazoku%20ni%20Aisareru/04_FRDwLJUZ4.jpg",
+      "Dates": {
+        "CreAt": 1700936288319,
+        "PubAt": 1623974400000
+      },
+      "ID": 392,
+      "Magazine": "Young Magazine Web",
+      "State": "Publishing",
+      "Title": "Kokan Musou Kiraware Yuusha wa Mazoku ni Aisareru",
+      "Type": "Manga",
+      "VolCount": 4
+    },
+    "-Nk6h-OxA58B71NkH-_-": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shinju%20no%20Nectar/16_efYhDCErM.jpg",
+      "Dates": {
+        "CreAt": 1700936288320,
+        "PubAt": 1479513600000
+      },
+      "ID": 393,
+      "Magazine": "Champion RED",
+      "State": "Publishing",
+      "Title": "Shinju no Nectar",
+      "Type": "Manga",
+      "VolCount": 16
+    },
+    "-Nk6h-Oz0G6L5cFhxb-4": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shinmai%20Maou%20no%20Testament/09_j2dgYpJ8C.jpg",
+      "Dates": {
+        "CreAt": 1700936288321,
+        "PubAt": 1369440000000
+      },
+      "ID": 394,
+      "Magazine": "Shounen Ace",
+      "State": "Finished",
+      "Title": "Shinmai Maou no Testament",
+      "Type": "Manga",
+      "VolCount": 9
+    },
+    "-Nk6h-P-Un7MNvPCsIRK": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shinmai%20Maou%20no%20Testament/light%20novel/13_Hgcd4f6Ex.webp",
+      "Dates": {
+        "CreAt": 1700936288322,
+        "PubAt": 1348876800000
+      },
+      "ID": 395,
+      "Magazine": "",
+      "State": "Finished",
+      "Title": "Shinmai Maou no Testament",
+      "Type": "Light Novel",
+      "VolCount": 13
+    },
+    "-NkGtfDqTlHZwqnLALeU": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka/Dungeon%20ni%20Deai%20wo%20Motomeru%20no%20wa%20Machigatteiru%20Darou%20ka%20Familia%20Chronicle%20-%20Episode%20Freya/04_F6PSk2pbZ.jpg",
+      "Dates": {
+        "CreAt": 1701107381413,
+        "PubAt": 1601596800000
+      },
+      "ID": 396,
+      "Magazine": "Manga UP!",
+      "State": "Publishing",
+      "Title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Familia Chronicle - Episode Freya",
+      "Type": "Manga",
+      "VolCount": 4
+    },
+    "-NkGu4UjXbSEMcgG-P7b": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka/Dungeon%20ni%20Deai%20wo%20Motomeru%20no%20wa%20Machigatteiru%20Darou%20ka%20Familia%20Chronicle%20-%20Episode%20Ryuu/06_OgKqStbr9.jpg",
+      "Dates": {
+        "CreAt": 1701107488993,
+        "PubAt": 1487808000000
+      },
+      "ID": 397,
+      "Magazine": "Gangan Online",
+      "State": "Finished",
+      "Title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Familia Chronicle - Episode Ryuu",
+      "Type": "Manga",
+      "VolCount": 6
+    },
+    "-NkqecWffBflXhAa-BQD": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tokyo%20Kettou%20Kanjousen/12_jJg056owf.png",
+      "Dates": {
+        "CreAt": 1701724194353,
+        "PubAt": 1597363200000
+      },
+      "ID": 398,
+      "Magazine": "Web Comic Zenyon",
+      "State": "Publishing",
+      "Title": "Tokyo Kettou Kanjousen",
+      "Type": "Manga",
+      "VolCount": 12
+    },
+    "-NkqecWizknJoc2r_z2i": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ninkyou%20Tensei%20Isekai%20no%20Yakuza%20Hime/13_f2v4f1HSu.jpeg",
+      "Dates": {
+        "CreAt": 1701724194354,
+        "PubAt": 1563494400000
+      },
+      "ID": 399,
+      "Magazine": "Sunday Gene-X",
+      "State": "Publishing",
+      "Title": "Ninkyou Tensei Isekai no Yakuza Hime",
+      "Type": "Manga",
+      "VolCount": 13
+    },
+    "-NkqecWlkdT_QNwMBtRl": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Hyouken%20no%20Majutsushi%20ga%20Sekai%20wo%20Suberu%20Sekai%20Saikyou%20no%20Majutsushi%20de%20Aru%20Shounen%20wa,%20Majutsu%20Gakuin%20ni%20Nyuugaku%20suru/14_1RjWj860e.jpg",
+      "Dates": {
+        "CreAt": 1701724194355,
+        "PubAt": 1592956800000
+      },
+      "ID": 400,
+      "Magazine": "Magazine pocket",
+      "State": "Publishing",
+      "Title": "Hyouken no Majutsushi ga Sekai wo Suberu Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugaku suru",
+      "Type": "Manga",
+      "VolCount": 14
+    },
+    "-NkqecWmxQ0R5_izBia_": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Hyouken%20no%20Majutsushi%20ga%20Sekai%20wo%20Suberu%20Sekai%20Saikyou%20no%20Majutsushi%20de%20Aru%20Shounen%20wa,%20Majutsu%20Gakuin%20ni%20Nyuugaku%20suru/light%20novel/08_1gtu2SrVP7.webp",
+      "Dates": {
+        "CreAt": 1701724194356,
+        "PubAt": 1593648000000
+      },
+      "ID": 401,
+      "Magazine": "",
+      "State": "Publishing",
+      "Title": "Hyouken no Majutsushi ga Sekai wo Suberu Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugaku suru",
+      "Type": "Light Novel",
+      "VolCount": 8
+    },
+    "-NkqecWpR-ICjhFoVbL9": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Golden%20Guy/10_EtCfXF9y7.jpg",
+      "Dates": {
+        "CreAt": 1701724194357,
+        "PubAt": 1587686400000
+      },
+      "ID": 402,
+      "Magazine": "Manga Goraku",
+      "State": "Publishing",
+      "Title": "Golden Guy",
+      "Type": "Manga",
+      "VolCount": 10
+    },
+    "-NkqecWq7PNxizEmbiIX": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Netoge%20no%20Yome%20wa%20Onnanoko%20ja%20Nai%20to%20Omotta/08_AqhVK6nIX.jpg",
+      "Dates": {
+        "CreAt": 1701724194358,
+        "PubAt": 1409356800000
+      },
+      "ID": 403,
+      "Magazine": "Dengeki G's Comic",
+      "State": "Finished",
+      "Title": "Netoge no Yome wa Onnanoko ja Nai to Omotta",
+      "Type": "Manga",
+      "VolCount": 8
+    },
+    "-NkqecWt0RdLzsuGD5aF": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Netoge%20no%20Yome%20wa%20Onnanoko%20ja%20Nai%20to%20Omotta/light%20novel/23_Ui2XRHzng.jpg",
+      "Dates": {
+        "CreAt": 1701724194359,
+        "PubAt": 1373414400000
+      },
+      "ID": 404,
+      "Magazine": "",
+      "State": "Publishing",
+      "Title": "Netoge no Yome wa Onnanoko ja Nai to Omotta",
+      "Type": "Light Novel",
+      "VolCount": 23
+    },
+    "-NkqecWuANh_mPdVaohl": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Osaka%20Mad%20Family/10_l7VmDdljB.jpg",
+      "Dates": {
+        "CreAt": 1701724194360,
+        "PubAt": 1538438400000
+      },
+      "ID": 405,
+      "Magazine": "Bessatsu Young Champion",
+      "State": "Publishing",
+      "Title": "Osaka Mad Family",
+      "Type": "Manga",
+      "VolCount": 10
+    },
+    "-NkqecWw7k7KiZNurkXQ": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ragna%20Crimson/13_LjaseIjX8.jpg",
+      "Dates": {
+        "CreAt": 1701724194361,
+        "PubAt": 1490140800000
+      },
+      "ID": 406,
+      "Magazine": "Gangan Joker",
+      "State": "Publishing",
+      "Title": "Ragna Crimson",
+      "Type": "Manga",
+      "VolCount": 13
+    },
+    "-NkqecWxEOs82g2TgSkV": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shikeishuu:%20Ijou%20Hanzaisha%20no%20Matsuro/03_I-6-HWvy4.jpg",
+      "Dates": {
+        "CreAt": 1701724194362,
+        "PubAt": 1618531200000
+      },
+      "ID": 407,
+      "Magazine": "Young King OURs GH",
+      "State": "Finished",
+      "Title": "Shikeishuu: Ijou Hanzaisha no Matsuro",
+      "Type": "Manga",
+      "VolCount": 3
+    },
+    "-NkqecWyLchy4rIotBky": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Hitomonchaku%20nara%20yorokonde!/07_8sG3LgiML.webp",
+      "Dates": {
+        "CreAt": 1701724194363,
+        "PubAt": 1620000000000
+      },
+      "ID": 408,
+      "Magazine": "MangaONE",
+      "State": "Publishing",
+      "Title": "Hitomonchaku nara yorokonde!",
+      "Type": "Manga",
+      "VolCount": 7
+    },
+    "-NkqecWzXxLeRF2A_RFp": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ashitaba-san%20Chi%20no%20Mukogurashi/07_PmtEb4djK.jpg",
+      "Dates": {
+        "CreAt": 1701724194364,
+        "PubAt": 1438732800000
+      },
+      "ID": 409,
+      "Magazine": "Grand Jump",
+      "State": "Finished",
+      "Title": "Ashitaba-san Chi no Mukogurashi",
+      "Type": "Manga",
+      "VolCount": 7
+    },
+    "-NkqecX-ncPAdZPupUUy": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Deathtopia/08_lrZy79jOu.png",
+      "Dates": {
+        "CreAt": 1701724194365,
+        "PubAt": 1398124800000
+      },
+      "ID": 410,
+      "Magazine": "Evening",
+      "State": "Finished",
+      "Title": "Deathtopia",
+      "Type": "Manga",
+      "VolCount": 8
     }
   }
 }
