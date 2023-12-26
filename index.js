@@ -59,7 +59,7 @@ const localMain = {
 };
 
 app.get('/', async (req, res) => {
-  res.send(localMain);
+  res.send(main);
 });
 
 //app.get('/test', (req, res) => {
