@@ -45,7 +45,18 @@ const main = {
   },
   "volume": {
     "all": "https://api4ever.vercel.app/volume",
-    "one": ["https://api4ever.vercel.app/volume/[id]"]
+    "one": ["https://api4ever.vercel.app/volume/[id]"],
+
+    "pagination": {
+      "normal": [
+        "https://api4ever.vercel.app/volume?limit=[Number]&page=[Number]",
+        "https://api4ever.vercel.app/volume?page=[Number]&limit=[Number]"
+      ],
+      "by default": {
+        "limit": 10,
+        "page": 1
+      },
+    }
   },
   "titles": "https://api4ever.vercel.app/titles",
   "magazines": "https://api4ever.vercel.app/magazines"
@@ -58,14 +69,16 @@ const localMain = {
   "magazines": "http://localhost:7700/magazines"
 };
 
+/* app.use("/assets", express.static(path.resolve(__dirname, "views", "assets")));
+
+const ViewsRoutes = require('./routes/views.js');
+app.use('/', ViewsRoutes); */
+
+
 app.get('/', async (req, res) => {
+  //res.send(localMain);
   res.send(main);
 });
-
-//app.get('/test', (req, res) => {
-//  res.sendFile(path.join(__dirname, './data/index.html'));
-//  res.send(data);
-//});
 
 const MangaRoutes = require('./routes/manga.js');
 app.use('/manga', MangaRoutes);
@@ -74,12 +87,12 @@ const VolumeRoutes = require('./routes/volume.js');
 app.use('/volume', VolumeRoutes);
 
 app.get('/titles', (req, res) => {
-  const { Titles } = require('./data/newTitles.json');
+  const { Titles } = require('./data/titles.js');
   res.send(Titles);
 });
 
 app.get('/magazines', (req, res) => {
-  const { Magazines } = require('./data/Magazines.json');
+  const { Magazines } = require('./data/magazines.js');
   res.send(Magazines);
 });
 

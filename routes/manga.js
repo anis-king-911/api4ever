@@ -11,41 +11,41 @@ router.get('/', (req, res) => {
   const { MainList } = require('../data/MainList.json');
 
   if(!type && !state && !limit && !page) {
-    res.send(MainList)
+    res.send(Object.values(MainList))
   }
   
   if(type && state && !limit && !page) {
-    const snapshot = Object.entries(MainList).filter(([key, val]) => {
-      return val['Type'].toLowerCase() === type;
-    }).filter(([key, val]) => {
-      return val['State'].toLowerCase() === state;
-    });
+    const snapshot = Object.values(MainList).filter(val => 
+      val['Type'].toLowerCase() === type
+    ).filter(val => 
+      val['State'].toLowerCase() === state 
+    );
     
-    const reObject = Object.fromEntries(snapshot);
-    res.send(reObject);
+    //const reObject = Object.fromEntries(snapshot);
+    res.send(snapshot);
   }
   
   if(type && !state && !limit && !page) {
-    const snapshot = Object.entries(MainList).filter(([key, val]) => {
-      return val['Type'].toLowerCase() === type;
-    });
+    const snapshot = Object.values(MainList).filter(val => 
+      val['Type'].toLowerCase() === type
+    );
     
-    const reObject = Object.fromEntries(snapshot);
-    res.send(reObject);
+    //const reObject = Object.fromEntries(snapshot);
+    res.send(snapshot);
   }
   
   if (!type && state && !limit && !page) {
-    const snapshot = Object.entries(MainList).filter(([key, val]) => {
-      return val['State'].toLowerCase() === state;
-    });
+    const snapshot = Object.values(MainList).filter(val => 
+      val['State'].toLowerCase() === state
+    );
     
-    const reObject = Object.fromEntries(snapshot);
-    res.send(reObject);
+    //const reObject = Object.fromEntries(snapshot);
+    res.send(snapshot);
   }
 
   if(limit && page) {
     const allPages = [];
-    const snapshot = Object.entries(MainList);
+    const snapshot = Object.values(MainList);
     const snapSize = snapshot.length;
     const snapPages = Math.ceil(snapSize / limit);
 
@@ -65,17 +65,19 @@ router.get('/', (req, res) => {
         nextPage: page === snapPages ? false : true,
         prevPage: page <= 1 ? false : true,
       },
-      content: Object.fromEntries(newSnapshot)
+      content: newSnapshot//Object.fromEntries(newSnapshot)
     };
 
     res.send(reObject);
   }
   
   if( (!limit && page) || (limit && !page)) {
+
     limit = limit ? limit : 5;
     page = page ? page : 1;
+
     const allPages = [];
-    const snapshot = Object.entries(MainList);
+    const snapshot = Object.values(MainList);
     const snapSize = snapshot.length;
     const snapPages = Math.ceil(snapSize / limit);
 
@@ -95,7 +97,7 @@ router.get('/', (req, res) => {
         nextPage: page === snapPages ? false : true,
         prevPage: page <= 1 ? false : true,
       },
-      body: Object.fromEntries(newSnapshot)
+      body: newSnapshot //Object.fromEntries(newSnapshot)
     };
 
     res.send(reObject);
@@ -107,10 +109,10 @@ router.get('/:id', (req, res) => {
   const id = Number(req.params.id);
 
   const { MainList } = require('../data/MainList.json');
-  const snapshot = Object.entries(MainList);
-  const WantedManga = snapshot.filter(([key, val]) => val['ID'] === id);
+  const snapshot = Object.values(MainList);
+  const WantedManga = snapshot.filter(val => val['ID'] === id);
 
-  const Case = WantedManga && WantedManga.length !== 0 ? Object.fromEntries(WantedManga) : ["nothing add yet"];
+  const Case = WantedManga && WantedManga.length !== 0 ? WantedManga /*Object.fromEntries(WantedManga)*/ : ["nothing add yet"];
   res.send(Case);
 });
 
@@ -121,11 +123,11 @@ router.get('/:id/volume', (req, res) => {
   const { CoversList } = require('../data/CoversList.json');
 
   const mangaSnapshot = Object.values(MainList);
-  const volumeSnapshot = Object.entries(CoversList);
+  const volumeSnapshot = Object.values(CoversList);
   const WantedManga = mangaSnapshot.find(val => val['ID'] === id);
-  const WantedVolume = volumeSnapshot.filter(([key, val]) => val['Title'] === WantedManga['Title']);
+  const WantedVolume = volumeSnapshot.filter(val => val['Title'] === WantedManga['Title']);
 
-  const Case = WantedVolume.length !== 0 ? Object.fromEntries(WantedVolume) : ["nothing add yet"];
+  const Case = WantedVolume.length !== 0 ? WantedVolume /*Object.fromEntries(WantedVolume)*/ : ["nothing add yet"];
   res.send(Case);
 });
 
