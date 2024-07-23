@@ -80849,6 +80849,2987 @@
       "Title": "Trillion Game",
       "Type": "Manga",
       "VolNumber": 9
+    },
+    "1717642859489": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akane-banashi/11_qAxKNuMSf.jpg",
+      "Dates": {
+        "CreAt": 1717642859489,
+        "PubAt": 1714608000000
+      },
+      "ID": 7351,
+      "Title": "Akane-banashi",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1717642859490": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Angou%20Gakuen%20no%20Iroha/07_nSOGhyN-d.jpg",
+      "Dates": {
+        "CreAt": 1717642859490,
+        "PubAt": 1714608000000
+      },
+      "ID": 7352,
+      "Title": "Angou Gakuen no Iroha",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1717642859491": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boruto%20Two%20Blue%20Vortex/02_ywwGj4DCC.jpg",
+      "Dates": {
+        "CreAt": 1717642859491,
+        "PubAt": 1714608000000
+      },
+      "ID": 7353,
+      "Title": "Boruto Two Blue Vortex",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1717642859492": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dosanko_Gal_wa_Namara_Menkoi/13_0yn1vN_uf.jpg",
+      "Dates": {
+        "CreAt": 1717642859492,
+        "PubAt": 1714608000000
+      },
+      "ID": 7354,
+      "Title": "Dosanko Gal wa Namara Menkoi",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1717642859493": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kemono%20Jihen/021_zGizMw95Pv.jpg",
+      "Dates": {
+        "CreAt": 1717642859493,
+        "PubAt": 1714608000000
+      },
+      "ID": 7355,
+      "Title": "Kemono Jihen",
+      "Type": "Manga",
+      "VolNumber": 21
+    },
+    "1717642859494": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kagurabachi/002_MmYdCHJ0P.jpg",
+      "Dates": {
+        "CreAt": 1717642859494,
+        "PubAt": 1714608000000
+      },
+      "ID": 7356,
+      "Title": "Kagurabachi",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1717642859495": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Undead_Unluck/21_gTqhLiMQ_Q.jpg",
+      "Dates": {
+        "CreAt": 1717642859495,
+        "PubAt": 1714608000000
+      },
+      "ID": 7357,
+      "Title": "Undead Unluck",
+      "Type": "Manga",
+      "VolNumber": 21
+    },
+    "1717642859496": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/World_Trigger/27_IAwxAKYK6.jpg",
+      "Dates": {
+        "CreAt": 1717642859496,
+        "PubAt": 1714608000000
+      },
+      "ID": 7358,
+      "Title": "World Trigger",
+      "Type": "Manga",
+      "VolNumber": 27
+    },
+    "1717642859497": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Getsuyoubi_no_Tawawa/10_1Wjqq2lCc.jpg",
+      "Dates": {
+        "CreAt": 1717642859497,
+        "PubAt": 1715040000000
+      },
+      "ID": 7359,
+      "Title": "Getsuyoubi no Tawawa",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1717642859498": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Higanjima%2048%20Nichigo/44_WWaxmFEt4.jpg",
+      "Dates": {
+        "CreAt": 1717642859498,
+        "PubAt": 1715040000000
+      },
+      "ID": 7360,
+      "Title": "Higanjima: 48 Nichigo",
+      "Type": "Manga",
+      "VolNumber": 44
+    },
+    "1717642859499": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shy/24_oYWkxbWpR.jpg",
+      "Dates": {
+        "CreAt": 1717642859499,
+        "PubAt": 1715126400000
+      },
+      "ID": 7361,
+      "Title": "Shy",
+      "Type": "Manga",
+      "VolNumber": 24
+    },
+    "1717642859500": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tougen_Anki/20_i-5g4eKF9.jpg",
+      "Dates": {
+        "CreAt": 1717642859500,
+        "PubAt": 1715126400000
+      },
+      "ID": 7362,
+      "Title": "Tougen Anki",
+      "Type": "Manga",
+      "VolNumber": 20
+    },
+    "1717642859501": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Yowamushi%20Pedal/89_AgJg4oJv-.jpg",
+      "Dates": {
+        "CreAt": 1717642859501,
+        "PubAt": 1715126400000
+      },
+      "ID": 7363,
+      "Title": "Yowamushi Pedal",
+      "Type": "Manga",
+      "VolNumber": 89
+    },
+    "1717642859502": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Juujika_no_Rokunin/15_Z5XY1eSqp.jpg",
+      "Dates": {
+        "CreAt": 1717642859502,
+        "PubAt": 1715212800000
+      },
+      "ID": 7364,
+      "Title": "Juujika no Rokunin",
+      "Type": "Manga",
+      "VolNumber": 15
+    },
+    "1717642859503": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tomodachi%20Game/25_UrSOUUmpl.jpg",
+      "Dates": {
+        "CreAt": 1717642859503,
+        "PubAt": 1715212800000
+      },
+      "ID": 7365,
+      "Title": "Tomodachi Game",
+      "Type": "Manga",
+      "VolNumber": 25
+    },
+    "1717642859504": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Wind_Breaker/17_Xqaenk9Y8.jpg",
+      "Dates": {
+        "CreAt": 1717642859504,
+        "PubAt": 1715212800000
+      },
+      "ID": 7366,
+      "Title": "Wind Breaker",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1717642859505": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kobayashi-san/Kanna_no_Nichijou/013_gi7QSPFb4.jpg",
+      "Dates": {
+        "CreAt": 1717642859505,
+        "PubAt": 1715299200000
+      },
+      "ID": 7367,
+      "Title": "Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1717642859506": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Blue_Lock/29_K4m61-HWd.jpg",
+      "Dates": {
+        "CreAt": 1717642859506,
+        "PubAt": 1715817600000
+      },
+      "ID": 7368,
+      "Title": "Blue Lock",
+      "Type": "Manga",
+      "VolNumber": 29
+    },
+    "1717642859507": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kuroiwa%20Medaka%20ni%20Watashi%20no%20Kawaii%20ga%20Tsuujinai/14_K9fsgya_p.jpg",
+      "Dates": {
+        "CreAt": 1717642859507,
+        "PubAt": 1715817600000
+      },
+      "ID": 7369,
+      "Title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1717642859508": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Megami%20no%20Caf%C3%A9%20Terrace/015_EKA2h_qp_.jpg",
+      "Dates": {
+        "CreAt": 1717642859508,
+        "PubAt": 1715817600000
+      },
+      "ID": 7370,
+      "Title": "Megami no Café Terrace",
+      "Type": "Manga",
+      "VolNumber": 15
+    },
+    "1717642859509": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Sentai%20Daishikkaku/014_qM2QLhgaq.jpg",
+      "Dates": {
+        "CreAt": 1717642859509,
+        "PubAt": 1715817600000
+      },
+      "ID": 7371,
+      "Title": "Sentai Daishikkaku",
+      "Type": "Manga",
+      "VolNumber": 14
+    },
+    "1717642859510": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kimi%20wa%20008/31_YbBAd-uYe.jpg",
+      "Dates": {
+        "CreAt": 1717642859510,
+        "PubAt": 1715904000000
+      },
+      "ID": 7372,
+      "Title": "Kimi wa 008",
+      "Type": "Manga",
+      "VolNumber": 31
+    },
+    "1717642859511": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kingdom/72_MMjap1VCg.jpg",
+      "Dates": {
+        "CreAt": 1717642859511,
+        "PubAt": 1715904000000
+      },
+      "ID": 7373,
+      "Title": "Kingdom",
+      "Type": "Manga",
+      "VolNumber": 72
+    },
+    "1717642859512": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Mobuko_no_Koi/19_yOsDEfcCG.webp",
+      "Dates": {
+        "CreAt": 1717642859512,
+        "PubAt": 1716163200000
+      },
+      "ID": 7374,
+      "Title": "Mobuko no Koi",
+      "Type": "Manga",
+      "VolNumber": 19
+    },
+    "1717642859513": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Senpai%20ga%20Uzai%20Kouhai%20no%20Hanashi/12_aiTlSmkDN.jpg",
+      "Dates": {
+        "CreAt": 1717642859513,
+        "PubAt": 1716508800000
+      },
+      "ID": 7375,
+      "Title": "Senpai ga Uzai Kouhai no Hanashi",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1717642859514": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Sono_Bisque_Doll_wa_Koi_wo_Suru/0013_OaOLgOO1K.jpg",
+      "Dates": {
+        "CreAt": 1717642859514,
+        "PubAt": 1716508800000
+      },
+      "ID": 7376,
+      "Title": "Sono Bisque Doll wa Koi wo Suru",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1717726113893": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boukyaku%20Battery/17_7DWbCkSM8.jpg",
+      "Dates": {
+        "CreAt": 1717726113893,
+        "PubAt": 1711929600000
+      },
+      "ID": 7377,
+      "Title": "Boukyaku Battery",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1717726113894": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kaii%20to%20Otome%20to%20Kamikakushi/07_4E9CkiC4D.jpg",
+      "Dates": {
+        "CreAt": 1717726113894,
+        "PubAt": 1711670400000
+      },
+      "ID": 7378,
+      "Title": "Kaii to Otome to Kamikakushi",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719051098310": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/7-nin%20no%20Nemurihime/01__IeqmW7GJ.jpg",
+      "Dates": {
+        "CreAt": 1719051098310,
+        "PubAt": 1692748800000
+      },
+      "ID": 7379,
+      "Title": "7-nin no Nemurihime",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719051098311": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/7-nin%20no%20Nemurihime/02_Ll2kprKHY.jpg",
+      "Dates": {
+        "CreAt": 1719051098311,
+        "PubAt": 1698019200000
+      },
+      "ID": 7380,
+      "Title": "7-nin no Nemurihime",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719051098312": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/7-nin%20no%20Nemurihime/03_Su7glvl4Z.png",
+      "Dates": {
+        "CreAt": 1719051098312,
+        "PubAt": 1703116800000
+      },
+      "ID": 7381,
+      "Title": "7-nin no Nemurihime",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719051098313": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/7-nin%20no%20Nemurihime/04_ZoRWsWMon.webp",
+      "Dates": {
+        "CreAt": 1719051098313,
+        "PubAt": 1710460800000
+      },
+      "ID": 7382,
+      "Title": "7-nin no Nemurihime",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719051098314": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/After%20God/01_4uu3UVrmd.jpg",
+      "Dates": {
+        "CreAt": 1719051098314,
+        "PubAt": 1639094400000
+      },
+      "ID": 7383,
+      "Title": "After God",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719051098315": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/After%20God/02_WawTiHkOg.jpg",
+      "Dates": {
+        "CreAt": 1719051098315,
+        "PubAt": 1652832000000
+      },
+      "ID": 7384,
+      "Title": "After God",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719051098316": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/After%20God/03_kg4XWqOiF.jpg",
+      "Dates": {
+        "CreAt": 1719051098316,
+        "PubAt": 1666137600000
+      },
+      "ID": 7385,
+      "Title": "After God",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719051098317": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/After%20God/04_7vxl4adAR.jpg",
+      "Dates": {
+        "CreAt": 1719051098317,
+        "PubAt": 1679011200000
+      },
+      "ID": 7386,
+      "Title": "After God",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719051098318": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/After%20God/05_k3i942Tl3.jpg",
+      "Dates": {
+        "CreAt": 1719051098318,
+        "PubAt": 1691539200000
+      },
+      "ID": 7387,
+      "Title": "After God",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719051098319": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/After%20God/06_81YF8pLsv.jpg",
+      "Dates": {
+        "CreAt": 1719051098319,
+        "PubAt": 1705017600000
+      },
+      "ID": 7388,
+      "Title": "After God",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719051098320": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/01_fvx91SDgh.jpg",
+      "Dates": {
+        "CreAt": 1719051098320,
+        "PubAt": 1433462400000
+      },
+      "ID": 7389,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719051098321": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/02_-6buisOge.jpg",
+      "Dates": {
+        "CreAt": 1719051098321,
+        "PubAt": 1449187200000
+      },
+      "ID": 7390,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719051098322": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/03_qaRPYpV6J.jpg",
+      "Dates": {
+        "CreAt": 1719051098322,
+        "PubAt": 1464912000000
+      },
+      "ID": 7391,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719051098323": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/04_yfGPQpbHR.jpg",
+      "Dates": {
+        "CreAt": 1719051098323,
+        "PubAt": 1480896000000
+      },
+      "ID": 7392,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719051098324": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/05_iCCSITrar.jpg",
+      "Dates": {
+        "CreAt": 1719051098324,
+        "PubAt": 1491350400000
+      },
+      "ID": 7393,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719051098325": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/06_fStuLro4e.jpg",
+      "Dates": {
+        "CreAt": 1719051098325,
+        "PubAt": 1496620800000
+      },
+      "ID": 7394,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719051098326": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/07_iLQ-eUPna.jpg",
+      "Dates": {
+        "CreAt": 1719051098326,
+        "PubAt": 1512432000000
+      },
+      "ID": 7395,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719051098327": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/08_Yol-Zey9X.jpg",
+      "Dates": {
+        "CreAt": 1719051098327,
+        "PubAt": 1528156800000
+      },
+      "ID": 7396,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719051098328": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/09_QbolfLqcK.jpg",
+      "Dates": {
+        "CreAt": 1719051098328,
+        "PubAt": 1546041600000
+      },
+      "ID": 7397,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719051098329": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/10_08H0ZVMumt.jpg",
+      "Dates": {
+        "CreAt": 1719051098329,
+        "PubAt": 1562284800000
+      },
+      "ID": 7398,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1719051098330": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/11_TgpjHCrxu.jpg",
+      "Dates": {
+        "CreAt": 1719051098330,
+        "PubAt": 1575504000000
+      },
+      "ID": 7399,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1719051098331": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/12_dNcLQmxZ0.jpg",
+      "Dates": {
+        "CreAt": 1719051098331,
+        "PubAt": 1591315200000
+      },
+      "ID": 7400,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1719051098332": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/13_hM3odAVt7.jpg",
+      "Dates": {
+        "CreAt": 1719051098332,
+        "PubAt": 1607040000000
+      },
+      "ID": 7401,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1719051098333": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/14_FjeEG7BGf.jpg",
+      "Dates": {
+        "CreAt": 1719051098333,
+        "PubAt": 1614902400000
+      },
+      "ID": 7402,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 14
+    },
+    "1719051098334": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/15_RqitZkp-J.jpg",
+      "Dates": {
+        "CreAt": 1719051098334,
+        "PubAt": 1628121600000
+      },
+      "ID": 7403,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 15
+    },
+    "1719051098335": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/16_PcU5eR8qW.jpg",
+      "Dates": {
+        "CreAt": 1719051098335,
+        "PubAt": 1641340800000
+      },
+      "ID": 7404,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 16
+    },
+    "1719051098336": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/17_WyFn9qkk5.png",
+      "Dates": {
+        "CreAt": 1719051098336,
+        "PubAt": 1653609600000
+      },
+      "ID": 7405,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1719051098337": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/18_QbP1JHRkq.jpg",
+      "Dates": {
+        "CreAt": 1719051098337,
+        "PubAt": 1680048000000
+      },
+      "ID": 7406,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 18
+    },
+    "1719051098338": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/19_O7sWPd8NK.jpg",
+      "Dates": {
+        "CreAt": 1719051098338,
+        "PubAt": 1693872000000
+      },
+      "ID": 7407,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 19
+    },
+    "1719051098339": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/ATOM%20-%20The%20Beginning/20_-3bDONdcb.webp",
+      "Dates": {
+        "CreAt": 1719051098339,
+        "PubAt": 1709596800000
+      },
+      "ID": 7408,
+      "Title": "ATOM - The Beginning",
+      "Type": "Manga",
+      "VolNumber": 20
+    },
+    "1719529982075": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kage_no_Jitsuryokusha_ni_Naritakute_/12_Xfrv7JxTZ.jpg",
+      "Dates": {
+        "CreAt": 1719529982075,
+        "PubAt": 1698278400000
+      },
+      "ID": 7409,
+      "Title": "Kage no Jitsuryokusha ni Naritakute!",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1719529982076": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kage_no_Jitsuryokusha_ni_Naritakute_/13_elscvKXVH.jpg",
+      "Dates": {
+        "CreAt": 1719529982076,
+        "PubAt": 1716508800000
+      },
+      "ID": 7410,
+      "Title": "Kage no Jitsuryokusha ni Naritakute!",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1719529982077": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao_No_Exorcist/31_g23W8qJdH.jpg",
+      "Dates": {
+        "CreAt": 1719529982077,
+        "PubAt": 1717459200000
+      },
+      "ID": 7411,
+      "Title": "Ao No Exorcist",
+      "Type": "Manga",
+      "VolNumber": 31
+    },
+    "1719529982078": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao_no_Hako/15_8muHbDDTj.jpg",
+      "Dates": {
+        "CreAt": 1719529982078,
+        "PubAt": 1717459200000
+      },
+      "ID": 7412,
+      "Title": "Ao no Hako",
+      "Type": "Manga",
+      "VolNumber": 15
+    },
+    "1719529982079": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Bungou_Stray_Dogs/25_GAwMTeXXw.jpg",
+      "Dates": {
+        "CreAt": 1719529982079,
+        "PubAt": 1717459200000
+      },
+      "ID": 7413,
+      "Title": "Bungou Stray Dogs",
+      "Type": "Manga",
+      "VolNumber": 25
+    },
+    "1719529982080": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boukyaku%20Battery/18_ZrSNOo5mk.jpg",
+      "Dates": {
+        "CreAt": 1719529982080,
+        "PubAt": 1717459200000
+      },
+      "ID": 7414,
+      "Title": "Boukyaku Battery",
+      "Type": "Manga",
+      "VolNumber": 18
+    },
+    "1719529982081": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Hikaru%20ga%20Shinda%20Natsu/05__jDchTM5E.jpg",
+      "Dates": {
+        "CreAt": 1719529982081,
+        "PubAt": 1717459200000
+      },
+      "ID": 7415,
+      "Title": "Hikaru ga Shinda Natsu",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719529982082": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kabushikigaisha%20Magi-Lumi%C3%A8re/12_cY2YHz85y.jpg",
+      "Dates": {
+        "CreAt": 1719529982082,
+        "PubAt": 1717459200000
+      },
+      "ID": 7416,
+      "Title": "Kabushikigaisha Magi-Lumière",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1719529982083": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Marriagetoxin/09_11hOAaexhL.jpg",
+      "Dates": {
+        "CreAt": 1719529982083,
+        "PubAt": 1717459200000
+      },
+      "ID": 7417,
+      "Title": "Marriagetoxin",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719529982084": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Sakamoto_Days/17_iScKWkUS4.jpg",
+      "Dates": {
+        "CreAt": 1719529982084,
+        "PubAt": 1717459200000
+      },
+      "ID": 7418,
+      "Title": "Sakamoto Days",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1719529982085": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Yozakura-san%20Chi%20no%20Daisakusen/24_YgYB5nJgI.png",
+      "Dates": {
+        "CreAt": 1719529982085,
+        "PubAt": 1717459200000
+      },
+      "ID": 7419,
+      "Title": "Yozakura-san Chi no Daisakusen",
+      "Type": "Manga",
+      "VolNumber": 24
+    },
+    "1719529982086": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kengan_Omega/22_izHGJROin.jpg",
+      "Dates": {
+        "CreAt": 1719529982086,
+        "PubAt": 1717632000000
+      },
+      "ID": 7420,
+      "Title": "Kengan Omega",
+      "Type": "Manga",
+      "VolNumber": 22
+    },
+    "1719529982087": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/MF%20Ghost/20_xbjFxdCix.jpg",
+      "Dates": {
+        "CreAt": 1719529982087,
+        "PubAt": 1717632000000
+      },
+      "ID": 7421,
+      "Title": "MF Ghost",
+      "Type": "Manga",
+      "VolNumber": 20
+    },
+    "1719529982088": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Flying_Witch/13_ymMQTQL-Q.jpg",
+      "Dates": {
+        "CreAt": 1719529982088,
+        "PubAt": 1717718400000
+      },
+      "ID": 7422,
+      "Title": "Flying Witch",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1719529982089": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kono_Subarashii_Sekai_ni_Shukufuku_wo_/19__kf8b0Yop.jpg",
+      "Dates": {
+        "CreAt": 1719529982089,
+        "PubAt": 1717718400000
+      },
+      "ID": 7423,
+      "Title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "Type": "Manga",
+      "VolNumber": 19
+    },
+    "1719529982090": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Mairimashita!%20Iruma-kun/38_HqmFeJR6C.jpg",
+      "Dates": {
+        "CreAt": 1719529982090,
+        "PubAt": 1717718400000
+      },
+      "ID": 7424,
+      "Title": "Mairimashita! Iruma-kun",
+      "Type": "Manga",
+      "VolNumber": 38
+    },
+    "1719529982091": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tensei_shitara_Slime_Datta_Ken/26_89SM4P70E.jpg",
+      "Dates": {
+        "CreAt": 1719529982091,
+        "PubAt": 1717718400000
+      },
+      "ID": 7425,
+      "Title": "Tensei shitara Slime Datta Ken",
+      "Type": "Manga",
+      "VolNumber": 26
+    },
+    "1719529982092": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kaii%20to%20Otome%20to%20Kamikakushi/08_VY5VmYQCl7.jpg",
+      "Dates": {
+        "CreAt": 1719529982092,
+        "PubAt": 1718064000000
+      },
+      "ID": 7426,
+      "Title": "Kaii to Otome to Kamikakushi",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719529982093": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Edens_Zero/32_JMj8XLBfX.jpg",
+      "Dates": {
+        "CreAt": 1719529982093,
+        "PubAt": 1718582400000
+      },
+      "ID": 7427,
+      "Title": "Edens Zero",
+      "Type": "Manga",
+      "VolNumber": 32
+    },
+    "1719529982094": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Gachiakuta/11_E2BsIyZAw.jpg",
+      "Dates": {
+        "CreAt": 1719529982094,
+        "PubAt": 1718582400000
+      },
+      "ID": 7428,
+      "Title": "Gachiakuta",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1719529982095": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/The_Four_Knights_Of_Apocalypse/017_x9u5nO05n.jpg",
+      "Dates": {
+        "CreAt": 1719529982095,
+        "PubAt": 1718582400000
+      },
+      "ID": 7429,
+      "Title": "The Four Knights of Apocalypse",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1719529982096": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tokyo%E5%8D%8DRevengers/Letter_from_Keisuke_Baji/005_bHmUPt8nh.jpg",
+      "Dates": {
+        "CreAt": 1719529982096,
+        "PubAt": 1718582400000
+      },
+      "ID": 7430,
+      "Title": "Tokyo卍Revengers: Baji Keisuke kara no Tegami",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719529982097": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kimi%20wa%20008/032_YKkf-cBas.jpg",
+      "Dates": {
+        "CreAt": 1719529982097,
+        "PubAt": 1718668800000
+      },
+      "ID": 7431,
+      "Title": "Kimi wa 008",
+      "Type": "Manga",
+      "VolNumber": 32
+    },
+    "1719529982098": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/After%20God/07_HyQ5YzXiQ.jpg",
+      "Dates": {
+        "CreAt": 1719529982098,
+        "PubAt": 1718755200000
+      },
+      "ID": 7432,
+      "Title": "After God",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719529982099": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Tonikaku_Kawai/28_PBtEleMvd.jpg",
+      "Dates": {
+        "CreAt": 1719529982099,
+        "PubAt": 1718668800000
+      },
+      "ID": 7433,
+      "Title": "Tonikaku Kawaii",
+      "Type": "Manga",
+      "VolNumber": 28
+    },
+    "1719529982100": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Dead_Tube/24_WuxHa1wto.jpg",
+      "Dates": {
+        "CreAt": 1719529982100,
+        "PubAt": 1718755200000
+      },
+      "ID": 7434,
+      "Title": "Dead Tube",
+      "Type": "Manga",
+      "VolNumber": 24
+    },
+    "1719529982101": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kimi%20no%20Koto%20ga%20Daidaidaidaidaisuki%20na%20100-nin%20no%20Kanojo/018_bzuMkz5_Mo.jpg",
+      "Dates": {
+        "CreAt": 1719529982101,
+        "PubAt": 1718755200000
+      },
+      "ID": 7435,
+      "Title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+      "Type": "Manga",
+      "VolNumber": 18
+    },
+    "1719529982102": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Shinju%20no%20Nectar/0017_Oi02bI7nY.jpg",
+      "Dates": {
+        "CreAt": 1719529982102,
+        "PubAt": 1718755200000
+      },
+      "ID": 7436,
+      "Title": "Shinju no Nectar",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1719529982103": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Succubus%20&%20Hitman/009_pJ16-k2y3.jpg",
+      "Dates": {
+        "CreAt": 1719529982103,
+        "PubAt": 1718755200000
+      },
+      "ID": 7437,
+      "Title": "Succubus and Hitman",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719529982104": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Zom%20100:%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto/00017_k75YltFZc.jpg",
+      "Dates": {
+        "CreAt": 1719529982104,
+        "PubAt": 1718755200000
+      },
+      "ID": 7438,
+      "Title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1719529982105": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Akatsuki_no_Yona/44_ZETh-Mz3e.jpg",
+      "Dates": {
+        "CreAt": 1719529982105,
+        "PubAt": 1718841600000
+      },
+      "ID": 7439,
+      "Title": "Akatsuki no Yona",
+      "Type": "Manga",
+      "VolNumber": 44
+    },
+    "1719529982106": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Suki_na_Ko_ga_Megane_wo_Wasureta/012_p3uhjvFu2.jpg",
+      "Dates": {
+        "CreAt": 1719529982106,
+        "PubAt": 1718841600000
+      },
+      "ID": 7440,
+      "Title": "Suki na Ko ga Megane wo Wasureta",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1719529982107": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Vinland_Saga/28_xkwQqJx63.jpg",
+      "Dates": {
+        "CreAt": 1719529982107,
+        "PubAt": 1718928000000
+      },
+      "ID": 7441,
+      "Title": "Vinland Saga",
+      "Type": "Manga",
+      "VolNumber": 28
+    },
+    "1719529982108": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Ao%20Ashi/36_pM0gmnvms.jpg",
+      "Dates": {
+        "CreAt": 1719529982108,
+        "PubAt": 1719532800000
+      },
+      "ID": 7442,
+      "Title": "Ao Ashi",
+      "Type": "Manga",
+      "VolNumber": 36
+    },
+    "1719702092532": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Sword_Art_Online/light_novel/28_yh-E8DKG3.webp",
+      "Dates": {
+        "CreAt": 1719702092532,
+        "PubAt": 1717718400000
+      },
+      "ID": 7443,
+      "Title": "Sword Art Online",
+      "Type": "Light Novel",
+      "VolNumber": 28
+    },
+    "1719702480158": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/01_bZ9sTEwWH.jpg",
+      "Dates": {
+        "CreAt": 1719702480158,
+        "PubAt": 1483574400000
+      },
+      "ID": 7444,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719702480159": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/02_mTe6ukzkA.jpg",
+      "Dates": {
+        "CreAt": 1719702480159,
+        "PubAt": 1491436800000
+      },
+      "ID": 7445,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719702480160": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/03_CslRDwyCT.jpg",
+      "Dates": {
+        "CreAt": 1719702480160,
+        "PubAt": 1494115200000
+      },
+      "ID": 7446,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719702480161": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/04_VBbqWLc93.jpg",
+      "Dates": {
+        "CreAt": 1719702480161,
+        "PubAt": 1499299200000
+      },
+      "ID": 7447,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719702480162": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/05_aTGOOhE_y.jpg",
+      "Dates": {
+        "CreAt": 1719702480162,
+        "PubAt": 1507161600000
+      },
+      "ID": 7448,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719702480163": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/06_mBLfx6DnB.jpg",
+      "Dates": {
+        "CreAt": 1719702480163,
+        "PubAt": 1512691200000
+      },
+      "ID": 7449,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719702480164": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/07_h0zN4KukZ.jpg",
+      "Dates": {
+        "CreAt": 1719702480164,
+        "PubAt": 1517961600000
+      },
+      "ID": 7450,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719702480165": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/08_r5JxmNKOt.jpg",
+      "Dates": {
+        "CreAt": 1719702480165,
+        "PubAt": 1525651200000
+      },
+      "ID": 7451,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719702480166": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/09_rOTBx1cUx.jpg",
+      "Dates": {
+        "CreAt": 1719702480166,
+        "PubAt": 1530748800000
+      },
+      "ID": 7452,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719702480167": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/10_q7YkcvV_4.jpg",
+      "Dates": {
+        "CreAt": 1719702480167,
+        "PubAt": 1536192000000
+      },
+      "ID": 7453,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1719702480168": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/11_-lPACTzLn.jpg",
+      "Dates": {
+        "CreAt": 1719702480168,
+        "PubAt": 1541548800000
+      },
+      "ID": 7454,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1719702480169": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/12_AQouQKDKO.jpg",
+      "Dates": {
+        "CreAt": 1719702480169,
+        "PubAt": 1549497600000
+      },
+      "ID": 7455,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1719702480170": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/13_OvZ0c33rf.jpg",
+      "Dates": {
+        "CreAt": 1719702480170,
+        "PubAt": 1554595200000
+      },
+      "ID": 7456,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1719702480171": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/14_ghoji6REE.jpg",
+      "Dates": {
+        "CreAt": 1719702480171,
+        "PubAt": 1562457600000
+      },
+      "ID": 7457,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 14
+    },
+    "1719702480172": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/15_tVh_ldIQm.jpg",
+      "Dates": {
+        "CreAt": 1719702480172,
+        "PubAt": 1570579200000
+      },
+      "ID": 7458,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 15
+    },
+    "1719702480173": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/16_YJewQ5a6E.jpg",
+      "Dates": {
+        "CreAt": 1719702480173,
+        "PubAt": 1575504000000
+      },
+      "ID": 7459,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 16
+    },
+    "1719702480174": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/17_1B8ea00_X.jpg",
+      "Dates": {
+        "CreAt": 1719702480174,
+        "PubAt": 1578355200000
+      },
+      "ID": 7460,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1719702480175": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/18_6Z3tzdTuA.jpg",
+      "Dates": {
+        "CreAt": 1719702480175,
+        "PubAt": 1586217600000
+      },
+      "ID": 7461,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 18
+    },
+    "1719702480176": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/19_2tYXuSTnH.jpg",
+      "Dates": {
+        "CreAt": 1719702480176,
+        "PubAt": 1594080000000
+      },
+      "ID": 7462,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 19
+    },
+    "1719702480177": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/20_NhwdZ9hft.jpg",
+      "Dates": {
+        "CreAt": 1719702480177,
+        "PubAt": 1596585600000
+      },
+      "ID": 7463,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 20
+    },
+    "1719702480178": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/21_37wad0w9q.jpg",
+      "Dates": {
+        "CreAt": 1719702480178,
+        "PubAt": 1602028800000
+      },
+      "ID": 7464,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 21
+    },
+    "1719702480179": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Beastars/22_p0iww5NEG.jpg",
+      "Dates": {
+        "CreAt": 1719702480179,
+        "PubAt": 1609977600000
+      },
+      "ID": 7465,
+      "Title": "Beastars",
+      "Type": "Manga",
+      "VolNumber": 22
+    },
+    "1719704214819": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Kuro%20no%20Senki%20Isekai%20Teni%20shita%20Boku%20ga%20Saikyou%20nano%20wa%20Bed%20no%20Ue%20dake%20no%20you%20desu/light%20novel/14_Jz2QncITZ.webp",
+      "Dates": {
+        "CreAt": 1719704214819,
+        "PubAt": 1717113600000
+      },
+      "ID": 7466,
+      "Title": "Kuro no Senki Isekai Teni shita Boku ga Saikyou nano wa Bed no Ue dake no you desu",
+      "Type": "Light Novel",
+      "VolNumber": 14
+    },
+    "1719705350221": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/01_V74G5S_ml.jpg",
+      "Dates": {
+        "CreAt": 1719705350221,
+        "PubAt": 1571961600000
+      },
+      "ID": 7467,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719705350222": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/02__ZS4rlvqv.jpg",
+      "Dates": {
+        "CreAt": 1719705350222,
+        "PubAt": 1593043200000
+      },
+      "ID": 7468,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719705350223": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/03_mWqzwapbl.jpg",
+      "Dates": {
+        "CreAt": 1719705350223,
+        "PubAt": 1603497600000
+      },
+      "ID": 7469,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719705350224": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/04_cJ3OcNgbl.jpg",
+      "Dates": {
+        "CreAt": 1719705350224,
+        "PubAt": 1617926400000
+      },
+      "ID": 7470,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719705350225": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/05_5mzDC3_VI.jpg",
+      "Dates": {
+        "CreAt": 1719705350225,
+        "PubAt": 1628208000000
+      },
+      "ID": 7471,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719705350226": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/06_Fxe69jthk.jpg",
+      "Dates": {
+        "CreAt": 1719705350226,
+        "PubAt": 1646784000000
+      },
+      "ID": 7472,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719705350227": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/07_mSL6ind-Y.jpg",
+      "Dates": {
+        "CreAt": 1719705350227,
+        "PubAt": 1649376000000
+      },
+      "ID": 7473,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719705350228": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/08_5P6unwTKc.jpg",
+      "Dates": {
+        "CreAt": 1719705350228,
+        "PubAt": 1670544000000
+      },
+      "ID": 7474,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719705350229": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/09_yXOg43nOs.jpg",
+      "Dates": {
+        "CreAt": 1719705350229,
+        "PubAt": 1680825600000
+      },
+      "ID": 7475,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719705350230": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/10_gbYKAchqX.jpg",
+      "Dates": {
+        "CreAt": 1719705350230,
+        "PubAt": 1691539200000
+      },
+      "ID": 7476,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1719705350231": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/11_ecFHNbx_h.webp",
+      "Dates": {
+        "CreAt": 1719705350231,
+        "PubAt": 1709856000000
+      },
+      "ID": 7477,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1719705350232": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/01_GnyHYbaUi.jpg",
+      "Dates": {
+        "CreAt": 1719705350232,
+        "PubAt": 1655683200000
+      },
+      "ID": 7478,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719705350233": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/02_5fOH0c0mJ.jpg",
+      "Dates": {
+        "CreAt": 1719705350233,
+        "PubAt": 1660867200000
+      },
+      "ID": 7479,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719705350234": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/03_GyKb_bnrV.jpg",
+      "Dates": {
+        "CreAt": 1719705350234,
+        "PubAt": 1666224000000
+      },
+      "ID": 7480,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719705350235": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/04_1548JUWzz.jpg",
+      "Dates": {
+        "CreAt": 1719705350235,
+        "PubAt": 1671494400000
+      },
+      "ID": 7481,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719705350236": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/05_k7hQT7bOa.jpg",
+      "Dates": {
+        "CreAt": 1719705350236,
+        "PubAt": 1676851200000
+      },
+      "ID": 7482,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719705350237": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/06_JiUjWTrhT.jpg",
+      "Dates": {
+        "CreAt": 1719705350237,
+        "PubAt": 1681948800000
+      },
+      "ID": 7483,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719705350238": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/07_YsBtJ1B3Y.jpg",
+      "Dates": {
+        "CreAt": 1719705350238,
+        "PubAt": 1687219200000
+      },
+      "ID": 7484,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719705350239": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/08_6mxQVEFzk.jpg",
+      "Dates": {
+        "CreAt": 1719705350239,
+        "PubAt": 1692316800000
+      },
+      "ID": 7485,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719705350240": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/09_wDXskxmW0.jpg",
+      "Dates": {
+        "CreAt": 1719705350240,
+        "PubAt": 1697673600000
+      },
+      "ID": 7486,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719705350241": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/10_zs-9mYp7B.jpg",
+      "Dates": {
+        "CreAt": 1719705350241,
+        "PubAt": 1703030400000
+      },
+      "ID": 7487,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1719705350242": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20wa%20Kimitachi%20wo%20Shihai%20suru/11_5GkClDM7i.jpg",
+      "Dates": {
+        "CreAt": 1719705350242,
+        "PubAt": 1708387200000
+      },
+      "ID": 7488,
+      "Title": "Boku wa Kimitachi wo Shihai suru",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1719746575093": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Out/26_-PuQ-wXlMI.jpg",
+      "Dates": {
+        "CreAt": 1719746575093,
+        "PubAt": 1718755200000
+      },
+      "ID": 7489,
+      "Title": "Out",
+      "Type": "Manga",
+      "VolNumber": 26
+    },
+    "1719746575094": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Koudou%20Wolf/13_XGCFGsqVH.jpg",
+      "Dates": {
+        "CreAt": 1719746575094,
+        "PubAt": 1718755200000
+      },
+      "ID": 7490,
+      "Title": "Koudou Wolf",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1719746575095": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Hajirau%20Kimi%20ga%20Mitainda/08_A2-63eJcW.jpg",
+      "Dates": {
+        "CreAt": 1719746575095,
+        "PubAt": 1718755200000
+      },
+      "ID": 7491,
+      "Title": "Hajirau Kimi ga Mitainda",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719750652385": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Seito%20wa%20Otona%20Gal/01_2t-z3ku61.jpg",
+      "Dates": {
+        "CreAt": 1719750652385,
+        "PubAt": 1631836800000
+      },
+      "ID": 7492,
+      "Title": "Boku no Seito wa Otona Gal",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719750652386": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Seito%20wa%20Otona%20Gal/02_Gx0PymzEl.jpg",
+      "Dates": {
+        "CreAt": 1719750652386,
+        "PubAt": 1652918400000
+      },
+      "ID": 7493,
+      "Title": "Boku no Seito wa Otona Gal",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719750652387": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Seito%20wa%20Otona%20Gal/03_pfXPGgzmZ.jpg",
+      "Dates": {
+        "CreAt": 1719750652387,
+        "PubAt": 1679270400000
+      },
+      "ID": 7494,
+      "Title": "Boku no Seito wa Otona Gal",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719750652388": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Seito%20wa%20Otona%20Gal/04_kYIcKeNm2.webp",
+      "Dates": {
+        "CreAt": 1719750652388,
+        "PubAt": 1710720000000
+      },
+      "ID": 7495,
+      "Title": "Boku no Seito wa Otona Gal",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719750652389": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Bougyoryoku%20Zero%20no%20Yome/01_rz_QXhyXo.jpg",
+      "Dates": {
+        "CreAt": 1719750652389,
+        "PubAt": 1556236800000
+      },
+      "ID": 7496,
+      "Title": "Bougyoryoku Zero no Yome",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719750652390": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Bougyoryoku%20Zero%20no%20Yome/02_Qp95OwSsB.jpg",
+      "Dates": {
+        "CreAt": 1719750652390,
+        "PubAt": 1577318400000
+      },
+      "ID": 7497,
+      "Title": "Bougyoryoku Zero no Yome",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719750652391": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Bougyoryoku%20Zero%20no%20Yome/03_o6NvHf0Cu.jpg",
+      "Dates": {
+        "CreAt": 1719750652391,
+        "PubAt": 1598486400000
+      },
+      "ID": 7498,
+      "Title": "Bougyoryoku Zero no Yome",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719750652392": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Bougyoryoku%20Zero%20no%20Yome/04_Fp6AnqVd2.jpg",
+      "Dates": {
+        "CreAt": 1719750652392,
+        "PubAt": 1611705600000
+      },
+      "ID": 7499,
+      "Title": "Bougyoryoku Zero no Yome",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719750652393": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Bougyoryoku%20Zero%20no%20Yome/05_c-Mx758mp.jpg",
+      "Dates": {
+        "CreAt": 1719750652393,
+        "PubAt": 1627344000000
+      },
+      "ID": 7500,
+      "Title": "Bougyoryoku Zero no Yome",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719750652394": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Bougyoryoku%20Zero%20no%20Yome/06_G6BNwvisy1.jpg",
+      "Dates": {
+        "CreAt": 1719750652394,
+        "PubAt": 1643241600000
+      },
+      "ID": 7501,
+      "Title": "Bougyoryoku Zero no Yome",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719750652395": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Bougyoryoku%20Zero%20no%20Yome/07_cNtPSG-AF.jpg",
+      "Dates": {
+        "CreAt": 1719750652395,
+        "PubAt": 1666828800000
+      },
+      "ID": 7502,
+      "Title": "Bougyoryoku Zero no Yome",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719750652396": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/01_Ca3MDodqE.jpg",
+      "Dates": {
+        "CreAt": 1719750652396,
+        "PubAt": 1587772800000
+      },
+      "ID": 7503,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719750652397": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/02_rE_PSNxjM.jpg",
+      "Dates": {
+        "CreAt": 1719750652397,
+        "PubAt": 1598313600000
+      },
+      "ID": 7504,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719750652398": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/03_UZOjhqDxX.jpg",
+      "Dates": {
+        "CreAt": 1719750652398,
+        "PubAt": 1616630400000
+      },
+      "ID": 7505,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719750652399": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/04_nMfE47RXA.jpg",
+      "Dates": {
+        "CreAt": 1719750652399,
+        "PubAt": 1632528000000
+      },
+      "ID": 7506,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719750652400": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/05_EkPfWBKHH.jpg",
+      "Dates": {
+        "CreAt": 1719750652400,
+        "PubAt": 1648252800000
+      },
+      "ID": 7507,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719750652401": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/06_edxcDppcl.jpg",
+      "Dates": {
+        "CreAt": 1719750652401,
+        "PubAt": 1664064000000
+      },
+      "ID": 7508,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719750652402": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/07_np4CupzHJ.jpg",
+      "Dates": {
+        "CreAt": 1719750652402,
+        "PubAt": 1677283200000
+      },
+      "ID": 7509,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719750652403": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/08_0sHZOUXL1.jpg",
+      "Dates": {
+        "CreAt": 1719750652403,
+        "PubAt": 1695600000000
+      },
+      "ID": 7510,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719750652404": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boushokuki%20no%20Ken/09_KdS9zJ797M.jpg",
+      "Dates": {
+        "CreAt": 1719750652404,
+        "PubAt": 1708819200000
+      },
+      "ID": 7511,
+      "Title": "Boushokuki no Ken",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719750652405": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Chikyuu%20Bouchou/01_3BhzHZvIw.jpg",
+      "Dates": {
+        "CreAt": 1719750652405,
+        "PubAt": 1680825600000
+      },
+      "ID": 7512,
+      "Title": "Chikyuu Bouchou",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719750652406": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Chikyuu%20Bouchou/02_fYPWucw3X.jpg",
+      "Dates": {
+        "CreAt": 1719750652406,
+        "PubAt": 1687478400000
+      },
+      "ID": 7513,
+      "Title": "Chikyuu Bouchou",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719750652407": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Chikyuu%20Bouchou/03_0HZthuR0V.jpg",
+      "Dates": {
+        "CreAt": 1719750652407,
+        "PubAt": 1696550400000
+      },
+      "ID": 7514,
+      "Title": "Chikyuu Bouchou",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719750652408": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Chikyuu%20Bouchou/04_Vri7gYd1J.jpg",
+      "Dates": {
+        "CreAt": 1719750652408,
+        "PubAt": 1716508800000
+      },
+      "ID": 7515,
+      "Title": "Chikyuu Bouchou",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719762707173": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Crime%20Game%20Houritsu%20no%20Nai%20Sekai/01_b28nXZo-B.jpg",
+      "Dates": {
+        "CreAt": 1719762707173,
+        "PubAt": 1694044800000
+      },
+      "ID": 7516,
+      "Title": "Crime Game Houritsu no Nai Sekai",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719762707174": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Crime%20Game%20Houritsu%20no%20Nai%20Sekai/02_rBr1m4YGd.jpg",
+      "Dates": {
+        "CreAt": 1719762707174,
+        "PubAt": 1709856000000
+      },
+      "ID": 7517,
+      "Title": "Crime Game Houritsu no Nai Sekai",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719762707175": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Daredemo%20Dakeru%20Kimi%20ga%20Suki/01_oxbbMZG7r.jpg",
+      "Dates": {
+        "CreAt": 1719762707175,
+        "PubAt": 1693958400000
+      },
+      "ID": 7518,
+      "Title": "Daredemo Dakeru Kimi ga Suki",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719762707176": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Daredemo%20Dakeru%20Kimi%20ga%20Suki/02_VRemZXDt2.jpg",
+      "Dates": {
+        "CreAt": 1719762707176,
+        "PubAt": 1701820800000
+      },
+      "ID": 7519,
+      "Title": "Daredemo Dakeru Kimi ga Suki",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719762707177": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Daredemo%20Dakeru%20Kimi%20ga%20Suki/03_DUgrhAWS3.jpg",
+      "Dates": {
+        "CreAt": 1719762707177,
+        "PubAt": 1709683200000
+      },
+      "ID": 7520,
+      "Title": "Daredemo Dakeru Kimi ga Suki",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719918501388": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/01_mBG0oOVyY.jpg",
+      "Dates": {
+        "CreAt": 1719918501388,
+        "PubAt": 1370476800000
+      },
+      "ID": 7521,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719918501389": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/02_P0S8R_0BP.jpg",
+      "Dates": {
+        "CreAt": 1719918501389,
+        "PubAt": 1381104000000
+      },
+      "ID": 7522,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719918501390": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/03_qRTc0glmK.jpg",
+      "Dates": {
+        "CreAt": 1719918501390,
+        "PubAt": 1391644800000
+      },
+      "ID": 7523,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719918501391": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/04_C1YEWlaj2.jpg",
+      "Dates": {
+        "CreAt": 1719918501391,
+        "PubAt": 1404691200000
+      },
+      "ID": 7524,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719918501392": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/05_lSLThk3nh.jpg",
+      "Dates": {
+        "CreAt": 1719918501392,
+        "PubAt": 1415232000000
+      },
+      "ID": 7525,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719918501393": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/06_W_3Fu24Kq.jpg",
+      "Dates": {
+        "CreAt": 1719918501393,
+        "PubAt": 1425513600000
+      },
+      "ID": 7526,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719918501394": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/07_PdnZiXf78.jpg",
+      "Dates": {
+        "CreAt": 1719918501394,
+        "PubAt": 1438819200000
+      },
+      "ID": 7527,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719918501395": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/08_7xxN8K7QM.jpg",
+      "Dates": {
+        "CreAt": 1719918501395,
+        "PubAt": 1449446400000
+      },
+      "ID": 7528,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719918501396": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/09_jN2l_V9Se.jpg",
+      "Dates": {
+        "CreAt": 1719918501396,
+        "PubAt": 1462406400000
+      },
+      "ID": 7529,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719918501397": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/10_KmYCJ1u1J.jpg",
+      "Dates": {
+        "CreAt": 1719918501397,
+        "PubAt": 1475712000000
+      },
+      "ID": 7530,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1719918501398": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/11_2GmjImqF6.jpg",
+      "Dates": {
+        "CreAt": 1719918501398,
+        "PubAt": 1483574400000
+      },
+      "ID": 7531,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1719918501399": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/12_ANNeuu8Dw.jpg",
+      "Dates": {
+        "CreAt": 1719918501399,
+        "PubAt": 1494115200000
+      },
+      "ID": 7532,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1719918501400": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/13_gilFx58PL.jpg",
+      "Dates": {
+        "CreAt": 1719918501400,
+        "PubAt": 1507161600000
+      },
+      "ID": 7533,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1719918501401": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/14_ACGzexwgC.jpg",
+      "Dates": {
+        "CreAt": 1719918501401,
+        "PubAt": 1520380800000
+      },
+      "ID": 7534,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 14
+    },
+    "1719918501402": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/15_bk6uYUoUy.jpg",
+      "Dates": {
+        "CreAt": 1719918501402,
+        "PubAt": 1533600000000
+      },
+      "ID": 7535,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 15
+    },
+    "1719918501403": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/16_Bzq5mJ8Hh.jpg",
+      "Dates": {
+        "CreAt": 1719918501403,
+        "PubAt": 1541548800000
+      },
+      "ID": 7536,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 16
+    },
+    "1719918501404": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/17_UoYOE9WOk.jpg",
+      "Dates": {
+        "CreAt": 1719918501404,
+        "PubAt": 1551916800000
+      },
+      "ID": 7537,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 17
+    },
+    "1719918501405": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/18_OX3sD0_85.jpg",
+      "Dates": {
+        "CreAt": 1719918501405,
+        "PubAt": 1562457600000
+      },
+      "ID": 7538,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 18
+    },
+    "1719918501406": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/19_g-KoDuuaf.jpg",
+      "Dates": {
+        "CreAt": 1719918501406,
+        "PubAt": 1575504000000
+      },
+      "ID": 7539,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 19
+    },
+    "1719918501407": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/20_s8DVTv_34.jpg",
+      "Dates": {
+        "CreAt": 1719918501407,
+        "PubAt": 1583366400000
+      },
+      "ID": 7540,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 20
+    },
+    "1719918501408": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/21_68MUkBb6k.jpg",
+      "Dates": {
+        "CreAt": 1719918501408,
+        "PubAt": 1596585600000
+      },
+      "ID": 7541,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 21
+    },
+    "1719918501409": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/22_-KEO8DYkC.jpg",
+      "Dates": {
+        "CreAt": 1719918501409,
+        "PubAt": 1607299200000
+      },
+      "ID": 7542,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 22
+    },
+    "1719918501410": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/23_t0RAFyMOr.jpg",
+      "Dates": {
+        "CreAt": 1719918501410,
+        "PubAt": 1620259200000
+      },
+      "ID": 7543,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 23
+    },
+    "1719918501411": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/24_vH2AgrZyV.jpg",
+      "Dates": {
+        "CreAt": 1719918501411,
+        "PubAt": 1630972800000
+      },
+      "ID": 7544,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 24
+    },
+    "1719918501412": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/25_Kn_UU561v.jpg",
+      "Dates": {
+        "CreAt": 1719918501412,
+        "PubAt": 1641427200000
+      },
+      "ID": 7545,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 25
+    },
+    "1719918501413": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/26_Vh8cRO62j.jpg",
+      "Dates": {
+        "CreAt": 1719918501413,
+        "PubAt": 1654560000000
+      },
+      "ID": 7546,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 26
+    },
+    "1719918501414": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/27_FVvj3kiG0.jpg",
+      "Dates": {
+        "CreAt": 1719918501414,
+        "PubAt": 1670371200000
+      },
+      "ID": 7547,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 27
+    },
+    "1719918501415": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/28_pmiBtNAN2.jpg",
+      "Dates": {
+        "CreAt": 1719918501415,
+        "PubAt": 1686096000000
+      },
+      "ID": 7548,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 28
+    },
+    "1719918501416": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/29_h2sq0YOjg.jpg",
+      "Dates": {
+        "CreAt": 1719918501416,
+        "PubAt": 1693958400000
+      },
+      "ID": 7549,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 29
+    },
+    "1719918501417": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Darwin's%20Game/30_78TK5qlVa.jpg",
+      "Dates": {
+        "CreAt": 1719918501417,
+        "PubAt": 1704326400000
+      },
+      "ID": 7550,
+      "Title": "Darwin's Game",
+      "Type": "Manga",
+      "VolNumber": 30
+    },
+    "1719918501418": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/01_9FhhtHemF.jpg",
+      "Dates": {
+        "CreAt": 1719918501418,
+        "PubAt": 1596499200000
+      },
+      "ID": 7551,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719918501419": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/02_yFDkKIaVy.jpg",
+      "Dates": {
+        "CreAt": 1719918501419,
+        "PubAt": 1604534400000
+      },
+      "ID": 7552,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719918501420": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/03_4ap1Ub9xu.jpg",
+      "Dates": {
+        "CreAt": 1719918501420,
+        "PubAt": 1612396800000
+      },
+      "ID": 7553,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719918501421": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/04_f5fEOS64I.jpg",
+      "Dates": {
+        "CreAt": 1719918501421,
+        "PubAt": 1620172800000
+      },
+      "ID": 7554,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719918501422": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/05_pTWJyYEbL.jpg",
+      "Dates": {
+        "CreAt": 1719918501422,
+        "PubAt": 1625443200000
+      },
+      "ID": 7555,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719918501423": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/06_C-zLTy1dD.jpg",
+      "Dates": {
+        "CreAt": 1719918501423,
+        "PubAt": 1630800000000
+      },
+      "ID": 7556,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719918501424": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/07_FuTG2llIJ.jpg",
+      "Dates": {
+        "CreAt": 1719918501424,
+        "PubAt": 1638662400000
+      },
+      "ID": 7557,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719918501425": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/08_jxj-7igfo.jpg",
+      "Dates": {
+        "CreAt": 1719918501425,
+        "PubAt": 1646265600000
+      },
+      "ID": 7558,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719918501426": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/09_E7TkzMIF4.jpg",
+      "Dates": {
+        "CreAt": 1719918501426,
+        "PubAt": 1654387200000
+      },
+      "ID": 7559,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 9
+    },
+    "1719918501427": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/10_pyENi4nv2.jpg",
+      "Dates": {
+        "CreAt": 1719918501427,
+        "PubAt": 1662336000000
+      },
+      "ID": 7560,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 10
+    },
+    "1719918501428": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/11_p-S9hRoeV.jpg",
+      "Dates": {
+        "CreAt": 1719918501428,
+        "PubAt": 1672876800000
+      },
+      "ID": 7561,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 11
+    },
+    "1719918501429": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/12_LaPpopJBp.jpg",
+      "Dates": {
+        "CreAt": 1719918501429,
+        "PubAt": 1685923200000
+      },
+      "ID": 7562,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 12
+    },
+    "1719918501430": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/13_zAP7gbSKf.jpg",
+      "Dates": {
+        "CreAt": 1719918501430,
+        "PubAt": 1693872000000
+      },
+      "ID": 7563,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 13
+    },
+    "1719918501431": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/14_N_1zI_qnY.jpg",
+      "Dates": {
+        "CreAt": 1719918501431,
+        "PubAt": 1704672000000
+      },
+      "ID": 7564,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 14
+    },
+    "1719918501432": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Destiny%20Lovers/15_1yT-_A7cV.jpg",
+      "Dates": {
+        "CreAt": 1719918501432,
+        "PubAt": 1704672000000
+      },
+      "ID": 7565,
+      "Title": "Destiny Lovers",
+      "Type": "Manga",
+      "VolNumber": 15
+    },
+    "1719918501433": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Desuraba/01_-cw3x7lYn.jpg",
+      "Dates": {
+        "CreAt": 1719918501433,
+        "PubAt": 1528329600000
+      },
+      "ID": 7566,
+      "Title": "Desuraba",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719918501434": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Desuraba/02_Hlo1YBfB9.jpg",
+      "Dates": {
+        "CreAt": 1719918501434,
+        "PubAt": 1536192000000
+      },
+      "ID": 7567,
+      "Title": "Desuraba",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719918501435": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Desuraba/03_hfVRvN3pN.jpg",
+      "Dates": {
+        "CreAt": 1719918501435,
+        "PubAt": 1541376000000
+      },
+      "ID": 7568,
+      "Title": "Desuraba",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719918501436": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Desuraba/04_J6wD9FAKM.jpg",
+      "Dates": {
+        "CreAt": 1719918501436,
+        "PubAt": 1551744000000
+      },
+      "ID": 7569,
+      "Title": "Desuraba",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719918501437": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Desuraba/05_n4VWJgntP.jpg",
+      "Dates": {
+        "CreAt": 1719918501437,
+        "PubAt": 1562198400000
+      },
+      "ID": 7570,
+      "Title": "Desuraba",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719918501438": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Desuraba/06_KFXUUa6MD.jpg",
+      "Dates": {
+        "CreAt": 1719918501438,
+        "PubAt": 1572912000000
+      },
+      "ID": 7571,
+      "Title": "Desuraba",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719918501439": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Desuraba/07_AqBnVZ4Gy.jpg",
+      "Dates": {
+        "CreAt": 1719918501439,
+        "PubAt": 1583366400000
+      },
+      "ID": 7572,
+      "Title": "Desuraba",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1719918501440": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Desuraba/08_MjFQ_Y3pl.jpg",
+      "Dates": {
+        "CreAt": 1719918501440,
+        "PubAt": 1596499200000
+      },
+      "ID": 7573,
+      "Title": "Desuraba",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1719918501441": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Diamond%20no%20Kouzai/01_Td2xOsFmM.jpg",
+      "Dates": {
+        "CreAt": 1719918501441,
+        "PubAt": 1687046400000
+      },
+      "ID": 7574,
+      "Title": "Diamond no Kouzai",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719918501442": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Diamond%20no%20Kouzai/02__8lYAaBQi.jpg",
+      "Dates": {
+        "CreAt": 1719918501442,
+        "PubAt": 1689638400000
+      },
+      "ID": 7575,
+      "Title": "Diamond no Kouzai",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719918501443": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Diamond%20no%20Kouzai/03_raMVHdkFm.jpg",
+      "Dates": {
+        "CreAt": 1719918501443,
+        "PubAt": 1697587200000
+      },
+      "ID": 7576,
+      "Title": "Diamond no Kouzai",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719918501444": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Diamond%20no%20Kouzai/04_FwvQtYyyu.jpg",
+      "Dates": {
+        "CreAt": 1719918501444,
+        "PubAt": 1702857600000
+      },
+      "ID": 7577,
+      "Title": "Diamond no Kouzai",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719918501445": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Diamond%20no%20Kouzai/05_DwgR2uEkf.jpg",
+      "Dates": {
+        "CreAt": 1719918501445,
+        "PubAt": 1710633600000
+      },
+      "ID": 7578,
+      "Title": "Diamond no Kouzai",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719918501446": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Diamond%20no%20Kouzai/06_w8JgDczX_.jpg",
+      "Dates": {
+        "CreAt": 1719918501446,
+        "PubAt": 1718668800000
+      },
+      "ID": 7579,
+      "Title": "Diamond no Kouzai",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719918501447": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/01_2ejwd2adl.webp",
+      "Dates": {
+        "CreAt": 1719918501447,
+        "PubAt": 1535155200000
+      },
+      "ID": 7580,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 1
+    },
+    "1719918501448": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/02_EYfRyyRzw.webp",
+      "Dates": {
+        "CreAt": 1719918501448,
+        "PubAt": 1543017600000
+      },
+      "ID": 7581,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 2
+    },
+    "1719918501449": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/03_k6x2vUONw.webp",
+      "Dates": {
+        "CreAt": 1719918501449,
+        "PubAt": 1551052800000
+      },
+      "ID": 7582,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 3
+    },
+    "1719918501450": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/04_4QCC_90qP.webp",
+      "Dates": {
+        "CreAt": 1719918501450,
+        "PubAt": 1561420800000
+      },
+      "ID": 7583,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 4
+    },
+    "1719918501451": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/05_NQRbrqWOm.webp",
+      "Dates": {
+        "CreAt": 1719918501451,
+        "PubAt": 1571961600000
+      },
+      "ID": 7584,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 5
+    },
+    "1719918501452": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/06_GciZbfpca.webp",
+      "Dates": {
+        "CreAt": 1719918501452,
+        "PubAt": 1582588800000
+      },
+      "ID": 7585,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 6
+    },
+    "1719918501453": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/07_DKM3Sgrm3.webp",
+      "Dates": {
+        "CreAt": 1719918501453,
+        "PubAt": 1593043200000
+      },
+      "ID": 7586,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 7
+    },
+    "1719918501454": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/08_NxD66EUs5.webp",
+      "Dates": {
+        "CreAt": 1719918501454,
+        "PubAt": 1603497600000
+      },
+      "ID": 7587,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 8
+    },
+    "1719918501455": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Boku%20no%20Kanojo-sensei/Light%20Novel/09_VshGmaUNI.webp",
+      "Dates": {
+        "CreAt": 1719918501455,
+        "PubAt": 1614211200000
+      },
+      "ID": 7588,
+      "Title": "Boku no Kanojo-sensei",
+      "Type": "Light Novel",
+      "VolNumber": 9
+    },
+    "1719920569890": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Do%20Chokkyuu%20Kareshi%20x%20Kanojo/01_6dt4GyPHO.jpg",
+      "Dates": {
+        "CreAt": 1719920569890,
+        "PubAt": 1582156800000
+      },
+      "ID": 7589,
+      "Title": "Do Chokkyuu Kareshi x Kanojo",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1719920569891": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Do%20Chokkyuu%20Kareshi%20x%20Kanojo/02_9WUGEmPJy.jpg",
+      "Dates": {
+        "CreAt": 1719920569891,
+        "PubAt": 1582156800000
+      },
+      "ID": 7590,
+      "Title": "Do Chokkyuu Kareshi x Kanojo",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1719920569892": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Do%20Chokkyuu%20Kareshi%20x%20Kanojo/03_Qq351qirS.jpg",
+      "Dates": {
+        "CreAt": 1719920569892,
+        "PubAt": 1582156800000
+      },
+      "ID": 7591,
+      "Title": "Do Chokkyuu Kareshi x Kanojo",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1719920569893": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Do%20Chokkyuu%20Kareshi%20x%20Kanojo/04_3rUpNWYmE.jpg",
+      "Dates": {
+        "CreAt": 1719920569893,
+        "PubAt": 1583452800000
+      },
+      "ID": 7592,
+      "Title": "Do Chokkyuu Kareshi x Kanojo",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1719920569894": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Do%20Chokkyuu%20Kareshi%20x%20Kanojo/05_h8GqauTx1.jpg",
+      "Dates": {
+        "CreAt": 1719920569894,
+        "PubAt": 1599523200000
+      },
+      "ID": 7593,
+      "Title": "Do Chokkyuu Kareshi x Kanojo",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1719920569895": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Do%20Chokkyuu%20Kareshi%20x%20Kanojo/06_rpA2yqeyI.jpg",
+      "Dates": {
+        "CreAt": 1719920569895,
+        "PubAt": 1612742400000
+      },
+      "ID": 7594,
+      "Title": "Do Chokkyuu Kareshi x Kanojo",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1719920569896": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Do%20Chokkyuu%20Kareshi%20x%20Kanojo/07_aQZEu20-n.jpg",
+      "Dates": {
+        "CreAt": 1719920569896,
+        "PubAt": 1628208000000
+      },
+      "ID": 7595,
+      "Title": "Do Chokkyuu Kareshi x Kanojo",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1720161593914": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Mushoku_Tensei_Isekai_Ittara_Honki_Dasu/Mushoku%20Tensei%20Dasoku-hen/light%20novel/02_lfEuOretO.webp",
+      "Dates": {
+        "CreAt": 1720161593914,
+        "PubAt": 1716508800000
+      },
+      "ID": 7596,
+      "Title": "Mushoku Tensei: Dasoku-hen",
+      "Type": "Light Novel",
+      "VolNumber": 2
+    },
+    "1721314057583": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Erotic%20x%20Anabolic/01_-kPKDRlfy.jpg",
+      "Dates": {
+        "CreAt": 1721314057583,
+        "PubAt": 1603152000000
+      },
+      "ID": 7597,
+      "Title": "Erotic x Anabolic",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1721314057584": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Erotic%20x%20Anabolic/02_OYkMULEcZ.jpg",
+      "Dates": {
+        "CreAt": 1721314057584,
+        "PubAt": 1618876800000
+      },
+      "ID": 7598,
+      "Title": "Erotic x Anabolic",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1721314057585": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Erotic%20x%20Anabolic/03_w4eZ83DpT.jpg",
+      "Dates": {
+        "CreAt": 1721314057585,
+        "PubAt": 1652918400000
+      },
+      "ID": 7599,
+      "Title": "Erotic x Anabolic",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1721314057586": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Erotic%20x%20Anabolic/04_yMM6P5nHZ.jpg",
+      "Dates": {
+        "CreAt": 1721314057586,
+        "PubAt": 1684368000000
+      },
+      "ID": 7600,
+      "Title": "Erotic x Anabolic",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1721314057587": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Erotic%20x%20Anabolic/05_xJoUsxAip.jpg",
+      "Dates": {
+        "CreAt": 1721314057587,
+        "PubAt": 1721347200000
+      },
+      "ID": 7601,
+      "Title": "Erotic x Anabolic",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1721314057588": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Exorcist%20wo%20Otosenai/01_zt0Oe4IM6.jpg",
+      "Dates": {
+        "CreAt": 1721314057588,
+        "PubAt": 1651363200000
+      },
+      "ID": 7602,
+      "Title": "Exorcist wo Otosenai",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1721314057589": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Exorcist%20wo%20Otosenai/02_Qh9_8hyBY.jpg",
+      "Dates": {
+        "CreAt": 1721314057589,
+        "PubAt": 1656806400000
+      },
+      "ID": 7603,
+      "Title": "Exorcist wo Otosenai",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1721314057590": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Exorcist%20wo%20Otosenai/03_pnuapaEwn.jpg",
+      "Dates": {
+        "CreAt": 1721314057590,
+        "PubAt": 1664755200000
+      },
+      "ID": 7604,
+      "Title": "Exorcist wo Otosenai",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1721314057591": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Exorcist%20wo%20Otosenai/04_Av_9pSPgG.jpg",
+      "Dates": {
+        "CreAt": 1721314057591,
+        "PubAt": 1675296000000
+      },
+      "ID": 7605,
+      "Title": "Exorcist wo Otosenai",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1721314057592": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Exorcist%20wo%20Otosenai/05_jw28Pc54x.jpg",
+      "Dates": {
+        "CreAt": 1721314057592,
+        "PubAt": 1685577600000
+      },
+      "ID": 7606,
+      "Title": "Exorcist wo Otosenai",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1721314057593": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Exorcist%20wo%20Otosenai/06_JnKEG8A-U.jpg",
+      "Dates": {
+        "CreAt": 1721314057593,
+        "PubAt": 1693699200000
+      },
+      "ID": 7607,
+      "Title": "Exorcist wo Otosenai",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1721314057594": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Exorcist%20wo%20Otosenai/07_Jyig88Z-c.jpg",
+      "Dates": {
+        "CreAt": 1721314057594,
+        "PubAt": 1704240000000
+      },
+      "ID": 7608,
+      "Title": "Exorcist wo Otosenai",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1721314057595": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Exorcist%20wo%20Otosenai/08_BYN__8_qU.jpg",
+      "Dates": {
+        "CreAt": 1721314057595,
+        "PubAt": 1717372800000
+      },
+      "ID": 7609,
+      "Title": "Exorcist wo Otosenai",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1721314057596": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Franken%20Fran/01_n6Qk5hy0P.jpg",
+      "Dates": {
+        "CreAt": 1721314057596,
+        "PubAt": 1195430400000
+      },
+      "ID": 7610,
+      "Title": "Franken Fran",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1721314057597": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Franken%20Fran/02_6eind3u_z.jpg",
+      "Dates": {
+        "CreAt": 1721314057597,
+        "PubAt": 1216252800000
+      },
+      "ID": 7611,
+      "Title": "Franken Fran",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1721314057598": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Franken%20Fran/03_FBAzMxshS.jpg",
+      "Dates": {
+        "CreAt": 1721314057598,
+        "PubAt": 1235001600000
+      },
+      "ID": 7612,
+      "Title": "Franken Fran",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1721314057599": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Franken%20Fran/04_J88GiwzF-.jpg",
+      "Dates": {
+        "CreAt": 1721314057599,
+        "PubAt": 1255910400000
+      },
+      "ID": 7613,
+      "Title": "Franken Fran",
+      "Type": "Manga",
+      "VolNumber": 4
+    },
+    "1721314057600": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Franken%20Fran/05_3N_tdt5LU.jpg",
+      "Dates": {
+        "CreAt": 1721314057600,
+        "PubAt": 1276732800000
+      },
+      "ID": 7614,
+      "Title": "Franken Fran",
+      "Type": "Manga",
+      "VolNumber": 5
+    },
+    "1721314057601": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Franken%20Fran/06_dhoIEMl4f.jpg",
+      "Dates": {
+        "CreAt": 1721314057601,
+        "PubAt": 1295395200000
+      },
+      "ID": 7615,
+      "Title": "Franken Fran",
+      "Type": "Manga",
+      "VolNumber": 6
+    },
+    "1721314057602": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Franken%20Fran/07_casRyJPhJ.jpg",
+      "Dates": {
+        "CreAt": 1721314057602,
+        "PubAt": 1313712000000
+      },
+      "ID": 7616,
+      "Title": "Franken Fran",
+      "Type": "Manga",
+      "VolNumber": 7
+    },
+    "1721314057603": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Franken%20Fran/08_Adw9PbtNX.jpg",
+      "Dates": {
+        "CreAt": 1721314057603,
+        "PubAt": 1329609600000
+      },
+      "ID": 7617,
+      "Title": "Franken Fran",
+      "Type": "Manga",
+      "VolNumber": 8
+    },
+    "1721314057604": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Fuji%20no%20Yamai%20wa%20Fushi%20no%20Yamai/01_9JK1WMiKb.jpg",
+      "Dates": {
+        "CreAt": 1721314057604,
+        "PubAt": 1669939200000
+      },
+      "ID": 7618,
+      "Title": "Fuji no Yamai wa Fushi no Yamai",
+      "Type": "Manga",
+      "VolNumber": 1
+    },
+    "1721314057605": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Fuji%20no%20Yamai%20wa%20Fushi%20no%20Yamai/02_C3awt-0ea.jpg",
+      "Dates": {
+        "CreAt": 1721314057605,
+        "PubAt": 1677801600000
+      },
+      "ID": 7619,
+      "Title": "Fuji no Yamai wa Fushi no Yamai",
+      "Type": "Manga",
+      "VolNumber": 2
+    },
+    "1721314057606": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Fuji%20no%20Yamai%20wa%20Fushi%20no%20Yamai/03_X_YjvSfBY.jpg",
+      "Dates": {
+        "CreAt": 1721314057606,
+        "PubAt": 1688428800000
+      },
+      "ID": 7620,
+      "Title": "Fuji no Yamai wa Fushi no Yamai",
+      "Type": "Manga",
+      "VolNumber": 3
+    },
+    "1721314057607": {
+      "Cover": "https://ik.imagekit.io/DzManga4Up/Fuji%20no%20Yamai%20wa%20Fushi%20no%20Yamai/04_C3wKhoUEw.jpg",
+      "Dates": {
+        "CreAt": 1721314057607,
+        "PubAt": 1712188800000
+      },
+      "ID": 7621,
+      "Title": "Fuji no Yamai wa Fushi no Yamai",
+      "Type": "Manga",
+      "VolNumber": 4
     }
   }
 }
